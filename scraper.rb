@@ -2,6 +2,7 @@ require "nokogiri"
 require "httparty"
 require "byebug"
 
+require_relative "list_scraper"
 require_relative "lemma_scraper"
 
 # # Single definition
@@ -12,4 +13,6 @@ require_relative "lemma_scraper"
 # LemmaScraper.parse("https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h%E2%82%82%C3%A9nts")
 
 # Long etymology, synonims
-LemmaScraper.parse("https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h%E2%82%81%C3%A9%E1%B8%B1wos")
+# LemmaScraper.parse("https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h%E2%82%81%C3%A9%E1%B8%B1wos")
+
+ListScraper.new("https://en.wiktionary.org/wiki/Category:Proto-Indo-European_lemmas").next_link
