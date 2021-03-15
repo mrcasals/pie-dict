@@ -85,6 +85,8 @@ class LemmaScraper
       end
     end
 
+    sections << current_section
+
     sections.delete_at(0)
     @section = sections
   end
