@@ -14,12 +14,20 @@ class LemmaScraper
   end
 
   def parse
-    pp data
+    if validate_sections!
+      pp data
+    else
+      puts "Couldn't validate sections for lemma: #{lemma}"
+    end
   end
 
   private
 
   attr_reader :url
+
+  def validate_sections!
+    page_body.css("#toc ul ul li").count == sections.count
+  end
 
   def data
     {
