@@ -1,3 +1,7 @@
+require "nokogiri"
+require "httparty"
+require "byebug"
+
 require_relative "lemma_scraper"
 
 # # Single definition

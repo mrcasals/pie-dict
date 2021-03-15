@@ -1,7 +1,3 @@
-require "nokogiri"
-require "httparty"
-require "byebug"
-
 class LemmaScraper
   URL_PREFIX = "https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/"
 
