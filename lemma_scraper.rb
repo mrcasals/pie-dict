@@ -2,7 +2,7 @@ require "nokogiri"
 require "httparty"
 require "byebug"
 
-class Scraper
+class LemmaScraper
   URL_PREFIX = "https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/"
 
   def self.parse(url)
