@@ -33,7 +33,7 @@ class Scraper
   end
 
   def lemma
-    text = clean_body.css("h1.firstHeading span").text
+    text = page_body.css("h1.firstHeading span").text
     "*#{text}"
   end
 
