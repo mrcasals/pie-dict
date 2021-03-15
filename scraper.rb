@@ -14,13 +14,6 @@ class Scraper
   end
 
   def parse
-    if !valid_scraper_for_page?
-      puts "============"
-      puts "Please, find a better scraper for lemma: #{lemma}"
-      puts "============"
-      return
-    end
-
     pp data
   end
 
@@ -40,50 +33,61 @@ class Scraper
   end
 
   def lemma
-    text = body.css("h1.firstHeading span").text
+    text = clean_body.css("h1.firstHeading span").text
     "*#{text}"
   end
 
-  def etymology_header
-    @etymology_header ||= body.css("#Etymology").first.parent
-  end
-
-  def etymology_element
-    @etymology_element ||= etymology_header.next_element
-  end
-
   def etymology
-    etymology_element.text.chomp
-  end
-
-  def lemma_klass_element
-    @lemma_klass_element ||= etymology_element.next_element
+    find_section("Etymology")[:content].map(&:text)
   end
 
   def lemma_klass
-    lemma_klass_element.text.delete_suffix("[edit]").downcase
-  end
-
-  def lemma_with_markers_element
-    @lemma_with_markers_element ||= lemma_klass_element.next_element
+    klass_section[:title]
   end
 
   def markers
-    lemma_with_markers_element.css("abbr").map do |abbr|
+    klass_section[:content].first.css("abbr").map do |abbr|
       [abbr.text, abbr.attribute("title").text]
     end.to_h
   end
 
-  def definitions_list
-    @definitions_list ||= lemma_with_markers_element.next_element
+  def definitions
+    klass_section[:content].last.children.map(&:text)
   end
 
-  def definitions
-    definitions_list.css("li").map(&:text)
+  def sections
+    return @sections if @sections
+
+    last_seen_level = "h1"
+    sections = []
+    current_section = {}
+
+    clean_body.css(".mw-parser-output").first.children.each do |element|
+      next if element.name == "comment"
+      next if element.name == "table"
+      next if element.text.strip == ""
+      next if element.name == "div" && element.attributes["id"]&.value == "toc"
+
+      next if element.name == "h2"
+
+      if element.name =~ /^h/
+        # we create a new section
+        # "h1" < "h2" => true
+        sections << current_section
+        current_section = {}
+        current_section[:title] = element.css("span.mw-headline").text
+      else
+        current_section[:content] ||= []
+        current_section[:content] << element
+      end
+    end
+
+    sections.delete_at(0)
+    @section = sections
   end
 
   def topics
-    body
+    page_body
       .css("#mw-normal-catlinks ul")
       .first
       .children
@@ -91,12 +95,44 @@ class Scraper
       .map(&:text)
   end
 
-  def valid_scraper_for_page?
-    body.css("#toc a").map(&:text).join(" ").include?("1.3 References")
+  def find_section(title)
+    sections.find do |section|
+      section[:title] == title
+    end
   end
 
-  def body
-    @body ||= Nokogiri::HTML(dirty_response_body)
+  def klass_section
+    @klass_section ||= sections.find do |section|
+      list_of_classes.include? section[:title]
+    end
+  end
+
+  def list_of_classes
+    @list_of_classes ||= %w(
+      Adjective
+      Adverb
+      Conjunction
+      Determiner
+      Interjection
+      Morpheme
+      Numeral
+      Prefix
+      Infix
+      Suffix
+      Particle
+      Pronoun
+      Noun
+      Verb
+      Root
+    )
+  end
+
+  def clean_body
+    @clean_body ||= page_body.css("#mw-content-text")
+  end
+
+  def page_body
+    @page_body ||= Nokogiri::HTML(dirty_response_body)
   end
 
   def dirty_response_body
@@ -104,9 +140,12 @@ class Scraper
   end
 end
 
-# Single definition
-Scraper.parse("https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/%C7%B5%CA%B0h%E2%82%82%C3%A9ns")
-# 2 definitions in a single lemma
-Scraper.parse("https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/d%E1%B9%93m")
-# "Reconstruction" section before the definition
-Scraper.parse("https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h%E2%82%82%C3%A9nts")
+# # Single definition
+# Scraper.parse("https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/%C7%B5%CA%B0h%E2%82%82%C3%A9ns")
+# # 2 definitions in a single lemma
+# Scraper.parse("https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/d%E1%B9%93m")
+# # "Reconstruction" section before the definition
+# Scraper.parse("https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h%E2%82%82%C3%A9nts")
+
+# Long etymology, synonims
+Scraper.parse("https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h%E2%82%81%C3%A9%E1%B8%B1wos")
