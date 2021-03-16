@@ -6,14 +6,16 @@ class ListScraper
   end
 
   def elements
-    pp clean_body.css("li").map(&:text)
+    clean_body.css("li").map do |element|
+      "#{URL_PREFIX}/wiki/#{element.text}"
+    end
   end
 
-  def next_link
-    link = page_body.css("a[title='Category:Proto-Indo-European lemmas']").first
+  def next_page_url
+    link = page_body.css("a[title='Category:Proto-Indo-European lemmas']").select{|e| e.text == "next page"}.first
     return unless link
 
-    pp "#{URL_PREFIX}#{link.attributes["href"].value}"
+    "#{URL_PREFIX}#{link.attributes["href"].value}"
   end
 
   private

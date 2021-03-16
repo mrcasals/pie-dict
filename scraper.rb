@@ -15,4 +15,11 @@ require_relative "lemma_scraper"
 # Long etymology, synonims
 # LemmaScraper.parse("https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h%E2%82%81%C3%A9%E1%B8%B1wos")
 
-ListScraper.new("https://en.wiktionary.org/wiki/Category:Proto-Indo-European_lemmas").next_link
+url = "https://en.wiktionary.org/wiki/Category:Proto-Indo-European_lemmas"
+
+loop do
+  list_scraper = ListScraper.new(url)
+  p list_scraper.elements.count
+  url = list_scraper.next_page_url
+  break unless url
+end
