@@ -52,20 +52,28 @@ class LemmaScraper
   end
 
   def lemma_klass
-    klass_section[:title]
+    if klass_sections.count == 1
+      klass_sections.first[:title]
+    else
+      klass_sections.first[:title].gsub(/\d+/, "").strip
+    end
   end
 
   def markers
-    klass_section[:content].first.css("abbr").map do |abbr|
+    return if klass_sections.count > 1
+
+    klass_sections.first[:content].first.css("abbr").map do |abbr|
       [abbr.text, abbr.attribute("title").text]
     end.to_h
   end
 
   def definitions
-    klass_section[:content].last.children.map do |definition|
-      value = definition.text.chomp
-      value == "" ? nil : value
-    end.compact
+    klass_sections.map do |klass_section|
+      klass_section[:content].last.children.map do |definition|
+        value = definition.text.strip
+        value == "" ? nil : value
+      end.compact
+    end
   end
 
   def synonyms
@@ -95,7 +103,6 @@ class LemmaScraper
 
       if element.name =~ /^h/
         # we create a new section
-        # "h1" < "h2" => true
         sections << current_section
         current_section = {}
         current_section[:title] = element.css("span.mw-headline").text
@@ -126,9 +133,11 @@ class LemmaScraper
     end
   end
 
-  def klass_section
-    @klass_section ||= sections.find do |section|
-      list_of_classes.include? section[:title]
+  def klass_sections
+    @klass_section ||= sections.select do |section|
+      list_of_classes.any? do |klass_name|
+        section[:title] =~ /^#{klass_name}/
+      end
     end
   end
 
