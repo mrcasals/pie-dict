@@ -92,7 +92,8 @@ class LemmaScraper
     other_synonyms = page_body.css("span.synonym span[lang=ine-pro]")
     other_synonyms.each { |syn| list << syn.text }
 
-    list.uniq
+    list = list.uniq
+    list.empty? ? nil : list
   end
 
   def sections
