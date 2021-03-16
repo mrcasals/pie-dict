@@ -13,7 +13,7 @@ class LemmaScraper
     if validate_sections!
       data
     else
-      puts "Couldn't validate sections for lemma: #{lemma}"
+      puts "\nCouldn't validate sections for lemma: #{lemma}"
       false
     end
   end
@@ -44,7 +44,10 @@ class LemmaScraper
   end
 
   def etymology
-    find_section("Etymology")[:content].map(&:text)
+    current_section = find_section("Etymology")
+    return unless current_section
+
+    current_section[:content].map(&:text)
   end
 
   def lemma_klass
