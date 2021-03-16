@@ -21,6 +21,7 @@ require_relative "lemma_scraper"
 # =============================
 # Lemma with 2 different entries
 # pp LemmaScraper.parse("https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/seh%E2%82%81-")
+# pp LemmaScraper.parse("https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/(s)ker-")
 
 url = "https://en.wiktionary.org/wiki/Category:Proto-Indo-European_lemmas"
 
@@ -32,7 +33,7 @@ loop do
     sleep 0.2
 
     if result = LemmaScraper.parse(lemma_url)
-      File.open("lemmas/#{result[:lemma]}.json", "w") {|f| f.write(JSON.pretty_generate(result))}
+      File.open("data/#{result[:lemma]}.json", "w") {|f| f.write(JSON.pretty_generate(result))}
       print "."
     else
       errored << {
@@ -41,8 +42,6 @@ loop do
       }
     end
   rescue => e
-    byebug
-    puts lemma_url
     errored << {
       url: lemma_url,
       reason: :exception
@@ -54,6 +53,7 @@ end
 
 if errored.any?
   pp errored
+  File.open("errors.json", "w") {|f| f.write(JSON.pretty_generate(errored))}
 else
   puts ""
   puts "Yay! All parsed correctly!"
