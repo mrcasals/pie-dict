@@ -46,6 +46,7 @@ class LemmaScraper
   def etymology
     current_section = find_section("Etymology")
     return unless current_section
+    return unless current_section[:content]
 
     current_section[:content].map(&:text)
   end
