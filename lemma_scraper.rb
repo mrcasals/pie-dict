@@ -77,13 +77,20 @@ class LemmaScraper
   end
 
   def synonyms
+    list = []
     synonyms_section = find_section("Synonyms")
-    return unless synonyms_section
 
-    synonyms_section[:content].last.children.map do |definition|
-      value = definition.text.chomp
-      value == "" ? nil : value
-    end.compact
+    if synonyms_section
+      synonyms_section[:content].last.children.each do |definition|
+        value = definition.css("span[lang=ine-pro]").text.chomp
+        list << value if value != ""
+      end
+    end
+
+    other_synonyms = page_body.css("span.synonym span[lang=ine-pro]")
+    other_synonyms.each { |syn| list << syn.text }
+
+    list.uniq
   end
 
   def sections
