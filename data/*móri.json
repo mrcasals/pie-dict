@@ -1,0 +1,20 @@
+{
+  "lemma": "*móri",
+  "etymology": [
+    "From the root *mer- (“sea, lake, wetland”).\n"
+  ],
+  "klass": "Noun",
+  "markers": {
+    "n": "neuter gender"
+  },
+  "definitions": [
+    "sea",
+    "standing water"
+  ],
+  "synonyms": null,
+  "topics": [
+    "ine-pro:Seas",
+    "ine-pro:Landforms",
+    "ine-pro:Water"
+  ]
+}

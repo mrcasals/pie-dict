@@ -1,0 +1,20 @@
+{
+  "lemma": "*wĺ̥kʷos",
+  "etymology": [
+    "The word *wĺ̥kʷos is a thematic accented zero-grade noun perhaps derived from the adjective *wl̥kʷós (“dangerous”); compare Hittite 𒉿𒀠𒆪𒉿𒀸 (walkuwa-, “something negative”), Old Irish olc (“evil”), Sanskrit अवृक (avṛká, “safe”, literally “not wild”), वृकतात् (vṛká-tāt, “savagery”).[1] Stress shift onto the zero-grade is consistent with nominalized adjectives: compare Sanskrit कृष्ण (kṛ́ṣṇa, “black antelope”) from कृष्ण (kṛṣṇá, “black”). Alternatively, the word may be a derivative of the verbal root *welh₂- (“to tear up”).[2] In either case, the word's formation closely resembles that of *h₂ŕ̥tḱos (“bear”), another thematic accented zero-grade noun whose referent is an animal subject to cultural taboos.[3]\n",
+    "The Latin and Greek reflexes are unexpected (vs. expected Lat *volquus, Gk *álpos, according to the regular progression PIE *l̥ > Lat ol, Gk al). The Latin reflex is a borrowing from Osco-Umbrian (where PIE */kʷ/ regularly gave /p/), and both the Italic and Greek reflexes underwent metathesis, possibly as a taboo deformation meant to offset the fear usually associated with the animal. A deformation would explain the metathesis of */w/ and */l/, which also occurred in Greek (*wĺ̥kʷos → *lúkʷos → λύκος (lúkos)), and also explains the presence of delabialized /k/ per the boukólos rule (regardless of whether it is Proto-Indo-European already or only Proto-Greek). In both cases, the expected forms are so close to the word for “fox” – compare Latin volpēs, Ancient Greek ἀλωπός (alōpós), ἀλώπηξ (alṓpēx) – that avoiding conflation of the two words “wolf” and “fox” may have motivated either alteration or borrowing.\n",
+    "The Germanic reflex, with /f/ < */p/ < */kʷ/, underwent an unusual sound change, but the velar was retained in at least one form, i. e. Old Norse ylgr (“she-wolf”) (vs. Old English wylf, Middle High German wülpe < *wulbi) < *wulgʷī́ < *wl̥kʷíh₂s, which indicates neither taboo deformation nor derivation from some other root took place.\n",
+    "Armenian and Celtic have replaced the word with Proto-Indo-European *waylos (“howler”) due to taboo; compare Old Armenian գայլ (gayl), Middle Irish fáel.[4] (In Celtic, *kū (“hound, dog”) is also used to designate the wolf.)\n"
+  ],
+  "klass": "Noun",
+  "markers": {
+    "m": "masculine gender"
+  },
+  "definitions": [
+    "wolf"
+  ],
+  "synonyms": null,
+  "topics": [
+    "ine-pro:Canids"
+  ]
+}
