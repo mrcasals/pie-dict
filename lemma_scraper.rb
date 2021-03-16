@@ -11,9 +11,10 @@ class LemmaScraper
 
   def parse
     if validate_sections!
-      pp data
+      data
     else
       puts "Couldn't validate sections for lemma: #{lemma}"
+      false
     end
   end
 
@@ -32,6 +33,7 @@ class LemmaScraper
       klass: lemma_klass,
       markers: markers,
       definitions: definitions,
+      synonyms: synonyms,
       topics: topics
     }
   end
@@ -57,6 +59,16 @@ class LemmaScraper
 
   def definitions
     klass_section[:content].last.children.map do |definition|
+      value = definition.text.chomp
+      value == "" ? nil : value
+    end.compact
+  end
+
+  def synonyms
+    synonyms_section = find_section("Synonyms")
+    return unless synonyms_section
+
+    synonyms_section[:content].last.children.map do |definition|
       value = definition.text.chomp
       value == "" ? nil : value
     end.compact
