@@ -1,6 +1,7 @@
 require "nokogiri"
 require "httparty"
 require "byebug"
+require "json"
 
 require_relative "list_scraper"
 require_relative "lemma_scraper"
@@ -31,14 +32,21 @@ loop do
     sleep 0.2
 
     if result = LemmaScraper.parse(lemma_url)
+      File.open("lemmas/#{result[:lemma]}.json", "w") {|f| f.write(JSON.pretty_generate(result))}
       print "."
     else
-      errored << lemma_url
+      errored << {
+        url: lemma_url,
+        reason: :cant_validate
+      }
     end
   rescue => e
     byebug
     puts lemma_url
-    raise e
+    errored << {
+      url: lemma_url,
+      reason: :exception
+    }
   end
   url = list_scraper.next_page_url
   break unless url
