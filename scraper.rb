@@ -51,10 +51,12 @@ loop do
   break unless url
 end
 
+errors_file_path = "errors.json"
 if errored.any?
   pp errored
-  File.open("errors.json", "w") {|f| f.write(JSON.pretty_generate(errored))}
+  File.open(errors_file_path, "w") {|f| f.write(JSON.pretty_generate(errored))}
 else
+  File.delete(errors_file_path) if File.exist?(errors_file_path)
   puts ""
   puts "Yay! All parsed correctly!"
 end
