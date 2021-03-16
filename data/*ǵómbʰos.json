@@ -6,12 +6,14 @@
     "m": "masculine gender"
   },
   "definitions": [
-    "tooth",
-    "row of teeth",
-    "peg"
+    [
+      "tooth",
+      "row of teeth",
+      "peg"
+    ]
   ],
   "synonyms": [
-    "*h₃dónts (“tooth”)"
+    "*h₃dónts"
   ],
   "topics": [
     "ine-pro:Body parts"

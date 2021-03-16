@@ -1,16 +1,20 @@
 {
   "lemma": "*ǵʰéslom",
   "etymology": [
-    "From *ǵʰes- (“hand”) +‎ -*-lom, as if \"full hand\".\n"
+    "From *ǵʰes- (“hand”) +‎ -*-lom, as if \"full hand\"."
   ],
   "klass": "Numeral",
   "markers": {
     "n": "neuter gender"
   },
   "definitions": [
-    "thousand\nSynonym: *tuHsont-"
+    [
+      "thousand\nSynonym: *tuHsont-"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*tuHsont-"
+  ],
   "topics": [
 
   ]

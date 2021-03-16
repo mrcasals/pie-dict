@@ -5,9 +5,18 @@
   "markers": {
   },
   "definitions": [
-    "to push, to press\nSynonyms: *bʰedʰ-, *dʰen-, *gen-, *gremH-, *pres-, *(s)tewk-"
+    [
+      "to push, to press\nSynonyms: *bʰedʰ-, *dʰen-, *gen-, *gremH-, *pres-, *(s)tewk-"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*bʰedʰ-",
+    "*dʰen-",
+    "*gen-",
+    "*gremH-",
+    "*pres-",
+    "*(s)tewk-"
+  ],
   "topics": [
 
   ]

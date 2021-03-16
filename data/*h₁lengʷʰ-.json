@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "light (not heavy)"
+    [
+      "light (not heavy)"
+    ]
   ],
   "synonyms": null,
   "topics": [

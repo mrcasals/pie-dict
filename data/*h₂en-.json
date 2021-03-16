@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "on, onto"
+    [
+      "on, onto"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "stubborn",
-    "in a bad mood"
+    [
+      "stubborn",
+      "in a bad mood"
+    ]
   ],
   "synonyms": null,
   "topics": [

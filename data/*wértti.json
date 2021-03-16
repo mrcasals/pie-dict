@@ -1,13 +1,15 @@
 {
   "lemma": "*wértti",
   "etymology": [
-    "Athematic root present of the root *wert-.\n"
+    "Athematic root present of the root *wert-."
   ],
   "klass": "Verb",
   "markers": {
   },
   "definitions": [
-    "to be turning around"
+    [
+      "to be turning around"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -1,14 +1,16 @@
 {
   "lemma": "*memóne",
   "etymology": [
-    "Reduplicated perfect of the root *men-.\n"
+    "Reduplicated perfect of the root *men-."
   ],
   "klass": "Verb",
   "markers": {
   },
   "definitions": [
-    "to think, to be mindful",
-    "to remember"
+    [
+      "to think, to be mindful",
+      "to remember"
+    ]
   ],
   "synonyms": null,
   "topics": [

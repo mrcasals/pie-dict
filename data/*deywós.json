@@ -1,14 +1,16 @@
 {
   "lemma": "*deywós",
   "etymology": [
-    "Vṛddhi derivative of *dyew- (“sky, heaven”); *dyew- > *diw- (zero-grade) > *deyw- (full grade vowel reinserted in the wrong position).\n"
+    "Vṛddhi derivative of *dyew- (“sky, heaven”); *dyew- > *diw- (zero-grade) > *deyw- (full grade vowel reinserted in the wrong position)."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "god"
+    [
+      "god"
+    ]
   ],
   "synonyms": null,
   "topics": [

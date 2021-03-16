@@ -5,9 +5,11 @@
   "markers": {
   },
   "definitions": [
-    "to measure",
-    "to give advice",
-    "healing"
+    [
+      "to measure",
+      "to give advice",
+      "healing"
+    ]
   ],
   "synonyms": null,
   "topics": [

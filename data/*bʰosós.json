@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "bare, barefoot"
+    [
+      "bare, barefoot"
+    ]
   ],
   "synonyms": null,
   "topics": [

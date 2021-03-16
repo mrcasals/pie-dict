@@ -1,14 +1,16 @@
 {
   "lemma": "*suHnús",
   "etymology": [
-    "u-stem derivation from the root *sewH- (“to give birth”), thus the original meaning being \"birth, fruit of the body\". Tocharian, Greek and Armenian reflect the -yu- derivation from the same root: *suHyús.\n"
+    "u-stem derivation from the root *sewH- (“to give birth”), thus the original meaning being \"birth, fruit of the body\". Tocharian, Greek and Armenian reflect the -yu- derivation from the same root: *suHyús."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "son"
+    [
+      "son"
+    ]
   ],
   "synonyms": null,
   "topics": [

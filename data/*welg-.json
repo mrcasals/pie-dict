@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "wet, damp"
+    [
+      "wet, damp"
+    ]
   ],
   "synonyms": null,
   "topics": [

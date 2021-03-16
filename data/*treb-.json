@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "settlement, dwelling",
-    "to build, dwell"
+    [
+      "settlement, dwelling",
+      "to build, dwell"
+    ]
   ],
   "synonyms": null,
   "topics": [

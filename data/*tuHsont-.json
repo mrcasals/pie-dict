@@ -1,15 +1,19 @@
 {
   "lemma": "*tuHsont-",
   "etymology": [
-    "Possibly from *tewh₂- (“to swell”).\n"
+    "Possibly from *tewh₂- (“to swell”)."
   ],
   "klass": "Numeral",
   "markers": {
   },
   "definitions": [
-    "thousand\nSynonym: *ǵʰéslom"
+    [
+      "thousand\nSynonym: *ǵʰéslom"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*ǵʰéslom"
+  ],
   "topics": [
 
   ]

@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to find",
-    "to hold"
+    [
+      "to find",
+      "to hold"
+    ]
   ],
   "synonyms": null,
   "topics": [

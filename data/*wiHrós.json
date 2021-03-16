@@ -1,16 +1,18 @@
 {
   "lemma": "*wiHrós",
   "etymology": [
-    "According to some, *wiHrós is derived from the verb *weyh₁- (“to hunt”) (cf. Sanskrit वेति (véti), Lithuanian výti etc.), which would render the reconstruction as *wih₁rós, with *h₁ at the place of otherwise unreconstructable laryngeal *H, and the original meaning of \"hunter\".\n"
+    "According to some, *wiHrós is derived from the verb *weyh₁- (“to hunt”) (cf. Sanskrit वेति (véti), Lithuanian výti etc.), which would render the reconstruction as *wih₁rós, with *h₁ at the place of otherwise unreconstructable laryngeal *H, and the original meaning of \"hunter\"."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "man",
-    "husband",
-    "warrior, hero"
+    [
+      "man",
+      "husband",
+      "warrior, hero"
+    ]
   ],
   "synonyms": null,
   "topics": [

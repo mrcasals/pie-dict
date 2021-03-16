@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "sweat",
-    "to sweat"
+    [
+      "sweat",
+      "to sweat"
+    ]
   ],
   "synonyms": null,
   "topics": [

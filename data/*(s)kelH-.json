@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to cut",
-    "to split, to separate"
+    [
+      "to cut",
+      "to split, to separate"
+    ]
   ],
   "synonyms": null,
   "topics": [

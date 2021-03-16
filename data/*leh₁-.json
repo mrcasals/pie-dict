@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "soft, calm",
-    "lazy, slow"
+    [
+      "soft, calm",
+      "lazy, slow"
+    ]
   ],
   "synonyms": null,
   "topics": [

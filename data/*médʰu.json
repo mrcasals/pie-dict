@@ -1,17 +1,22 @@
 {
   "lemma": "*médʰu",
   "etymology": [
-    "Possibly related to Proto-Semitic *mataḳ- (“sweet”)[1], if not itself borrowed from Hittite 𒃻𒆸𒊏𒆯𒆯 (/mitgaimi/)[2].\n"
+    "Possibly related to Proto-Semitic *mataḳ- (“sweet”), if not itself borrowed from Hittite 𒃻𒆸𒊏𒆯𒆯 (/mitgaimi/)."
   ],
   "klass": "Noun",
   "markers": {
     "n": "neuter gender"
   },
   "definitions": [
-    "honey\nSynonyms: *kn̥h₂ónks, *mélit",
-    "honey wine, mead"
+    [
+      "honey\nSynonyms: *kn̥h₂ónks, *mélit",
+      "honey wine, mead"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*kn̥h₂ónks",
+    "*mélit"
+  ],
   "topics": [
     "ine-pro:Foods",
     "ine-pro:Bees",

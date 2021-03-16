@@ -1,17 +1,19 @@
 {
   "lemma": "*bʰardʰéh₂",
   "etymology": [
-    "Possibly Northern Indo-European substratum word or a late PIE regionalism with otherwise atypical/non-existent phoneme */a/.\n"
+    "Possibly Northern Indo-European substratum word or a late PIE regionalism with otherwise atypical/non-existent phoneme */a/."
   ],
   "klass": "Noun",
   "markers": {
     "f": "feminine gender"
   },
   "definitions": [
-    "beard"
+    [
+      "beard"
+    ]
   ],
   "synonyms": [
-    "*smóḱwr̥ (“chin, beard”)"
+    "*smóḱwr̥"
   ],
   "topics": [
     "ine-pro:Face",

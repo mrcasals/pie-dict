@@ -1,14 +1,16 @@
 {
   "lemma": "*h₁eh₁t-",
   "etymology": [
-    "Possibly onomatopoeic, compare *h₂enh₁- (“to breathe”).\n"
+    "Possibly onomatopoeic, compare *h₂enh₁- (“to breathe”)."
   ],
   "klass": "Root",
   "markers": {
   },
   "definitions": [
-    "to breathe",
-    "breath"
+    [
+      "to breathe",
+      "breath"
+    ]
   ],
   "synonyms": null,
   "topics": [

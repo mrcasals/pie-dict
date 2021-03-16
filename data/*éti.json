@@ -1,14 +1,16 @@
 {
   "lemma": "*éti",
   "etymology": [
-    "From *h₁é.\n"
+    "From *h₁é."
   ],
   "klass": "Adverb",
   "markers": {
   },
   "definitions": [
-    "beyond",
-    "over"
+    [
+      "beyond",
+      "over"
+    ]
   ],
   "synonyms": null,
   "topics": [

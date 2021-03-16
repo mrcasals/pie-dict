@@ -1,15 +1,17 @@
 {
   "lemma": "*spéḱs",
   "etymology": [
-    "From *speḱ- (“to see, look”) +‎ *-s.\n"
+    "From *speḱ- (“to see, look”) +‎ *-s."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "watcher",
-    "spy"
+    [
+      "watcher",
+      "spy"
+    ]
   ],
   "synonyms": null,
   "topics": [

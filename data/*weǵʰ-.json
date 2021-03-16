@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to bring",
-    "to transport"
+    [
+      "to bring",
+      "to transport"
+    ]
   ],
   "synonyms": null,
   "topics": [

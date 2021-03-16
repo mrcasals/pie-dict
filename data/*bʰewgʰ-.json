@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to bend",
-    "curve, arch"
+    [
+      "to bend",
+      "curve, arch"
+    ]
   ],
   "synonyms": null,
   "topics": [

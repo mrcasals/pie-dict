@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "sacred"
+    [
+      "sacred"
+    ]
   ],
   "synonyms": null,
   "topics": [

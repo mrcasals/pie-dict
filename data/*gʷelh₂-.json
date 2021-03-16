@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "acorn"
+    [
+      "acorn"
+    ]
   ],
   "synonyms": null,
   "topics": [

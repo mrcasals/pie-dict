@@ -1,15 +1,24 @@
 {
   "lemma": "*pres-",
   "etymology": [
-    "Possibly an extension of *per- (“to attempt, try, risk”), but this is guesswork.[1]\n"
+    "Possibly an extension of *per- (“to attempt, try, risk”), but this is guesswork."
   ],
   "klass": "Root",
   "markers": {
   },
   "definitions": [
-    "to press\nSynonyms: *bʰedʰ-, *dʰen-, *gen-, *gremH-, *(s)tewk-, *trenkʷ-"
+    [
+      "to press\nSynonyms: *bʰedʰ-, *dʰen-, *gen-, *gremH-, *(s)tewk-, *trenkʷ-"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*bʰedʰ-",
+    "*dʰen-",
+    "*gen-",
+    "*gremH-",
+    "*(s)tewk-",
+    "*trenkʷ-"
+  ],
   "topics": [
 
   ]

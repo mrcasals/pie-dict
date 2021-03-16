@@ -6,8 +6,10 @@
     "m": "masculine gender"
   },
   "definitions": [
-    "mouse, dormouse",
-    "weasel"
+    [
+      "mouse, dormouse",
+      "weasel"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "thick"
+    [
+      "thick"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "fortification, city"
+    [
+      "fortification, city"
+    ]
   ],
   "synonyms": null,
   "topics": [

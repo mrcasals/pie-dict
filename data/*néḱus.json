@@ -1,14 +1,16 @@
 {
   "lemma": "*néḱus",
   "etymology": [
-    "From *neḱ- (“to die, perish”) +‎ *-us.[1]\n"
+    "From *neḱ- (“to die, perish”) +‎ *-us."
   ],
   "klass": "Adjective",
   "markers": {
   },
   "definitions": [
-    "dead",
-    "mortal"
+    [
+      "dead",
+      "mortal"
+    ]
   ],
   "synonyms": [
     "*mr̥tós",

@@ -6,7 +6,9 @@
     "f": "feminine gender"
   },
   "definitions": [
-    "Forms nouns from verbs."
+    [
+      "Forms nouns from verbs."
+    ]
   ],
   "synonyms": null,
   "topics": [

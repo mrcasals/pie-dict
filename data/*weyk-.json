@@ -1,13 +1,26 @@
 {
   "lemma": "*weyk-",
   "etymology": [
-    "Extension of *wey- (“to separate”).\n"
+    "Extension of *wey- (“to separate”)."
   ],
   "klass": "Root",
-  "markers": {
-  },
+  "markers": null,
   "definitions": [
-    "to separate, to choose"
+    [
+      "to separate, to choose"
+    ],
+    [
+      "to contain, to envelop",
+      "to yield",
+      "to overcome"
+    ],
+    [
+      "to become equal"
+    ],
+    [
+      "to curve, bend",
+      "to exchange"
+    ]
   ],
   "synonyms": null,
   "topics": [

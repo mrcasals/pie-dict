@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "excited, inspired",
-    "possessed, raging"
+    [
+      "excited, inspired",
+      "possessed, raging"
+    ]
   ],
   "synonyms": null,
   "topics": [

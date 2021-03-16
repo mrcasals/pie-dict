@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "year",
-    "year-old"
+    [
+      "year",
+      "year-old"
+    ]
   ],
   "synonyms": null,
   "topics": [

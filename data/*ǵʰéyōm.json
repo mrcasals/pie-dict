@@ -1,18 +1,25 @@
 {
   "lemma": "*ǵʰéyōm",
   "etymology": [
-    "From *ǵʰey- (“winter”) +‎ *-ōm.\n"
+    "From *ǵʰey- (“winter”) +‎ *-ōm."
   ],
   "klass": "Noun",
   "markers": {
     "f": "feminine gender"
   },
   "definitions": [
-    "winter",
-    "year (as a measure of time)\nSynonyms: *wétos, *yóh₁r̥",
-    "frost, snow\nSynonyms: *snígʷʰs, *snóygʷʰos"
+    [
+      "winter",
+      "year (as a measure of time)\nSynonyms: *wétos, *yóh₁r̥",
+      "frost, snow\nSynonyms: *snígʷʰs, *snóygʷʰos"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*wétos",
+    "*yóh₁r̥",
+    "*snígʷʰs",
+    "*snóygʷʰos"
+  ],
   "topics": [
     "ine-pro:Winter",
     "ine-pro:Years",

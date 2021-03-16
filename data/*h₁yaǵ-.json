@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to sacrifice",
-    "to worship"
+    [
+      "to sacrifice",
+      "to worship"
+    ]
   ],
   "synonyms": null,
   "topics": [

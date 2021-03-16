@@ -1,14 +1,16 @@
 {
   "lemma": "*-tweh₂",
   "etymology": [
-    "Earlier *-tu- +‎ *-eh₂ (feminine ending).\n"
+    "Earlier *-tu- +‎ *-eh₂ (feminine ending)."
   ],
   "klass": "Suffix",
   "markers": {
     "f": "feminine gender"
   },
   "definitions": [
-    "Forms nouns from verbs"
+    [
+      "Forms nouns from verbs"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -1,14 +1,16 @@
 {
   "lemma": "*ḱléyeti",
   "etymology": [
-    "Thematic root verb of the root *ḱley- (“to lean”).\n"
+    "Thematic root verb of the root *ḱley- (“to lean”)."
   ],
   "klass": "Verb",
   "markers": {
   },
   "definitions": [
-    "to lean (on)",
-    "to cause to lean"
+    [
+      "to lean (on)",
+      "to cause to lean"
+    ]
   ],
   "synonyms": null,
   "topics": [

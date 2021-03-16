@@ -1,15 +1,17 @@
 {
   "lemma": "*péth₂r̥",
   "etymology": [
-    "From *peth₂- (“to fly”) +‎ *-r̥ (r/n-stem suffix).\n"
+    "From *peth₂- (“to fly”) +‎ *-r̥ (r/n-stem suffix)."
   ],
   "klass": "Noun",
   "markers": {
     "n": "neuter gender"
   },
   "definitions": [
-    "wing",
-    "feather"
+    [
+      "wing",
+      "feather"
+    ]
   ],
   "synonyms": null,
   "topics": [

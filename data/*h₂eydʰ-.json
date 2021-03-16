@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to ignite",
-    "fire"
+    [
+      "to ignite",
+      "fire"
+    ]
   ],
   "synonyms": null,
   "topics": [

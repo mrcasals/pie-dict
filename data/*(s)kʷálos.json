@@ -1,15 +1,17 @@
 {
   "lemma": "*(s)kʷálos",
   "etymology": [
-    "Often compared with Proto-Uralic *kala.\n"
+    "Often compared with Proto-Uralic *kala."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "large fish",
-    "sheatfish"
+    [
+      "large fish",
+      "sheatfish"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -1,14 +1,16 @@
 {
   "lemma": "*sēmi",
   "etymology": [
-    "Vṛddhi derivative of *sem- (“one”), + locative suffix *-i.\n"
+    "Vṛddhi derivative of *sem- (“one”), + locative suffix *-i."
   ],
   "klass": "Adverb",
   "markers": {
   },
   "definitions": [
-    "half",
-    "partially"
+    [
+      "half",
+      "partially"
+    ]
   ],
   "synonyms": null,
   "topics": [

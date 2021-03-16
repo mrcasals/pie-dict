@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "red"
+    [
+      "red"
+    ]
   ],
   "synonyms": null,
   "topics": [

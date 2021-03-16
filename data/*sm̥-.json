@@ -1,14 +1,16 @@
 {
   "lemma": "*sm̥-",
   "etymology": [
-    "Zero grade form of the numeral stem *sem- (“one, together”).\n"
+    "Zero grade form of the numeral stem *sem- (“one, together”)."
   ],
   "klass": "Prefix",
   "markers": {
   },
   "definitions": [
-    "one",
-    "with, together"
+    [
+      "one",
+      "with, together"
+    ]
   ],
   "synonyms": null,
   "topics": [

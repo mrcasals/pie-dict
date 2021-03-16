@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "we (more than two)"
+    [
+      "we (more than two)"
+    ]
   ],
   "synonyms": null,
   "topics": [

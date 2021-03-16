@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to sing",
-    "to cry"
+    [
+      "to sing",
+      "to cry"
+    ]
   ],
   "synonyms": null,
   "topics": [

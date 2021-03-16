@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to grow",
-    "people[4]"
+    [
+      "to grow",
+      "people"
+    ]
   ],
   "synonyms": null,
   "topics": [

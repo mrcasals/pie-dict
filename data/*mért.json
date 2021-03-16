@@ -1,13 +1,15 @@
 {
   "lemma": "*mért",
   "etymology": [
-    "Athematic root aorist of *mer-.\n"
+    "Athematic root aorist of *mer-."
   ],
   "klass": "Verb",
   "markers": {
   },
   "definitions": [
-    "to die"
+    [
+      "to die"
+    ]
   ],
   "synonyms": null,
   "topics": [

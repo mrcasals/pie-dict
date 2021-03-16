@@ -1,16 +1,21 @@
 {
   "lemma": "*wétos",
   "etymology": [
-    "From *wet- (“year”) +‎ *-os.\n"
+    "From *wet- (“year”) +‎ *-os."
   ],
   "klass": "Noun",
   "markers": {
     "n": "neuter gender"
   },
   "definitions": [
-    "year\nSynonyms: *ǵʰéyōm, *yóh₁r̥"
+    [
+      "year\nSynonyms: *ǵʰéyōm, *yóh₁r̥"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*ǵʰéyōm",
+    "*yóh₁r̥"
+  ],
   "topics": [
     "ine-pro:Years"
   ]

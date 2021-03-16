@@ -1,16 +1,20 @@
 {
   "lemma": "*bʰegʷ-",
   "etymology": [
-    "Apparently originally the same root as the synonymous *bʰewg-[1].\n"
+    "Apparently originally the same root as the synonymous *bʰewg-."
   ],
   "klass": "Root",
   "markers": {
   },
   "definitions": [
-    "to flee\nSynonym: *bʰewg-",
-    "to run"
+    [
+      "to flee\nSynonym: *bʰewg-",
+      "to run"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*bʰewg-"
+  ],
   "topics": [
 
   ]

@@ -1,14 +1,16 @@
 {
   "lemma": "*tetḱ-",
   "etymology": [
-    "Reanalyzed reduplication from *teḱ- (“to sire, beget”).\n"
+    "Reanalyzed reduplication from *teḱ- (“to sire, beget”)."
   ],
   "klass": "Root",
   "markers": {
   },
   "definitions": [
-    "to create, produce",
-    "to cut, hew"
+    [
+      "to create, produce",
+      "to cut, hew"
+    ]
   ],
   "synonyms": null,
   "topics": [

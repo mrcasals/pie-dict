@@ -5,9 +5,15 @@
   "markers": {
   },
   "definitions": [
-    "dark\nSynonyms: *h₁regʷ-, *merk-, *(s)ḱeh₃-"
+    [
+      "dark\nSynonyms: *h₁regʷ-, *merk-, *(s)ḱeh₃-"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*h₁regʷ-",
+    "*merk-",
+    "*(s)ḱeh₃-"
+  ],
   "topics": [
     "ine-pro:Light"
   ]

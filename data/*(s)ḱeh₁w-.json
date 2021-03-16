@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "cold, rainy",
-    "north"
+    [
+      "cold, rainy",
+      "north"
+    ]
   ],
   "synonyms": null,
   "topics": [

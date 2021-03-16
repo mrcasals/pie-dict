@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to be sharp",
-    "to sting"
+    [
+      "to be sharp",
+      "to sting"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -1,15 +1,19 @@
 {
   "lemma": "*swéh₂dus",
   "etymology": [
-    "From *sweh₂d- +‎ *-us.\n"
+    "From *sweh₂d- +‎ *-us."
   ],
   "klass": "Adjective",
   "markers": {
   },
   "definitions": [
-    "sweet\nSynonym: *délkus"
+    [
+      "sweet\nSynonym: *délkus"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*délkus"
+  ],
   "topics": [
 
   ]

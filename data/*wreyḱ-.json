@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to twist",
-    "to bend"
+    [
+      "to twist",
+      "to bend"
+    ]
   ],
   "synonyms": null,
   "topics": [

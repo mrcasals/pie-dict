@@ -1,17 +1,36 @@
 {
   "lemma": "*(s)tewk-",
   "etymology": [
-    "Extended from *(s)tew- (“to push, hit”).\n"
+    "Extended from *(s)tew- (“to push, hit”)."
   ],
   "klass": "Root",
   "markers": {
   },
   "definitions": [
-    "to push, press\nSynonyms: *bʰedʰ-, *dʰen-, *gen-, *gremH-, *pres-, *trenkʷ-",
-    "to strike, beat\nSynonyms: *bʰew-, *dʰen-, *kelh₂-, *kewh₂-, *kret-, *meldʰ-, *pleh₂k-, *(s)kep-",
-    "to stick into, pierce, perforate\nSynonyms: *bʰedʰ-, *dʰeygʷ-, *ḱelh₂-, *(s)teyg-"
+    [
+      "to push, press\nSynonyms: *bʰedʰ-, *dʰen-, *gen-, *gremH-, *pres-, *trenkʷ-",
+      "to strike, beat\nSynonyms: *bʰew-, *dʰen-, *kelh₂-, *kewh₂-, *kret-, *meldʰ-, *pleh₂k-, *(s)kep-",
+      "to stick into, pierce, perforate\nSynonyms: *bʰedʰ-, *dʰeygʷ-, *ḱelh₂-, *(s)teyg-"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*bʰedʰ-",
+    "*dʰen-",
+    "*gen-",
+    "*gremH-",
+    "*pres-",
+    "*trenkʷ-",
+    "*bʰew-",
+    "*kelh₂-",
+    "*kewh₂-",
+    "*kret-",
+    "*meldʰ-",
+    "*pleh₂k-",
+    "*(s)kep-",
+    "*dʰeygʷ-",
+    "*ḱelh₂-",
+    "*(s)teyg-"
+  ],
   "topics": [
 
   ]

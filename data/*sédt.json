@@ -1,13 +1,15 @@
 {
   "lemma": "*sédt",
   "etymology": [
-    "Athematic root verb of the root *sed-.\n"
+    "Athematic root verb of the root *sed-."
   ],
   "klass": "Verb",
   "markers": {
   },
   "definitions": [
-    "to sit down"
+    [
+      "to sit down"
+    ]
   ],
   "synonyms": null,
   "topics": [

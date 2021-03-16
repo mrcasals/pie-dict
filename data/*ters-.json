@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "dry"
+    [
+      "dry"
+    ]
   ],
   "synonyms": null,
   "topics": [

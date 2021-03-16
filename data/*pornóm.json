@@ -1,15 +1,17 @@
 {
   "lemma": "*pornóm",
   "etymology": [
-    "From *p(t)erH- (“fern”).\n"
+    "From *p(t)erH- (“fern”)."
   ],
   "klass": "Noun",
   "markers": {
     "n": "neuter gender"
   },
   "definitions": [
-    "feather, wing",
-    "fern, leaf"
+    [
+      "feather, wing",
+      "fern, leaf"
+    ]
   ],
   "synonyms": null,
   "topics": [

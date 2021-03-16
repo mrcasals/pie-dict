@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to walk, to step",
-    "to stumble, to fall"
+    [
+      "to walk, to step",
+      "to stumble, to fall"
+    ]
   ],
   "synonyms": null,
   "topics": [

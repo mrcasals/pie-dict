@@ -1,13 +1,15 @@
 {
   "lemma": "*bʰlewH-",
   "etymology": [
-    "Possible laryngeal extension of *bʰlew-, whence Ancient Greek φλέω (phléō, “to overflow, flood”).\n"
+    "Possible laryngeal extension of *bʰlew-, whence Ancient Greek φλέω (phléō, “to overflow, flood”)."
   ],
   "klass": "Root",
   "markers": {
   },
   "definitions": [
-    "to overflow"
+    [
+      "to overflow"
+    ]
   ],
   "synonyms": null,
   "topics": [

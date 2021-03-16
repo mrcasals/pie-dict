@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "wealth, goods"
+    [
+      "wealth, goods"
+    ]
   ],
   "synonyms": null,
   "topics": [

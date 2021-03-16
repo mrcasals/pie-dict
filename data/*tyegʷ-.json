@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to leave alone, give up",
-    "to retreat"
+    [
+      "to leave alone, give up",
+      "to retreat"
+    ]
   ],
   "synonyms": null,
   "topics": [

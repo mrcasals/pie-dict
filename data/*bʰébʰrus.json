@@ -1,14 +1,16 @@
 {
   "lemma": "*bʰébʰrus",
   "etymology": [
-    "Possibly from *bʰerH- (“brown”).\n"
+    "Possibly from *bʰerH- (“brown”)."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "beaver"
+    [
+      "beaver"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "heavy"
+    [
+      "heavy"
+    ]
   ],
   "synonyms": null,
   "topics": [

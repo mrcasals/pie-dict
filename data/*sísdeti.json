@@ -1,13 +1,15 @@
 {
   "lemma": "*sísdeti",
   "etymology": [
-    "Thematic i-reduplicated verb of the root *sed-.\n"
+    "Thematic i-reduplicated verb of the root *sed-."
   ],
   "klass": "Verb",
   "markers": {
   },
   "definitions": [
-    "to be sitting down"
+    [
+      "to be sitting down"
+    ]
   ],
   "synonyms": null,
   "topics": [

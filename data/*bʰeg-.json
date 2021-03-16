@@ -5,9 +5,17 @@
   "markers": {
   },
   "definitions": [
-    "to break\nSynonyms: *bʰreg-, *Hrewp-, *kelh₂-, *lem-, *lewǵ-"
+    [
+      "to break\nSynonyms: *bʰreg-, *Hrewp-, *kelh₂-, *lem-, *lewǵ-"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*bʰreg-",
+    "*Hrewp-",
+    "*kelh₂-",
+    "*lem-",
+    "*lewǵ-"
+  ],
   "topics": [
 
   ]

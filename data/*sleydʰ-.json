@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to slip, slide",
-    "to be slippery, slick"
+    [
+      "to slip, slide",
+      "to be slippery, slick"
+    ]
   ],
   "synonyms": null,
   "topics": [

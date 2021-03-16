@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to be lying down",
-    "to settle"
+    [
+      "to be lying down",
+      "to settle"
+    ]
   ],
   "synonyms": null,
   "topics": [

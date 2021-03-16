@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to burn",
-    "to shine"
+    [
+      "to burn",
+      "to shine"
+    ]
   ],
   "synonyms": null,
   "topics": [

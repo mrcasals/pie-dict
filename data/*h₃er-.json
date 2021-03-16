@@ -5,9 +5,11 @@
   "markers": {
   },
   "definitions": [
-    "to move, to stir",
-    "to rise, to spring",
-    "to quarrel, fight"
+    [
+      "to move, to stir",
+      "to rise, to spring",
+      "to quarrel, fight"
+    ]
   ],
   "synonyms": null,
   "topics": [

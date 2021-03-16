@@ -1,16 +1,21 @@
 {
   "lemma": "*snóygʷʰos",
   "etymology": [
-    "From *sneygʷʰ- +‎ *-os (“thematic performance/action noun”). Compare the root noun *snígʷʰs.\n"
+    "From *sneygʷʰ- +‎ *-os (“thematic performance/action noun”). Compare the root noun *snígʷʰs."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "snow\nSynonyms: *ǵʰéyōm (also “winter”), *snígʷʰs"
+    [
+      "snow\nSynonyms: *ǵʰéyōm (also “winter”), *snígʷʰs"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*ǵʰéyōm",
+    "*snígʷʰs"
+  ],
   "topics": [
     "ine-pro:Atmospheric phenomena",
     "ine-pro:Winter"

@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "two"
+    [
+      "two"
+    ]
   ],
   "synonyms": null,
   "topics": [

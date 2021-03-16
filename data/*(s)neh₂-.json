@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to swim",
-    "to float"
+    [
+      "to swim",
+      "to float"
+    ]
   ],
   "synonyms": null,
   "topics": [

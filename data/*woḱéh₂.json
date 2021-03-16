@@ -6,7 +6,9 @@
     "f": "feminine gender"
   },
   "definitions": [
-    "(female) cow"
+    [
+      "(female) cow"
+    ]
   ],
   "synonyms": null,
   "topics": [

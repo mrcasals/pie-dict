@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to twist, wind, weave, plait",
-    "to wrap, enclose, cover"
+    [
+      "to twist, wind, weave, plait",
+      "to wrap, enclose, cover"
+    ]
   ],
   "synonyms": null,
   "topics": [

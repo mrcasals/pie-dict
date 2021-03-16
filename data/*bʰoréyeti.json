@@ -1,14 +1,16 @@
 {
   "lemma": "*bʰoréyeti",
   "etymology": [
-    "From *bʰer- (“carry”) +‎ *-éyeti (iterative suffix).\n"
+    "From *bʰer- (“carry”) +‎ *-éyeti (iterative suffix)."
   ],
   "klass": "Verb",
   "markers": {
   },
   "definitions": [
-    "to be carrying around",
-    "to cause to carry"
+    [
+      "to be carrying around",
+      "to cause to carry"
+    ]
   ],
   "synonyms": null,
   "topics": [

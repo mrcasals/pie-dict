@@ -1,14 +1,16 @@
 {
   "lemma": "*péḱu",
   "etymology": [
-    "*u-stem of *peḱ- (“livestock”).\n"
+    "*u-stem of *peḱ- (“livestock”)."
   ],
   "klass": "Noun",
   "markers": {
     "n": "neuter gender"
   },
   "definitions": [
-    "livestock"
+    [
+      "livestock"
+    ]
   ],
   "synonyms": null,
   "topics": [

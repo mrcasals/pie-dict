@@ -1,15 +1,17 @@
 {
   "lemma": "*h₃reyH-",
   "etymology": [
-    "Extended from *h₃er- (“to move, stir”).\n"
+    "Extended from *h₃er- (“to move, stir”)."
   ],
   "klass": "Root",
   "markers": {
   },
   "definitions": [
-    "to move, set in motion",
-    "to flow, stream (of water); to pour, rain",
-    "to boil, churn"
+    [
+      "to move, set in motion",
+      "to flow, stream (of water); to pour, rain",
+      "to boil, churn"
+    ]
   ],
   "synonyms": null,
   "topics": [

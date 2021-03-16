@@ -1,13 +1,15 @@
 {
   "lemma": "*-iHnos",
   "etymology": [
-    "From *-nós.\n"
+    "From *-nós."
   ],
   "klass": "Suffix",
   "markers": {
   },
   "definitions": [
-    "Creates adjectives of materials."
+    [
+      "Creates adjectives of materials."
+    ]
   ],
   "synonyms": null,
   "topics": [

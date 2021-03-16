@@ -1,15 +1,17 @@
 {
   "lemma": "*pótis",
   "etymology": [
-    "Derksen: it's often assumed that the meaning \"lord, husband\" derived from an even older meaning \"self\", as found in Lithuanian pàts (“self”).\n"
+    "Derksen: it's often assumed that the meaning \"lord, husband\" derived from an even older meaning \"self\", as found in Lithuanian pàts (“self”)."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "master, ruler",
-    "husband"
+    [
+      "master, ruler",
+      "husband"
+    ]
   ],
   "synonyms": null,
   "topics": [

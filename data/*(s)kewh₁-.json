@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to perceive",
-    "to observe"
+    [
+      "to perceive",
+      "to observe"
+    ]
   ],
   "synonyms": null,
   "topics": [

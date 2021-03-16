@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "Creates transitive imperfective verbs from roots."
+    [
+      "Creates transitive imperfective verbs from roots."
+    ]
   ],
   "synonyms": null,
   "topics": [

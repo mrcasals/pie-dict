@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to work, toil, make",
-    "ability, force"
+    [
+      "to work, toil, make",
+      "ability, force"
+    ]
   ],
   "synonyms": null,
   "topics": [

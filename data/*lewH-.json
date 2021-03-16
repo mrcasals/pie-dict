@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "louse"
+    [
+      "louse"
+    ]
   ],
   "synonyms": null,
   "topics": [

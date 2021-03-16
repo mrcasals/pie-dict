@@ -2,12 +2,18 @@
   "lemma": "*bʰewg-",
   "etymology": null,
   "klass": "Root",
-  "markers": {
-  },
+  "markers": null,
   "definitions": [
-    "to flee\nSynonym: *bʰegʷ-"
+    [
+      "to flee\nSynonym: *bʰegʷ-"
+    ],
+    [
+      "to enjoy, benefit"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*bʰegʷ-"
+  ],
   "topics": [
 
   ]

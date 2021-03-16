@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "small",
-    "little"
+    [
+      "small",
+      "little"
+    ]
   ],
   "synonyms": null,
   "topics": [

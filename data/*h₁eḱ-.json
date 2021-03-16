@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "horse",
-    "swift?"
+    [
+      "horse",
+      "swift?"
+    ]
   ],
   "synonyms": null,
   "topics": [

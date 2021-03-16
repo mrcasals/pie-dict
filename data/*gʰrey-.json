@@ -1,15 +1,17 @@
 {
   "lemma": "*gʰrey-",
   "etymology": [
-    "Extended from *gʰer- (“to rub”).\n"
+    "Extended from *gʰer- (“to rub”)."
   ],
   "klass": "Root",
   "markers": {
   },
   "definitions": [
-    "to smear",
-    "to paint",
-    "to streak"
+    [
+      "to smear",
+      "to paint",
+      "to streak"
+    ]
   ],
   "synonyms": null,
   "topics": [

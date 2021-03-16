@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "sour, acidic, salty"
+    [
+      "sour, acidic, salty"
+    ]
   ],
   "synonyms": null,
   "topics": [

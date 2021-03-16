@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "top, tip, point"
+    [
+      "top, tip, point"
+    ]
   ],
   "synonyms": null,
   "topics": [

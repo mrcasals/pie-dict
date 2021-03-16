@@ -1,15 +1,17 @@
 {
   "lemma": "*tónos",
   "etymology": [
-    "From *ten- (“stretch, extend”) +‎ *-os.\n"
+    "From *ten- (“stretch, extend”) +‎ *-os."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "something stretched",
-    "chord, fiber, string"
+    [
+      "something stretched",
+      "chord, fiber, string"
+    ]
   ],
   "synonyms": null,
   "topics": [

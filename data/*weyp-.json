@@ -5,9 +5,11 @@
   "markers": {
   },
   "definitions": [
-    "to shake, tremble, agitate",
-    "to swing, sway",
-    "to turn, wind, rotate, wrap (around)"
+    [
+      "to shake, tremble, agitate",
+      "to swing, sway",
+      "to turn, wind, rotate, wrap (around)"
+    ]
   ],
   "synonyms": null,
   "topics": [

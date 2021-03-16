@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to wish",
-    "to request"
+    [
+      "to wish",
+      "to request"
+    ]
   ],
   "synonyms": null,
   "topics": [

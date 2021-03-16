@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to choose",
-    "to want"
+    [
+      "to choose",
+      "to want"
+    ]
   ],
   "synonyms": null,
   "topics": [

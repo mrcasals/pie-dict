@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "hand",
-    "take, give in exchange"
+    [
+      "hand",
+      "take, give in exchange"
+    ]
   ],
   "synonyms": null,
   "topics": [

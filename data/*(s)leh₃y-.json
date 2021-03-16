@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "blueish"
+    [
+      "blueish"
+    ]
   ],
   "synonyms": null,
   "topics": [

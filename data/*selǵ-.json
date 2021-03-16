@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "to let go, send[1]"
+    [
+      "to let go, send"
+    ]
   ],
   "synonyms": null,
   "topics": [

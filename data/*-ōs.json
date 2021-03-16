@@ -1,7 +1,7 @@
 {
   "lemma": "*-ōs",
   "etymology": [
-    "From *-oss, with simplification of the geminate consonants and compensatory lengthening, from neuter s-stem *-os with nominative *-s.\n"
+    "From *-oss, with simplification of the geminate consonants and compensatory lengthening, from neuter s-stem *-os with nominative *-s."
   ],
   "klass": "Suffix",
   "markers": {
@@ -9,7 +9,9 @@
     "f": "feminine gender"
   },
   "definitions": [
-    "Creates masculine and feminine action nouns or result nouns from verbs."
+    [
+      "Creates masculine and feminine action nouns or result nouns from verbs."
+    ]
   ],
   "synonyms": null,
   "topics": [

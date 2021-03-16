@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "hatred, angriness"
+    [
+      "hatred, angriness"
+    ]
   ],
   "synonyms": null,
   "topics": [

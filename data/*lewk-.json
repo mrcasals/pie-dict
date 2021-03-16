@@ -5,9 +5,11 @@
   "markers": {
   },
   "definitions": [
-    "bright",
-    "to shine",
-    "to see"
+    [
+      "bright",
+      "to shine",
+      "to see"
+    ]
   ],
   "synonyms": null,
   "topics": [

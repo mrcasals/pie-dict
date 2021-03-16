@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to help, to assist",
-    "to protect"
+    [
+      "to help, to assist",
+      "to protect"
+    ]
   ],
   "synonyms": null,
   "topics": [

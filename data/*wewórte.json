@@ -1,13 +1,15 @@
 {
   "lemma": "*wewórte",
   "etymology": [
-    "Reduplicated stative of the root *wert-.\n"
+    "Reduplicated stative of the root *wert-."
   ],
   "klass": "Verb",
   "markers": {
   },
   "definitions": [
-    "to be turned towards"
+    [
+      "to be turned towards"
+    ]
   ],
   "synonyms": null,
   "topics": [

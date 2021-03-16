@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "lively, awake",
-    "strong"
+    [
+      "lively, awake",
+      "strong"
+    ]
   ],
   "synonyms": null,
   "topics": [

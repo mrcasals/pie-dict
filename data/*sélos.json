@@ -1,14 +1,16 @@
 {
   "lemma": "*sélos",
   "etymology": [
-    "From a late, southern dialectal variant that is found only in East Indo-European languages, namely the Armenian, Greek and Indo-Iranian branches.\n"
+    "From a late, southern dialectal variant that is found only in East Indo-European languages, namely the Armenian, Greek and Indo-Iranian branches."
   ],
   "klass": "Noun",
   "markers": {
     "n": "neuter gender"
   },
   "definitions": [
-    "marsh"
+    [
+      "marsh"
+    ]
   ],
   "synonyms": null,
   "topics": [

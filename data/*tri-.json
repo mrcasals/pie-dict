@@ -1,13 +1,15 @@
 {
   "lemma": "*tri-",
   "etymology": [
-    "Zero grade form of *tréyes (“three”).\n"
+    "Zero grade form of *tréyes (“three”)."
   ],
   "klass": "Prefix",
   "markers": {
   },
   "definitions": [
-    "three, threefold"
+    [
+      "three, threefold"
+    ]
   ],
   "synonyms": null,
   "topics": [

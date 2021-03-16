@@ -1,13 +1,15 @@
 {
   "lemma": "*péth₂eti",
   "etymology": [
-    "From *peth₂- (“to fly”).\n"
+    "From *peth₂- (“to fly”)."
   ],
   "klass": "Verb",
   "markers": {
   },
   "definitions": [
-    "to fly"
+    [
+      "to fly"
+    ]
   ],
   "synonyms": null,
   "topics": [

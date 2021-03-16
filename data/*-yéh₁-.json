@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "Forms the optative mood of verbs."
+    [
+      "Forms the optative mood of verbs."
+    ]
   ],
   "synonyms": null,
   "topics": [

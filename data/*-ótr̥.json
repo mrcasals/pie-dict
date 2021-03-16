@@ -1,14 +1,16 @@
 {
   "lemma": "*-ótr̥",
   "etymology": [
-    "Probably related to *-tr̥.\n"
+    "Probably related to *-tr̥."
   ],
   "klass": "Suffix",
   "markers": {
     "n": "neuter gender"
   },
   "definitions": [
-    "Derives action nouns from verbal stems."
+    [
+      "Derives action nouns from verbal stems."
+    ]
   ],
   "synonyms": null,
   "topics": [

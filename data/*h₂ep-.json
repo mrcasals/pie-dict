@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "water, body of water"
+    [
+      "water, body of water"
+    ]
   ],
   "synonyms": null,
   "topics": [

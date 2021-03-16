@@ -5,9 +5,11 @@
   "markers": {
   },
   "definitions": [
-    "vivacious",
-    "wisdom",
-    "to pay attention to"
+    [
+      "vivacious",
+      "wisdom",
+      "to pay attention to"
+    ]
   ],
   "synonyms": null,
   "topics": [

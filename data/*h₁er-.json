@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "earth"
+    [
+      "earth"
+    ]
   ],
   "synonyms": null,
   "topics": [

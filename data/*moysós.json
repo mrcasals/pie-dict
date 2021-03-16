@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "ram, sheep",
-    "fleece, skin"
+    [
+      "ram, sheep",
+      "fleece, skin"
+    ]
   ],
   "synonyms": null,
   "topics": [

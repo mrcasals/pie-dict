@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "to return home (safely)"
+    [
+      "to return home (safely)"
+    ]
   ],
   "synonyms": null,
   "topics": [

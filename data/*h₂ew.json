@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "away from, off",
-    "again"
+    [
+      "away from, off",
+      "again"
+    ]
   ],
   "synonyms": null,
   "topics": [

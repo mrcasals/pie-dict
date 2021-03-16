@@ -1,14 +1,16 @@
 {
   "lemma": "*pértus",
   "etymology": [
-    "From *per- (“to penetrate; to cross (water)”) +‎ *-tus.\n"
+    "From *per- (“to penetrate; to cross (water)”) +‎ *-tus."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "crossing"
+    [
+      "crossing"
+    ]
   ],
   "synonyms": null,
   "topics": [

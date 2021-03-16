@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to walk",
-    "to step"
+    [
+      "to walk",
+      "to step"
+    ]
   ],
   "synonyms": null,
   "topics": [

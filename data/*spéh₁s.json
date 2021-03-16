@@ -1,14 +1,16 @@
 {
   "lemma": "*spéh₁s",
   "etymology": [
-    "From the root *speh₁- (“to succeed, to prosper”).\n"
+    "From the root *speh₁- (“to succeed, to prosper”)."
   ],
   "klass": "Noun",
   "markers": {
     "f": "feminine gender"
   },
   "definitions": [
-    "prosperity, success"
+    [
+      "prosperity, success"
+    ]
   ],
   "synonyms": null,
   "topics": [

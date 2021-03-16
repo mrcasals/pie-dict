@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to elevate",
-    "height"
+    [
+      "to elevate",
+      "height"
+    ]
   ],
   "synonyms": null,
   "topics": [

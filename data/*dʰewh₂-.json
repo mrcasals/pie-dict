@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "smoke",
-    "mist, haze"
+    [
+      "smoke",
+      "mist, haze"
+    ]
   ],
   "synonyms": null,
   "topics": [

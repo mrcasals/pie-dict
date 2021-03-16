@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "left, left-hand"
+    [
+      "left, left-hand"
+    ]
   ],
   "synonyms": null,
   "topics": [

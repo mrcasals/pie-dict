@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "Derives adjectives, nouns indicating possession, denoting burden, authority."
+    [
+      "Derives adjectives, nouns indicating possession, denoting burden, authority."
+    ]
   ],
   "synonyms": null,
   "topics": [

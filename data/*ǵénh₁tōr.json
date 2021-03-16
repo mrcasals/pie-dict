@@ -1,15 +1,17 @@
 {
   "lemma": "*ǵénh₁tōr",
   "etymology": [
-    "From *ǵenh₁- (“to produce, to give birth”) +‎ *-tōr (agent noun).\n"
+    "From *ǵenh₁- (“to produce, to give birth”) +‎ *-tōr (agent noun)."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "one who begets, produces",
-    "parent"
+    [
+      "one who begets, produces",
+      "parent"
+    ]
   ],
   "synonyms": null,
   "topics": [

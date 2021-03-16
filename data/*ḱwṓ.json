@@ -1,14 +1,16 @@
 {
   "lemma": "*ḱwṓ",
   "etymology": [
-    "From pre-Indo-European *ḱwóns. Hamp has suggested derivation from *péḱu.[1] Perhaps related to Proto-Sino-Tibetan *d-kʷəj-n (“dog”), which would make English hound a very distant cognate of Chinese 犬 (quǎn). Perhaps also related to Proto-Northeast Caucasian *χːHwеje (“dog”).\n"
+    "From pre-Indo-European *ḱwóns. Hamp has suggested derivation from *péḱu. Perhaps related to Proto-Sino-Tibetan *d-kʷəj-n (“dog”), which would make English hound a very distant cognate of Chinese 犬 (quǎn). Perhaps also related to Proto-Northeast Caucasian *χːHwеje (“dog”)."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "dog"
+    [
+      "dog"
+    ]
   ],
   "synonyms": null,
   "topics": [

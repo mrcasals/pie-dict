@@ -1,14 +1,16 @@
 {
   "lemma": "*bʰugéh₂",
   "etymology": [
-    "From *bʰewg- (“to flee, to escape”).\n"
+    "From *bʰewg- (“to flee, to escape”)."
   ],
   "klass": "Noun",
   "markers": {
     "f": "feminine gender"
   },
   "definitions": [
-    "flight, escape"
+    [
+      "flight, escape"
+    ]
   ],
   "synonyms": null,
   "topics": [

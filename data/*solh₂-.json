@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "whole"
+    [
+      "whole"
+    ]
   ],
   "synonyms": null,
   "topics": [

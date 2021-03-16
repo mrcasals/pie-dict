@@ -5,9 +5,13 @@
   "markers": {
   },
   "definitions": [
-    "ice, frost\nSynonym: *h₁eyg-"
+    [
+      "ice, frost\nSynonym: *h₁eyg-"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*h₁eyg-"
+  ],
   "topics": [
     "ine-pro:Atmospheric phenomena",
     "ine-pro:Water"

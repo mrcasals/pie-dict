@@ -1,15 +1,17 @@
 {
   "lemma": "*ménos",
   "etymology": [
-    "From *men- (“think, mind”) +‎ *-os.\n"
+    "From *men- (“think, mind”) +‎ *-os."
   ],
   "klass": "Noun",
   "markers": {
     "n": "neuter gender"
   },
   "definitions": [
-    "mind",
-    "thought"
+    [
+      "mind",
+      "thought"
+    ]
   ],
   "synonyms": null,
   "topics": [

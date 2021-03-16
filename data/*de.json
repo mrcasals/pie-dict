@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "Emphatic or contrastive particle, and, but[2]",
-    "Postpositive demonstrative particle, towards"
+    [
+      "Emphatic or contrastive particle, and, but",
+      "Postpositive demonstrative particle, towards"
+    ]
   ],
   "synonyms": null,
   "topics": [

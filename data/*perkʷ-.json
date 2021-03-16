@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "oak"
+    [
+      "oak"
+    ]
   ],
   "synonyms": null,
   "topics": [

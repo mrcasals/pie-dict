@@ -1,15 +1,19 @@
 {
   "lemma": "*délkus",
   "etymology": [
-    "From *delk- +‎ *-us.\n"
+    "From *delk- +‎ *-us."
   ],
   "klass": "Adjective",
   "markers": {
   },
   "definitions": [
-    "sweet\nSynonym: *swéh₂dus"
+    [
+      "sweet\nSynonym: *swéh₂dus"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*swéh₂dus"
+  ],
   "topics": [
 
   ]

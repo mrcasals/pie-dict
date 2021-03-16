@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "Creates verbal adjectives from roots."
+    [
+      "Creates verbal adjectives from roots."
+    ]
   ],
   "synonyms": [
     "*-tós"

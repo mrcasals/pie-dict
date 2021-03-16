@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to be hot",
-    "to burn"
+    [
+      "to be hot",
+      "to burn"
+    ]
   ],
   "synonyms": null,
   "topics": [

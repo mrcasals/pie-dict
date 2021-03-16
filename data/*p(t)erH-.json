@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "fern"
+    [
+      "fern"
+    ]
   ],
   "synonyms": null,
   "topics": [

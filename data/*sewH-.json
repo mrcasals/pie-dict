@@ -1,14 +1,16 @@
 {
   "lemma": "*sewH-",
   "etymology": [
-    "Perhaps an extension of *sew- (“to pour; squeeze”).\n"
+    "Perhaps an extension of *sew- (“to pour; squeeze”)."
   ],
   "klass": "Root",
   "markers": {
   },
   "definitions": [
-    "to bear (a child)",
-    "to give birth"
+    [
+      "to bear (a child)",
+      "to give birth"
+    ]
   ],
   "synonyms": null,
   "topics": [

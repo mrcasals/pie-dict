@@ -5,9 +5,11 @@
   "markers": {
   },
   "definitions": [
-    "to join",
-    "to unite",
-    "to suit"
+    [
+      "to join",
+      "to unite",
+      "to suit"
+    ]
   ],
   "synonyms": null,
   "topics": [

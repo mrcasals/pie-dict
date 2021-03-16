@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "brain"
+    [
+      "brain"
+    ]
   ],
   "synonyms": null,
   "topics": [

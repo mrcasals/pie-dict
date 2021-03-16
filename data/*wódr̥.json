@@ -1,14 +1,16 @@
 {
   "lemma": "*wódr̥",
   "etymology": [
-    "From *wed- (“water”) +‎ *-r̥ (r/n-stem suffix).\n"
+    "From *wed- (“water”) +‎ *-r̥ (r/n-stem suffix)."
   ],
   "klass": "Noun",
   "markers": {
     "n": "neuter gender"
   },
   "definitions": [
-    "water"
+    [
+      "water"
+    ]
   ],
   "synonyms": null,
   "topics": [

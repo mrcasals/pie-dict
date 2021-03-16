@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "ash tree"
+    [
+      "ash tree"
+    ]
   ],
   "synonyms": null,
   "topics": [

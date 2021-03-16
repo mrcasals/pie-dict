@@ -1,14 +1,16 @@
 {
   "lemma": "*nisdós",
   "etymology": [
-    "From *h₁ni (“down”), from *h₁én, + *sed- (“sit”) + *-ós. Literally \"where [the bird] sits down\".\n"
+    "From *h₁ni (“down”), from *h₁én, + *sed- (“sit”) + *-ós. Literally \"where [the bird] sits down\"."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "nest"
+    [
+      "nest"
+    ]
   ],
   "synonyms": null,
   "topics": [

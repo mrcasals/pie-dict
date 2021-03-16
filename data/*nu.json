@@ -5,9 +5,11 @@
   "markers": {
   },
   "definitions": [
-    "now",
-    "well (as an interjection)",
-    "and"
+    [
+      "now",
+      "well (as an interjection)",
+      "and"
+    ]
   ],
   "synonyms": null,
   "topics": [

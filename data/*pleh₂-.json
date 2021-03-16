@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "flat"
+    [
+      "flat"
+    ]
   ],
   "synonyms": [
     "*pleth₂-"

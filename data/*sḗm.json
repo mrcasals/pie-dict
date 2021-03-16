@@ -1,15 +1,19 @@
 {
   "lemma": "*sḗm",
   "etymology": [
-    "From *sem- (“one”).\n"
+    "From *sem- (“one”)."
   ],
   "klass": "Numeral",
   "markers": {
   },
   "definitions": [
-    "one\nSynonym: *óynos"
+    [
+      "one\nSynonym: *óynos"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*óynos"
+  ],
   "topics": [
 
   ]

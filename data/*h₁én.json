@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "in"
+    [
+      "in"
+    ]
   ],
   "synonyms": null,
   "topics": [

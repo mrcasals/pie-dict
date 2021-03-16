@@ -5,9 +5,11 @@
   "markers": {
   },
   "definitions": [
-    "to smoke, to steam",
-    "to boil",
-    "aroma, strong odor"
+    [
+      "to smoke, to steam",
+      "to boil",
+      "aroma, strong odor"
+    ]
   ],
   "synonyms": null,
   "topics": [

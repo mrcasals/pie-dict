@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "upwards, away, out, outward"
+    [
+      "upwards, away, out, outward"
+    ]
   ],
   "synonyms": null,
   "topics": [

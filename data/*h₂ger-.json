@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to gather",
-    "flock, herd"
+    [
+      "to gather",
+      "flock, herd"
+    ]
   ],
   "synonyms": null,
   "topics": [

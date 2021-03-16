@@ -1,13 +1,15 @@
 {
   "lemma": "*-wōs",
   "etymology": [
-    "For **-woss (stem + nominative *-s). It was added to the zero-grade form of the perfect stem of a verb.\n"
+    "For **-woss (stem + nominative *-s). It was added to the zero-grade form of the perfect stem of a verb."
   ],
   "klass": "Suffix",
   "markers": {
   },
   "definitions": [
-    "Forms perfect participles from verbs."
+    [
+      "Forms perfect participles from verbs."
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -1,15 +1,17 @@
 {
   "lemma": "*mḗh₁n̥s",
   "etymology": [
-    "From earlier *méh₁n̥ss, probably from *meh₁- (“to measure”).\n"
+    "From earlier *méh₁n̥ss, probably from *meh₁- (“to measure”)."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "moon",
-    "month"
+    [
+      "moon",
+      "month"
+    ]
   ],
   "synonyms": null,
   "topics": [

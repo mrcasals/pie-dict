@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to moisten",
-    "to filter"
+    [
+      "to moisten",
+      "to filter"
+    ]
   ],
   "synonyms": null,
   "topics": [

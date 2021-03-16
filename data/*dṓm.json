@@ -1,15 +1,17 @@
 {
   "lemma": "*dṓm",
   "etymology": [
-    "From *dem- (“to build”).\n"
+    "From *dem- (“to build”)."
   ],
   "klass": "Noun",
   "markers": {
     "f": "feminine gender"
   },
   "definitions": [
-    "home",
-    "house"
+    [
+      "home",
+      "house"
+    ]
   ],
   "synonyms": null,
   "topics": [

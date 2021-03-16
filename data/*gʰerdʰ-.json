@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to enclose, to encircle",
-    "enclosure, fence, belt"
+    [
+      "to enclose, to encircle",
+      "enclosure, fence, belt"
+    ]
   ],
   "synonyms": null,
   "topics": [

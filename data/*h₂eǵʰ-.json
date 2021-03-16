@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "cow"
+    [
+      "cow"
+    ]
   ],
   "synonyms": null,
   "topics": [

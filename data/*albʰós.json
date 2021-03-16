@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "white"
+    [
+      "white"
+    ]
   ],
   "synonyms": null,
   "topics": [

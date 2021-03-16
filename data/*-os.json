@@ -2,11 +2,14 @@
   "lemma": "*-os",
   "etymology": null,
   "klass": "Suffix",
-  "markers": {
-    "n": "neuter gender"
-  },
+  "markers": null,
   "definitions": [
-    "Creates action nouns or result nouns from verbs."
+    [
+      "Creates action nouns or result nouns from verbs."
+    ],
+    [
+      "Creates nouns from verb stems denoting the performance or result of that verb."
+    ]
   ],
   "synonyms": null,
   "topics": [

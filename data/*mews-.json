@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "moss"
+    [
+      "moss"
+    ]
   ],
   "synonyms": null,
   "topics": [

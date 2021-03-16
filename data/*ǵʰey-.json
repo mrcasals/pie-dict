@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "winter"
+    [
+      "winter"
+    ]
   ],
   "synonyms": null,
   "topics": [

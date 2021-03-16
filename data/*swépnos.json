@@ -1,16 +1,20 @@
 {
   "lemma": "*swépnos",
   "etymology": [
-    "From *swep- (“to sleep”) +‎ *-nós.\n"
+    "From *swep- (“to sleep”) +‎ *-nós."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "sleep, slumber\nSynonym: *supnós"
+    [
+      "sleep, slumber\nSynonym: *supnós"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*supnós"
+  ],
   "topics": [
     "ine-pro:Sleep"
   ]

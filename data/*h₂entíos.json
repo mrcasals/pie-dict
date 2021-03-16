@@ -1,15 +1,17 @@
 {
   "lemma": "*h₂entíos",
   "etymology": [
-    "From *h₂ent-.\n"
+    "From *h₂ent-."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "front",
-    "forehead"
+    [
+      "front",
+      "forehead"
+    ]
   ],
   "synonyms": null,
   "topics": [

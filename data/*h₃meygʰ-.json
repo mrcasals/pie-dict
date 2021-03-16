@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "fog, mist, cloud",
-    "to drizzle"
+    [
+      "fog, mist, cloud",
+      "to drizzle"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -1,15 +1,17 @@
 {
   "lemma": "*waylos",
   "etymology": [
-    "The word is usually explained as ‘the howler’ and derived from *wáy. Armenian and Celtic replaced the usual Proto-Indo-European *wĺ̥kʷos (“wolf”) due to taboo.[1]\n"
+    "The word is usually explained as ‘the howler’ and derived from *wáy. Armenian and Celtic replaced the usual Proto-Indo-European *wĺ̥kʷos (“wolf”) due to taboo."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "wolf",
-    "howler"
+    [
+      "wolf",
+      "howler"
+    ]
   ],
   "synonyms": null,
   "topics": [

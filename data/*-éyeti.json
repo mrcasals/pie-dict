@@ -1,14 +1,16 @@
 {
   "lemma": "*-éyeti",
   "etymology": [
-    "From *-yeti.\n"
+    "From *-yeti."
   ],
   "klass": "Suffix",
   "markers": {
   },
   "definitions": [
-    "Forms causative imperfective verbs from roots.",
-    "Forms iterative or frequentative imperfective verbs from roots."
+    [
+      "Forms causative imperfective verbs from roots.",
+      "Forms iterative or frequentative imperfective verbs from roots."
+    ]
   ],
   "synonyms": null,
   "topics": [

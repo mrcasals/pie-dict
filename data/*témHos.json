@@ -1,16 +1,21 @@
 {
   "lemma": "*témHos",
   "etymology": [
-    "*temH- (“to be dark”) +‎ *-os\n"
+    "*temH- (“to be dark”) +‎ *-os"
   ],
   "klass": "Noun",
   "markers": {
     "n": "neuter gender"
   },
   "definitions": [
-    "darkness\nSynonyms: *h₁régʷos, *(s)ḱeh₃ih₂"
+    [
+      "darkness\nSynonyms: *h₁régʷos, *(s)ḱeh₃ih₂"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*h₁régʷos",
+    "*(s)ḱeh₃ih₂"
+  ],
   "topics": [
     "ine-pro:Light"
   ]

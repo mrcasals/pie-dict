@@ -1,15 +1,17 @@
 {
   "lemma": "*némos",
   "etymology": [
-    "From *nem- +‎ *-os.\n"
+    "From *nem- +‎ *-os."
   ],
   "klass": "Noun",
   "markers": {
     "n": "neuter gender"
   },
   "definitions": [
-    "sacrifice, worship",
-    "place of sacrifice, clearing"
+    [
+      "sacrifice, worship",
+      "place of sacrifice, clearing"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -1,14 +1,16 @@
 {
   "lemma": "*-ih₂",
   "etymology": [
-    "From *-h₂.\n"
+    "From *-h₂."
   ],
   "klass": "Suffix",
   "markers": {
     "f": "feminine gender"
   },
   "definitions": [
-    "Feminizes athematic nominal stems."
+    [
+      "Feminizes athematic nominal stems."
+    ]
   ],
   "synonyms": null,
   "topics": [

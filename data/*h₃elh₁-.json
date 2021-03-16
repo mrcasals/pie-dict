@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to fall, to collapse",
-    "to destroy/be destroyed"
+    [
+      "to fall, to collapse",
+      "to destroy/be destroyed"
+    ]
   ],
   "synonyms": null,
   "topics": [

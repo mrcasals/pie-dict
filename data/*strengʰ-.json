@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to twist",
-    "rope, cord"
+    [
+      "to twist",
+      "rope, cord"
+    ]
   ],
   "synonyms": null,
   "topics": [

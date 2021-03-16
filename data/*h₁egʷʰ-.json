@@ -5,9 +5,13 @@
   "markers": {
   },
   "definitions": [
-    "to drink\nSynonym: *peh₃-"
+    [
+      "to drink\nSynonym: *peh₃-"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*peh₃-"
+  ],
   "topics": [
 
   ]

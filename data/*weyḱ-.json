@@ -5,9 +5,11 @@
   "markers": {
   },
   "definitions": [
-    "to enter in",
-    "to settle",
-    "settlement"
+    [
+      "to enter in",
+      "to settle",
+      "settlement"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "Creates stative (or durative) verbs from perfective roots.",
-    "Creates stative (or durative) verbs from nominals."
+    [
+      "Creates stative (or durative) verbs from perfective roots.",
+      "Creates stative (or durative) verbs from nominals."
+    ]
   ],
   "synonyms": null,
   "topics": [

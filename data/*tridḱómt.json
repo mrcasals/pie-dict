@@ -1,13 +1,15 @@
 {
   "lemma": "*tridḱómt",
   "etymology": [
-    "From *tri- (“three”) +‎ *déḱm̥ (“ten”).\n"
+    "From *tri- (“three”) +‎ *déḱm̥ (“ten”)."
   ],
   "klass": "Numeral",
   "markers": {
   },
   "definitions": [
-    "thirty"
+    [
+      "thirty"
+    ]
   ],
   "synonyms": null,
   "topics": [

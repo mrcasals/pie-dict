@@ -1,14 +1,16 @@
 {
   "lemma": "*dáḱru",
   "etymology": [
-    "From earlier *dh₂éḱru, from the compound *dr̥ḱ-h₂eḱru (“eye bitter”).\n"
+    "From earlier *dh₂éḱru, from the compound *dr̥ḱ-h₂eḱru (“eye bitter”)."
   ],
   "klass": "Noun",
   "markers": {
     "n": "neuter gender"
   },
   "definitions": [
-    "tear (in the eyes)"
+    [
+      "tear (in the eyes)"
+    ]
   ],
   "synonyms": [
     "*h₂eḱru"

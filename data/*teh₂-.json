@@ -2,11 +2,15 @@
   "lemma": "*teh₂-",
   "etymology": null,
   "klass": "Root",
-  "markers": {
-  },
+  "markers": null,
   "definitions": [
-    "to melt",
-    "to flow, stream"
+    [
+      "to melt",
+      "to flow, stream"
+    ],
+    [
+      "Alternative form of *steh₂-"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -1,16 +1,21 @@
 {
   "lemma": "*snéygʷʰs",
   "etymology": [
-    "From *sneygʷʰ-, whence also *snóygʷʰos.\n"
+    "From *sneygʷʰ-, whence also *snóygʷʰos."
   ],
   "klass": "Noun",
   "markers": {
     "f": "feminine gender"
   },
   "definitions": [
-    "snow\nSynonyms: *ǵʰéyōm (also “winter”), *snóygʷʰos"
+    [
+      "snow\nSynonyms: *ǵʰéyōm (also “winter”), *snóygʷʰos"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*ǵʰéyōm",
+    "*snóygʷʰos"
+  ],
   "topics": [
     "ine-pro:Atmospheric phenomena",
     "ine-pro:Winter"

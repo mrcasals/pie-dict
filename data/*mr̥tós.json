@@ -1,14 +1,16 @@
 {
   "lemma": "*mr̥tós",
   "etymology": [
-    "From *mer- (“to die”) +‎ *-tós (verbal adjective suffix).\n"
+    "From *mer- (“to die”) +‎ *-tós (verbal adjective suffix)."
   ],
   "klass": "Adjective",
   "markers": {
   },
   "definitions": [
-    "dead",
-    "mortal"
+    [
+      "dead",
+      "mortal"
+    ]
   ],
   "synonyms": [
     "*dʰgʷʰitós",

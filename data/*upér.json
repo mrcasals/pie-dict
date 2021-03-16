@@ -1,14 +1,16 @@
 {
   "lemma": "*upér",
   "etymology": [
-    "Same root of *upó.\n"
+    "Same root of *upó."
   ],
   "klass": "Adverb",
   "markers": {
   },
   "definitions": [
-    "above",
-    "over"
+    [
+      "above",
+      "over"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to rub, turn",
-    "to drill, pierce"
+    [
+      "to rub, turn",
+      "to drill, pierce"
+    ]
   ],
   "synonyms": null,
   "topics": [

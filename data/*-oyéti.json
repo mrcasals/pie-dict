@@ -1,13 +1,15 @@
 {
   "lemma": "*-oyéti",
   "etymology": [
-    "From *-yéti (factitive verb suffix).\n"
+    "From *-yéti (factitive verb suffix)."
   ],
   "klass": "Suffix",
   "markers": {
   },
   "definitions": [
-    "Creates factitive verbs from adjectives."
+    [
+      "Creates factitive verbs from adjectives."
+    ]
   ],
   "synonyms": null,
   "topics": [

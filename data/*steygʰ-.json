@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to go",
-    "to climb"
+    [
+      "to go",
+      "to climb"
+    ]
   ],
   "synonyms": null,
   "topics": [

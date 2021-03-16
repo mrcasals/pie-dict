@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to put",
-    "to lay out"
+    [
+      "to put",
+      "to lay out"
+    ]
   ],
   "synonyms": null,
   "topics": [

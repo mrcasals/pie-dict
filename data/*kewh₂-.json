@@ -5,10 +5,20 @@
   "markers": {
   },
   "definitions": [
-    "to hit, to strike\nSynonyms: *bʰew-, *dʰen-, *kelh₂-, *kret-, *meldʰ-, *pleh₂k-, *(s)kep-",
-    "to forge"
+    [
+      "to hit, to strike\nSynonyms: *bʰew-, *dʰen-, *kelh₂-, *kret-, *meldʰ-, *pleh₂k-, *(s)kep-",
+      "to forge"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*bʰew-",
+    "*dʰen-",
+    "*kelh₂-",
+    "*kret-",
+    "*meldʰ-",
+    "*pleh₂k-",
+    "*(s)kep-"
+  ],
   "topics": [
 
   ]

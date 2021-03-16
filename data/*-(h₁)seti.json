@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "Creates desiderative imperfective verbs from roots."
+    [
+      "Creates desiderative imperfective verbs from roots."
+    ]
   ],
   "synonyms": null,
   "topics": [

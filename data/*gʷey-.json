@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to win, to conquer",
-    "force"
+    [
+      "to win, to conquer",
+      "force"
+    ]
   ],
   "synonyms": null,
   "topics": [

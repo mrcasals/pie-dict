@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "around",
-    "through"
+    [
+      "around",
+      "through"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -1,13 +1,15 @@
 {
   "lemma": "*swe-",
   "etymology": [
-    "From *swé (“self”).\n"
+    "From *swé (“self”)."
   ],
   "klass": "Prefix",
   "markers": {
   },
   "definitions": [
-    "self"
+    [
+      "self"
+    ]
   ],
   "synonyms": null,
   "topics": [

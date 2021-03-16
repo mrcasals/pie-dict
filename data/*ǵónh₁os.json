@@ -1,15 +1,17 @@
 {
   "lemma": "*ǵónh₁os",
   "etymology": [
-    "From *ǵenh₁- +‎ *-os.\n"
+    "From *ǵenh₁- +‎ *-os."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "birth",
-    "offspring"
+    [
+      "birth",
+      "offspring"
+    ]
   ],
   "synonyms": null,
   "topics": [

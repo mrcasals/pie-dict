@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to protect",
-    "to shepherd"
+    [
+      "to protect",
+      "to shepherd"
+    ]
   ],
   "synonyms": null,
   "topics": [

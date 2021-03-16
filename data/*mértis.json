@@ -1,14 +1,16 @@
 {
   "lemma": "*mértis",
   "etymology": [
-    "From *mer- (“to die”) +‎ *-tis.\n"
+    "From *mer- (“to die”) +‎ *-tis."
   ],
   "klass": "Noun",
   "markers": {
     "f": "feminine gender"
   },
   "definitions": [
-    "death"
+    [
+      "death"
+    ]
   ],
   "synonyms": null,
   "topics": [

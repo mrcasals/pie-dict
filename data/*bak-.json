@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "peg, club"
+    [
+      "peg, club"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "deep"
+    [
+      "deep"
+    ]
   ],
   "synonyms": null,
   "topics": [

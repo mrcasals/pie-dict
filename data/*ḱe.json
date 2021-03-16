@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "Deictic particle, here",
-    "Post-positional demonstrative particle, this"
+    [
+      "Deictic particle, here",
+      "Post-positional demonstrative particle, this"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -1,14 +1,16 @@
 {
   "lemma": "*yémHos",
   "etymology": [
-    "From *yemH- (“twin”) +‎ *-os.\n"
+    "From *yemH- (“twin”) +‎ *-os."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "twin"
+    [
+      "twin"
+    ]
   ],
   "synonyms": null,
   "topics": [

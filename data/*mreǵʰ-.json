@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "short"
+    [
+      "short"
+    ]
   ],
   "synonyms": null,
   "topics": [

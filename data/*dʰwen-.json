@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "make a noise"
+    [
+      "make a noise"
+    ]
   ],
   "synonyms": null,
   "topics": [

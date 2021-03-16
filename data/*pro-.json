@@ -1,13 +1,15 @@
 {
   "lemma": "*pro-",
   "etymology": [
-    "From *pró (“toward, leading”).\n"
+    "From *pró (“toward, leading”)."
   ],
   "klass": "Prefix",
   "markers": {
   },
   "definitions": [
-    "toward, forward"
+    [
+      "toward, forward"
+    ]
   ],
   "synonyms": null,
   "topics": [

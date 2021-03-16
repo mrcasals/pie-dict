@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to stroke, rub, strike",
-    "to shear"
+    [
+      "to stroke, rub, strike",
+      "to shear"
+    ]
   ],
   "synonyms": null,
   "topics": [

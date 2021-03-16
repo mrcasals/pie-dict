@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to stand still",
-    "to harden"
+    [
+      "to stand still",
+      "to harden"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "to jump"
+    [
+      "to jump"
+    ]
   ],
   "synonyms": null,
   "topics": [

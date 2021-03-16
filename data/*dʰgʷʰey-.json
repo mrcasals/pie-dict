@@ -1,16 +1,21 @@
 {
   "lemma": "*dʰgʷʰey-",
   "etymology": [
-    "Reanalysed root of *dʰgʷʰéyti, from *dʰegʷʰ- (“to burn”) +‎ *-éyti (*éy-present suffix).\n"
+    "Reanalysed root of *dʰgʷʰéyti, from *dʰegʷʰ- (“to burn”) +‎ *-éyti (*éy-present suffix)."
   ],
   "klass": "Root",
   "markers": {
   },
   "definitions": [
-    "to decline",
-    "to perish\nSynonyms: *mer-, *neḱ-"
+    [
+      "to decline",
+      "to perish\nSynonyms: *mer-, *neḱ-"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*mer-",
+    "*neḱ-"
+  ],
   "topics": [
 
   ]

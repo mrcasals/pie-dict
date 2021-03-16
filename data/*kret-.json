@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "insight, intelligence",
-    "strength"
+    [
+      "insight, intelligence",
+      "strength"
+    ]
   ],
   "synonyms": null,
   "topics": [

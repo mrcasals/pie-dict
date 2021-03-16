@@ -1,16 +1,18 @@
 {
   "lemma": "*-mō",
   "etymology": [
-    "Cognates with a different ablaut:\n",
+    "Cognates with a different ablaut:",
     "*-mn̥\n*-mḗn",
-    "See also *-h₃onh₂-.\n"
+    "See also *-h₃onh₂-."
   ],
   "klass": "Suffix",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "Creates agent nouns from verbs."
+    [
+      "Creates agent nouns from verbs."
+    ]
   ],
   "synonyms": null,
   "topics": [

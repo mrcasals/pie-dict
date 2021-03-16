@@ -1,15 +1,17 @@
 {
   "lemma": "*dʰéh₁s",
   "etymology": [
-    "From *dʰeh₁- (“to do”) +‎ *-s.\n"
+    "From *dʰeh₁- (“to do”) +‎ *-s."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "god, godhead, deity",
-    "sacred place"
+    [
+      "god, godhead, deity",
+      "sacred place"
+    ]
   ],
   "synonyms": null,
   "topics": [

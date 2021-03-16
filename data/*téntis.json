@@ -1,14 +1,16 @@
 {
   "lemma": "*téntis",
   "etymology": [
-    "*ten- (“extend, stretch”) +‎ *-tis\n"
+    "*ten- (“extend, stretch”) +‎ *-tis"
   ],
   "klass": "Noun",
   "markers": {
     "f": "feminine gender"
   },
   "definitions": [
-    "extension"
+    [
+      "extension"
+    ]
   ],
   "synonyms": null,
   "topics": [

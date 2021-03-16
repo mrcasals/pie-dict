@@ -5,9 +5,11 @@
   "markers": {
   },
   "definitions": [
-    "to call",
-    "to chant",
-    "to shout"
+    [
+      "to call",
+      "to chant",
+      "to shout"
+    ]
   ],
   "synonyms": null,
   "topics": [

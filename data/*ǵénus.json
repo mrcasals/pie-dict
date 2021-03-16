@@ -6,9 +6,11 @@
     "f": "feminine gender"
   },
   "definitions": [
-    "cheek",
-    "jaw",
-    "chin"
+    [
+      "cheek",
+      "jaw",
+      "chin"
+    ]
   ],
   "synonyms": null,
   "topics": [

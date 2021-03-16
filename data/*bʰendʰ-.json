@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to bind",
-    "bond"
+    [
+      "to bind",
+      "bond"
+    ]
   ],
   "synonyms": null,
   "topics": [

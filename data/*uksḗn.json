@@ -1,14 +1,16 @@
 {
   "lemma": "*uksḗn",
   "etymology": [
-    "Of uncertain origin;[7][8] possibly from *h₂ug-s-ḗn, from *h₂weg-s- (“to become strong”)[1]  +‎ *-ḗn, or perhaps from *ugʷ-s-ḗn (“inseminator”), from *wegʷ- (“to moisten, make wet”)[5]. Alternatively borrowed from Proto-Kartvelian *usx- (“sacrificial bull”) with metathesis[9][10], or a Wanderwort, whence also Proto-Turkic *öküŕ (“ox, bull”)[11].\n"
+    "Of uncertain origin; possibly from *h₂ug-s-ḗn, from *h₂weg-s- (“to become strong”)  +‎ *-ḗn, or perhaps from *ugʷ-s-ḗn (“inseminator”), from *wegʷ- (“to moisten, make wet”). Alternatively borrowed from Proto-Kartvelian *usx- (“sacrificial bull”) with metathesis, or a Wanderwort, whence also Proto-Turkic *öküŕ (“ox, bull”)."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "bull"
+    [
+      "bull"
+    ]
   ],
   "synonyms": null,
   "topics": [

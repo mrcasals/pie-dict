@@ -1,14 +1,16 @@
 {
   "lemma": "*só",
   "etymology": [
-    "In earlier, animacy-based two-gender Proto-Indo-European, *so was the animate demonstrative. Once the gender system was established, *seh₂ was created, with the feminine suffix *-h₂; *tod was the inanimate demonstrative in two-gender Proto-Indo-European and was later used as a neuter demonstrative.\n"
+    "In earlier, animacy-based two-gender Proto-Indo-European, *so was the animate demonstrative. Once the gender system was established, *seh₂ was created, with the feminine suffix *-h₂; *tod was the inanimate demonstrative in two-gender Proto-Indo-European and was later used as a neuter demonstrative."
   ],
   "klass": "Pronoun",
   "markers": {
   },
   "definitions": [
-    "this",
-    "that"
+    [
+      "this",
+      "that"
+    ]
   ],
   "synonyms": null,
   "topics": [

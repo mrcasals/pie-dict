@@ -1,13 +1,15 @@
 {
   "lemma": "*dédeh₃ti",
   "etymology": [
-    "Athematic e-reduplicated verb of the root *deh₃- (“to give”).\n"
+    "Athematic e-reduplicated verb of the root *deh₃- (“to give”)."
   ],
   "klass": "Verb",
   "markers": {
   },
   "definitions": [
-    "to be giving"
+    [
+      "to be giving"
+    ]
   ],
   "synonyms": null,
   "topics": [

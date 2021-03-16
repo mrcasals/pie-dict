@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "stiff",
-    "surprised"
+    [
+      "stiff",
+      "surprised"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -1,15 +1,17 @@
 {
   "lemma": "*h₂ent-",
   "etymology": [
-    "Perhaps extended from *h₂en- (“on, onto”).\n"
+    "Perhaps extended from *h₂en- (“on, onto”)."
   ],
   "klass": "Root",
   "markers": {
   },
   "definitions": [
-    "face",
-    "forehead",
-    "front"
+    [
+      "face",
+      "forehead",
+      "front"
+    ]
   ],
   "synonyms": null,
   "topics": [

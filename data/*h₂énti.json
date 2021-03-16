@@ -1,16 +1,18 @@
 {
   "lemma": "*h₂énti",
   "etymology": [
-    "Locative singular case of the root noun *h₂énts (“forehead, front”).\n"
+    "Locative singular case of the root noun *h₂énts (“forehead, front”)."
   ],
   "klass": "Adverb",
   "markers": {
   },
   "definitions": [
-    "opposite",
-    "near",
-    "in front",
-    "before"
+    [
+      "opposite",
+      "near",
+      "in front",
+      "before"
+    ]
   ],
   "synonyms": null,
   "topics": [

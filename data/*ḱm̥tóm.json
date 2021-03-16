@@ -1,13 +1,15 @@
 {
   "lemma": "*ḱm̥tóm",
   "etymology": [
-    "Some sort of derivation from *déḱm̥ (“ten”) (with Pre-IE *d lost or merged with *h₁ in the same way the initial dental obstruent was lost in the oblique cases of *dʰéǵʰōm (“earth”)), perhaps its ordinal number (*déḱm̥ +‎ *-ó-). If so then this could come from some phrase, \"tenth\", whose substantive noun can only be conjectured.\n"
+    "Some sort of derivation from *déḱm̥ (“ten”) (with Pre-IE *d lost or merged with *h₁ in the same way the initial dental obstruent was lost in the oblique cases of *dʰéǵʰōm (“earth”)), perhaps its ordinal number (*déḱm̥ +‎ *-ó-). If so then this could come from some phrase, \"tenth\", whose substantive noun can only be conjectured."
   ],
   "klass": "Numeral",
   "markers": {
   },
   "definitions": [
-    "hundred"
+    [
+      "hundred"
+    ]
   ],
   "synonyms": null,
   "topics": [

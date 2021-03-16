@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to pay",
-    "to avenge"
+    [
+      "to pay",
+      "to avenge"
+    ]
   ],
   "synonyms": null,
   "topics": [

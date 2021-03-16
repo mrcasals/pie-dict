@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "far",
-    "long"
+    [
+      "far",
+      "long"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -5,9 +5,11 @@
   "markers": {
   },
   "definitions": [
-    "to swell",
-    "to crowd",
-    "to be strong"
+    [
+      "to swell",
+      "to crowd",
+      "to be strong"
+    ]
   ],
   "synonyms": null,
   "topics": [

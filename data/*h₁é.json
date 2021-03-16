@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "and, then"
+    [
+      "and, then"
+    ]
   ],
   "synonyms": null,
   "topics": [

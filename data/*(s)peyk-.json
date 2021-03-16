@@ -5,9 +5,11 @@
   "markers": {
   },
   "definitions": [
-    "name of a bird",
-    "woodpecker",
-    "magpie"
+    [
+      "name of a bird",
+      "woodpecker",
+      "magpie"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to go, to proceed",
-    "to pass, to traverse"
+    [
+      "to go, to proceed",
+      "to pass, to traverse"
+    ]
   ],
   "synonyms": null,
   "topics": [

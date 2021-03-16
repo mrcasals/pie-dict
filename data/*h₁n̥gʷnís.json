@@ -1,14 +1,16 @@
 {
   "lemma": "*h₁n̥gʷnís",
   "etymology": [
-    "From *h₁engʷ- (“to burn; fire”).\n"
+    "From *h₁engʷ- (“to burn; fire”)."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "fire"
+    [
+      "fire"
+    ]
   ],
   "synonyms": [
     "*péh₂wr̥"

@@ -1,13 +1,15 @@
 {
   "lemma": "*pérdetor",
   "etymology": [
-    "Thematic root verb of the root *perd- (“to fart”).\n"
+    "Thematic root verb of the root *perd- (“to fart”)."
   ],
   "klass": "Verb",
   "markers": {
   },
   "definitions": [
-    "to be farting"
+    [
+      "to be farting"
+    ]
   ],
   "synonyms": null,
   "topics": [

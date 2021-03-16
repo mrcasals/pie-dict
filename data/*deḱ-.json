@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "take",
-    "perceive"
+    [
+      "take",
+      "perceive"
+    ]
   ],
   "synonyms": null,
   "topics": [

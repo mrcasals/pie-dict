@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "wild",
-    "wild animal"
+    [
+      "wild",
+      "wild animal"
+    ]
   ],
   "synonyms": null,
   "topics": [

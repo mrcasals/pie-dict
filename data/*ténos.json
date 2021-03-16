@@ -1,14 +1,16 @@
 {
   "lemma": "*ténos",
   "etymology": [
-    "*ten- (“stretch, extend”) +‎ *-os\n"
+    "*ten- (“stretch, extend”) +‎ *-os"
   ],
   "klass": "Noun",
   "markers": {
     "n": "neuter gender"
   },
   "definitions": [
-    "extension"
+    [
+      "extension"
+    ]
   ],
   "synonyms": null,
   "topics": [

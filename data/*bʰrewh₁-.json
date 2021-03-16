@@ -1,14 +1,16 @@
 {
   "lemma": "*bʰrewh₁-",
   "etymology": [
-    "Extension of *bʰer- (“to boil”).\n"
+    "Extension of *bʰer- (“to boil”)."
   ],
   "klass": "Root",
   "markers": {
   },
   "definitions": [
-    "to boil",
-    "to brew"
+    [
+      "to boil",
+      "to brew"
+    ]
   ],
   "synonyms": null,
   "topics": [

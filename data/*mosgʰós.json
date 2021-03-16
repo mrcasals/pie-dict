@@ -1,15 +1,17 @@
 {
   "lemma": "*mosgʰós",
   "etymology": [
-    "Possibly continues earlier *most-gʰ-os, perhaps compare Sanskrit मस्तृहन् (mastṛhan, “brain”), Tocharian B mrestīwe (“marrow”), from *móst-r̥ ~ *mést-n̥s.[1][2]\n"
+    "Possibly continues earlier *most-gʰ-os, perhaps compare Sanskrit मस्तृहन् (mastṛhan, “brain”), Tocharian B mrestīwe (“marrow”), from *móst-r̥ ~ *mést-n̥s."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "marrow",
-    "brain"
+    [
+      "marrow",
+      "brain"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to safeguard, to protect",
-    "to preserve"
+    [
+      "to safeguard, to protect",
+      "to preserve"
+    ]
   ],
   "synonyms": null,
   "topics": [

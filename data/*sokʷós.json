@@ -6,9 +6,13 @@
     "m": "masculine gender"
   },
   "definitions": [
-    "juice of plants\nSynonym: *swokʷós"
+    [
+      "juice of plants\nSynonym: *swokʷós"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*swokʷós"
+  ],
   "topics": [
     "ine-pro:Gums and resins",
     "ine-pro:Liquids"

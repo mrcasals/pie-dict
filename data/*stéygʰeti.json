@@ -1,14 +1,16 @@
 {
   "lemma": "*stéygʰeti",
   "etymology": [
-    "Thematic root verb of the root *steygʰ-.\n"
+    "Thematic root verb of the root *steygʰ-."
   ],
   "klass": "Verb",
   "markers": {
   },
   "definitions": [
-    "to be walking",
-    "to be climbing"
+    [
+      "to be walking",
+      "to be climbing"
+    ]
   ],
   "synonyms": null,
   "topics": [

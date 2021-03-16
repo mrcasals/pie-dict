@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "apart, asunder",
-    "away from, against"
+    [
+      "apart, asunder",
+      "away from, against"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -1,15 +1,17 @@
 {
   "lemma": "*kʷékʷlos",
   "etymology": [
-    "Reduplicated derivative of *kʷel- (“to turn”).[1]\n"
+    "Reduplicated derivative of *kʷel- (“to turn”)."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "wheel",
-    "circle"
+    [
+      "wheel",
+      "circle"
+    ]
   ],
   "synonyms": null,
   "topics": [

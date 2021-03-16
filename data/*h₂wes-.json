@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to dwell, live, reside",
-    "to stay, spend the night"
+    [
+      "to dwell, live, reside",
+      "to stay, spend the night"
+    ]
   ],
   "synonyms": null,
   "topics": [

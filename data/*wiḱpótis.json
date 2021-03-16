@@ -1,16 +1,18 @@
 {
   "lemma": "*wiḱpótis",
   "etymology": [
-    "From *weyḱ- (“village, household”) +‎ *pótis (“master”).\n"
+    "From *weyḱ- (“village, household”) +‎ *pótis (“master”)."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "clan chief",
-    "master of a household",
-    "lord"
+    [
+      "clan chief",
+      "master of a household",
+      "lord"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -1,13 +1,15 @@
 {
   "lemma": "*-wós",
   "etymology": [
-    "Thematization of the suffix forming the perfect active participle.\n"
+    "Thematization of the suffix forming the perfect active participle."
   ],
   "klass": "Suffix",
   "markers": {
   },
   "definitions": [
-    "Creates adjectives from verb stems."
+    [
+      "Creates adjectives from verb stems."
+    ]
   ],
   "synonyms": null,
   "topics": [

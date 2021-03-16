@@ -5,9 +5,13 @@
   "markers": {
   },
   "definitions": [
-    "to stretch, to extend\nSynonym: *temp-"
+    [
+      "to stretch, to extend\nSynonym: *temp-"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*temp-"
+  ],
   "topics": [
 
   ]

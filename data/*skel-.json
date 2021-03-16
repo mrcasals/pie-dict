@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to be obligated, owe",
-    "to be guilty"
+    [
+      "to be obligated, owe",
+      "to be guilty"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -5,10 +5,12 @@
   "markers": {
   },
   "definitions": [
-    "to be/become dry",
-    "to burn, to glow",
-    "hearth",
-    "ashes"
+    [
+      "to be/become dry",
+      "to burn, to glow",
+      "hearth",
+      "ashes"
+    ]
   ],
   "synonyms": null,
   "topics": [

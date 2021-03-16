@@ -1,15 +1,17 @@
 {
   "lemma": "*wéyh₁ō",
   "etymology": [
-    "Disputed;[1][2] possibly from *weh₁y- (“to twist; to wrap”) +‎ *-ō,[3][4][5] compare Ancient Greek ὑιήν (huiḗn, “grapevine”), from *wihy-ḗn[5], and Latin vītis (“vine”), from *wéh₁itis, or perhaps borrowed from either Proto-West Semitic *wayn- or Proto-Kartvelian *ɣwino-, if those terms are not instead borrowings of this one.[2][6][7][8] Possibly all ultimately borrowed from an unattested Mediterranean substrate language.[9][10]\n"
+    "Disputed; possibly from *weh₁y- (“to twist; to wrap”) +‎ *-ō, compare Ancient Greek ὑιήν (huiḗn, “grapevine”), from *wihy-ḗn, and Latin vītis (“vine”), from *wéh₁itis, or perhaps borrowed from either Proto-West Semitic *wayn- or Proto-Kartvelian *ɣwino-, if those terms are not instead borrowings of this one. Possibly all ultimately borrowed from an unattested Mediterranean substrate language."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "wine",
-    "vine"
+    [
+      "wine",
+      "vine"
+    ]
   ],
   "synonyms": null,
   "topics": [

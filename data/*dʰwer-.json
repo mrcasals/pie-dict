@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "door"
+    [
+      "door"
+    ]
   ],
   "synonyms": null,
   "topics": [

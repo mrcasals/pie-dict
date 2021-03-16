@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to cover",
-    "to overcast"
+    [
+      "to cover",
+      "to overcast"
+    ]
   ],
   "synonyms": null,
   "topics": [

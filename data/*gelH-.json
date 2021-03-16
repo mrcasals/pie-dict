@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "naked",
-    "head"
+    [
+      "naked",
+      "head"
+    ]
   ],
   "synonyms": null,
   "topics": [

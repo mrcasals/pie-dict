@@ -1,14 +1,16 @@
 {
   "lemma": "*misdʰós",
   "etymology": [
-    "From *mey-s- (“exchange”) + *dʰeh₁- (“to put, place”). The first element appears to be an s-stem noun.\n"
+    "From *mey-s- (“exchange”) + *dʰeh₁- (“to put, place”). The first element appears to be an s-stem noun."
   ],
   "klass": "Noun",
   "markers": {
   },
   "definitions": [
-    "reward, prize",
-    "wages, payment"
+    [
+      "reward, prize",
+      "wages, payment"
+    ]
   ],
   "synonyms": null,
   "topics": [

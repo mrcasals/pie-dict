@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to milk",
-    "milk"
+    [
+      "to milk",
+      "milk"
+    ]
   ],
   "synonyms": null,
   "topics": [

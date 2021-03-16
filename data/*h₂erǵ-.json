@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "white, argent",
-    "glittering"
+    [
+      "white, argent",
+      "glittering"
+    ]
   ],
   "synonyms": null,
   "topics": [

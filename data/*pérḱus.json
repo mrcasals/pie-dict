@@ -6,8 +6,10 @@
     "f": "feminine gender"
   },
   "definitions": [
-    "chest",
-    "rib"
+    [
+      "chest",
+      "rib"
+    ]
   ],
   "synonyms": null,
   "topics": [

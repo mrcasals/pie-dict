@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to see",
-    "eye"
+    [
+      "to see",
+      "eye"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to recite",
-    "to sing"
+    [
+      "to recite",
+      "to sing"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -1,13 +1,15 @@
 {
   "lemma": "*h₁élem",
   "etymology": [
-    "Compare Arabic نَشَم‎ (našam, “elm”), which points to the Proto-Semitic form *Caśam-, the middle consonant of which is the voiceless alveolar lateral fricative /ɬ/, however possibly not found in Semitic except in Arabic; likely a wanderwort.\nThe same match pertains to Old Armenian թեղի (tʿełi, “elm”) and Ancient Greek πτελέα (pteléa, “wych-elm”)\n"
+    "Compare Arabic نَشَم‎ (našam, “elm”), which points to the Proto-Semitic form *Caśam-, the middle consonant of which is the voiceless alveolar lateral fricative /ɬ/, however possibly not found in Semitic except in Arabic; likely a wanderwort.\nThe same match pertains to Old Armenian թեղի (tʿełi, “elm”) and Ancient Greek πτελέα (pteléa, “wych-elm”)"
   ],
   "klass": "Noun",
   "markers": {
   },
   "definitions": [
-    "mountain elm"
+    [
+      "mountain elm"
+    ]
   ],
   "synonyms": null,
   "topics": [

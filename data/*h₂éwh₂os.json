@@ -6,8 +6,10 @@
     "m": "masculine gender"
   },
   "definitions": [
-    "maternal grandfather",
-    "maternal uncle"
+    [
+      "maternal grandfather",
+      "maternal uncle"
+    ]
   ],
   "synonyms": null,
   "topics": [

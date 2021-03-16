@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "alder"
+    [
+      "alder"
+    ]
   ],
   "synonyms": null,
   "topics": [

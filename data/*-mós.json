@@ -6,7 +6,9 @@
     "m": "masculine gender"
   },
   "definitions": [
-    "Creates action/result nouns from verb stems."
+    [
+      "Creates action/result nouns from verb stems."
+    ]
   ],
   "synonyms": null,
   "topics": [

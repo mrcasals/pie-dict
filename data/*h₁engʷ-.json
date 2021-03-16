@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to burn",
-    "fire"
+    [
+      "to burn",
+      "fire"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to flourish",
-    "green, yellow"
+    [
+      "to flourish",
+      "green, yellow"
+    ]
   ],
   "synonyms": null,
   "topics": [

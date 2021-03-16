@@ -1,15 +1,17 @@
 {
   "lemma": "*h₂eh₃mós",
   "etymology": [
-    "From *h₂eh₃- (“to be hot, burn”).\n"
+    "From *h₂eh₃- (“to be hot, burn”)."
   ],
   "klass": "Adjective",
   "markers": {
   },
   "definitions": [
-    "raw",
-    "uncooked",
-    "bitter"
+    [
+      "raw",
+      "uncooked",
+      "bitter"
+    ]
   ],
   "synonyms": null,
   "topics": [

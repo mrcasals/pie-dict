@@ -1,14 +1,16 @@
 {
   "lemma": "*méntis",
   "etymology": [
-    "From *men- (“to think”) +‎ *-tis.\n"
+    "From *men- (“to think”) +‎ *-tis."
   ],
   "klass": "Noun",
   "markers": {
     "f": "feminine gender"
   },
   "definitions": [
-    "thought"
+    [
+      "thought"
+    ]
   ],
   "synonyms": null,
   "topics": [

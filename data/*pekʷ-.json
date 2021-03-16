@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to cook",
-    "to ripen"
+    [
+      "to cook",
+      "to ripen"
+    ]
   ],
   "synonyms": null,
   "topics": [

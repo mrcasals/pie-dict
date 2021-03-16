@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to support",
-    "to hold"
+    [
+      "to support",
+      "to hold"
+    ]
   ],
   "synonyms": null,
   "topics": [

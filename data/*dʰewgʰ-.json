@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to produce[1], to produce something useful[3]",
-    "to be strong, have force[4]"
+    [
+      "to produce, to produce something useful",
+      "to be strong, have force"
+    ]
   ],
   "synonyms": null,
   "topics": [

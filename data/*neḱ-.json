@@ -5,9 +5,14 @@
   "markers": {
   },
   "definitions": [
-    "to perish, disappear\nSynonyms: *dʰgʷʰey-, *mer-"
+    [
+      "to perish, disappear\nSynonyms: *dʰgʷʰey-, *mer-"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*dʰgʷʰey-",
+    "*mer-"
+  ],
   "topics": [
 
   ]

@@ -1,15 +1,17 @@
 {
   "lemma": "*wérsēn",
   "etymology": [
-    "Uncertain; possibly from *h₂wers- (“to rain, sprinkle (water, urine, semen)”)[1], or perhaps from *wers- (“to rise (up)”)[2],  +‎ *-ḗn.\n"
+    "Uncertain; possibly from *h₂wers- (“to rain, sprinkle (water, urine, semen)”), or perhaps from *wers- (“to rise (up)”),  +‎ *-ḗn."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "virile man",
-    "male animal"
+    [
+      "virile man",
+      "male animal"
+    ]
   ],
   "synonyms": null,
   "topics": [

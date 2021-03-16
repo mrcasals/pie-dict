@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "hub",
-    "navel"
+    [
+      "hub",
+      "navel"
+    ]
   ],
   "synonyms": null,
   "topics": [

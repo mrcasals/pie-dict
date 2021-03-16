@@ -1,15 +1,17 @@
 {
   "lemma": "*ǵʰmṓ",
   "etymology": [
-    "From *dʰéǵʰōm (earth) +‎ *-ō\n",
-    "The initial *dʰ is regularly dropped in such a cluster (compare e.g. *ḱm̥tóm (“hundred”) < */dḱmtóm/, a derivative of *déḱm̥ (“ten”)).\n"
+    "From *dʰéǵʰōm (earth) +‎ *-ō",
+    "The initial *dʰ is regularly dropped in such a cluster (compare e.g. *ḱm̥tóm (“hundred”) < */dḱmtóm/, a derivative of *déḱm̥ (“ten”))."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "earthling"
+    [
+      "earthling"
+    ]
   ],
   "synonyms": null,
   "topics": [

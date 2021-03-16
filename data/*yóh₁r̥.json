@@ -6,9 +6,14 @@
     "n": "neuter gender"
   },
   "definitions": [
-    "year\nSynonyms: *ǵʰéyōm, *wétos"
+    [
+      "year\nSynonyms: *ǵʰéyōm, *wétos"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*ǵʰéyōm",
+    "*wétos"
+  ],
   "topics": [
     "ine-pro:Years"
   ]

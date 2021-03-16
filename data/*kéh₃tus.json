@@ -1,14 +1,16 @@
 {
   "lemma": "*kéh₃tus",
   "etymology": [
-    "From *keh₃- (“to fight”) +‎ *-tus.\n"
+    "From *keh₃- (“to fight”) +‎ *-tus."
   ],
   "klass": "Noun",
   "markers": {
     "m": "masculine gender"
   },
   "definitions": [
-    "fight"
+    [
+      "fight"
+    ]
   ],
   "synonyms": null,
   "topics": [

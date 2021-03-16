@@ -1,14 +1,16 @@
 {
   "lemma": "*pékʷeti",
   "etymology": [
-    "From *pekʷ-\n"
+    "From *pekʷ-"
   ],
   "klass": "Verb",
   "markers": {
   },
   "definitions": [
-    "to be cooking",
-    "to ripen"
+    [
+      "to be cooking",
+      "to ripen"
+    ]
   ],
   "synonyms": null,
   "topics": [

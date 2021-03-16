@@ -1,15 +1,17 @@
 {
   "lemma": "*-trom",
   "etymology": [
-    "Thematicized from the zero-grade of *-tḗr.\n",
-    "Originally the neuter gender of some adjective *-tros meaning \"of the doer, of doing\". Of note is the similar development later exercised by daughter languages (e.g. Latin -tor > -tōrius (“of the doer, of doing”) > -tōrium (“thing/ place of the doer”)).\n"
+    "Thematicized from the zero-grade of *-tḗr.",
+    "Originally the neuter gender of some adjective *-tros meaning \"of the doer, of doing\". Of note is the similar development later exercised by daughter languages (e.g. Latin -tor > -tōrius (“of the doer, of doing”) > -tōrium (“thing/ place of the doer”))."
   ],
   "klass": "Suffix",
   "markers": {
     "n": "neuter gender"
   },
   "definitions": [
-    "Forms nouns denoting a tool or instrument."
+    [
+      "Forms nouns denoting a tool or instrument."
+    ]
   ],
   "synonyms": null,
   "topics": [

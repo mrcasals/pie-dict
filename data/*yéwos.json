@@ -1,17 +1,24 @@
 {
   "lemma": "*yéwos",
   "etymology": [
-    "From *yew-, *yewh₁- (“to ripen, mature”), whence Tocharian B yu-.\n"
+    "From *yew-, *yewh₁- (“to ripen, mature”), whence Tocharian B yu-."
   ],
   "klass": "Noun",
   "markers": {
     "n": "neuter gender"
   },
   "definitions": [
-    "cereal, grain\nSynonyms: *dʰoHnéh₂, *ǵr̥h₂nóm",
-    "barley, spelt\nSynonyms: *ǵʰrésdʰi, *h₂élbʰit"
+    [
+      "cereal, grain\nSynonyms: *dʰoHnéh₂, *ǵr̥h₂nóm",
+      "barley, spelt\nSynonyms: *ǵʰrésdʰi, *h₂élbʰit"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*dʰoHnéh₂",
+    "*ǵr̥h₂nóm",
+    "*ǵʰrésdʰi",
+    "*h₂élbʰit"
+  ],
   "topics": [
     "ine-pro:Grains"
   ]

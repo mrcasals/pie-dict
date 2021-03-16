@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to rise, to be tall",
-    "hill"
+    [
+      "to rise, to be tall",
+      "hill"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -1,15 +1,17 @@
 {
   "lemma": "*gʷʰéros",
   "etymology": [
-    "From *gʷʰer- (“warm, hot”) +‎ *-os.\n"
+    "From *gʷʰer- (“warm, hot”) +‎ *-os."
   ],
   "klass": "Noun",
   "markers": {
     "n": "neuter gender"
   },
   "definitions": [
-    "heat",
-    "warm weather"
+    [
+      "heat",
+      "warm weather"
+    ]
   ],
   "synonyms": null,
   "topics": [

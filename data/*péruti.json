@@ -1,13 +1,15 @@
 {
   "lemma": "*péruti",
   "etymology": [
-    "From *per (“around, through”) and the locative form of *wet- (“year”).\n"
+    "From *per (“around, through”) and the locative form of *wet- (“year”)."
   ],
   "klass": "Adverb",
   "markers": {
   },
   "definitions": [
-    "last year"
+    [
+      "last year"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to chase, pursue",
-    "to suppress, persecute"
+    [
+      "to chase, pursue",
+      "to suppress, persecute"
+    ]
   ],
   "synonyms": null,
   "topics": [

@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to join, to attach",
-    "agreement, settlement"
+    [
+      "to join, to attach",
+      "agreement, settlement"
+    ]
   ],
   "synonyms": null,
   "topics": [

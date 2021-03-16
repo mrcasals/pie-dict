@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to hold, restrain",
-    "to take, seize"
+    [
+      "to hold, restrain",
+      "to take, seize"
+    ]
   ],
   "synonyms": null,
   "topics": [

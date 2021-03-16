@@ -5,8 +5,10 @@
   "markers": {
   },
   "definitions": [
-    "to freeze",
-    "frost"
+    [
+      "to freeze",
+      "frost"
+    ]
   ],
   "synonyms": null,
   "topics": [

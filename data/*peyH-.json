@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "fat, milk"
+    [
+      "fat, milk"
+    ]
   ],
   "synonyms": null,
   "topics": [

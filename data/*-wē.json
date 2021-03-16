@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "or"
+    [
+      "or"
+    ]
   ],
   "synonyms": null,
   "topics": [

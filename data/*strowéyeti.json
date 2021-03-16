@@ -1,14 +1,16 @@
 {
   "lemma": "*strowéyeti",
   "etymology": [
-    "From *strew- +‎ *-éyeti.\n"
+    "From *strew- +‎ *-éyeti."
   ],
   "klass": "Verb",
   "markers": {
   },
   "definitions": [
-    "to strew, to disperse",
-    "to spawn"
+    [
+      "to strew, to disperse",
+      "to spawn"
+    ]
   ],
   "synonyms": null,
   "topics": [

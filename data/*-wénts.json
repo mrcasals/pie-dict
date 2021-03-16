@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "Forms possessive adjectives from nominal stems."
+    [
+      "Forms possessive adjectives from nominal stems."
+    ]
   ],
   "synonyms": null,
   "topics": [

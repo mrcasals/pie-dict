@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "sterile, infertile"
+    [
+      "sterile, infertile"
+    ]
   ],
   "synonyms": null,
   "topics": [

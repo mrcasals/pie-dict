@@ -5,7 +5,9 @@
   "markers": {
   },
   "definitions": [
-    "to sieve"
+    [
+      "to sieve"
+    ]
   ],
   "synonyms": null,
   "topics": [

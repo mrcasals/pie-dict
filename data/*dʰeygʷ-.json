@@ -5,11 +5,21 @@
   "markers": {
   },
   "definitions": [
-    "to stick into, pierce\nSynonyms: *bʰedʰ-, *ḱelh₂-, *(s)tewk-, *(s)teyg-",
-    "to dig; to ditch\nSynonyms: *bʰedʰh₂-, *dʰembʰ-, *h₃rewk-",
-    "to plant; to set up, fasten"
+    [
+      "to stick into, pierce\nSynonyms: *bʰedʰ-, *ḱelh₂-, *(s)tewk-, *(s)teyg-",
+      "to dig; to ditch\nSynonyms: *bʰedʰh₂-, *dʰembʰ-, *h₃rewk-",
+      "to plant; to set up, fasten"
+    ]
   ],
-  "synonyms": null,
+  "synonyms": [
+    "*bʰedʰ-",
+    "*ḱelh₂-",
+    "*(s)tewk-",
+    "*(s)teyg-",
+    "*bʰedʰh₂-",
+    "*dʰembʰ-",
+    "*h₃rewk-"
+  ],
   "topics": [
 
   ]
