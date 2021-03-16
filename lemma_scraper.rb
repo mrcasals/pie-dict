@@ -48,7 +48,9 @@ class LemmaScraper
     return unless current_section
     return unless current_section[:content]
 
-    current_section[:content].map(&:text)
+    current_section[:content].map do |element|
+      element.text.strip.gsub(/\[\d*\]/, "")
+    end
   end
 
   def lemma_klass
@@ -71,7 +73,7 @@ class LemmaScraper
     klass_sections.map do |klass_section|
       klass_section[:content].last.children.map do |definition|
         value = definition.text.strip
-        value == "" ? nil : value
+        value == "" ? nil : value.gsub(/\[\d*\]/, "")
       end.compact
     end
   end
