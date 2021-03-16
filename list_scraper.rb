@@ -5,9 +5,11 @@ class ListScraper
     @url = url
   end
 
-  def elements
+  def lemma_urls
     clean_body.css("li").map do |element|
-      "#{URL_PREFIX}/wiki/#{element.text}"
+      path = CGI.escape(element.text.gsub(" ", "_"))
+
+      "#{URL_PREFIX}/wiki/#{path}"
     end
   end
 

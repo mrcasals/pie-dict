@@ -19,7 +19,14 @@ url = "https://en.wiktionary.org/wiki/Category:Proto-Indo-European_lemmas"
 
 loop do
   list_scraper = ListScraper.new(url)
-  p list_scraper.elements.count
+  list_scraper.lemma_urls.each do |lemma_url|
+    sleep 1
+    print "." if result = LemmaScraper.parse(lemma_url)
+  rescue => e
+    byebug
+    puts lemma_url
+    raise e
+  end
   url = list_scraper.next_page_url
   break unless url
 end
