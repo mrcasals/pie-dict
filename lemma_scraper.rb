@@ -23,7 +23,7 @@ class LemmaScraper
   attr_reader :url
 
   def validate_sections!
-    page_body.css("#toc ul ul li").count == sections.count
+    page_body.css("#toc ul ul li").count == sections.count || sections.count < 3
   end
 
   def data

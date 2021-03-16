@@ -15,6 +15,12 @@ require_relative "lemma_scraper"
 # Long etymology, synonims
 # LemmaScraper.parse("https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h%E2%82%81%C3%A9%E1%B8%B1wos")
 
+# =============================
+#            TODO
+# =============================
+# Lemma with 2 different entries
+# pp LemmaScraper.parse("https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/seh%E2%82%81-")
+
 url = "https://en.wiktionary.org/wiki/Category:Proto-Indo-European_lemmas"
 
 errored = []
