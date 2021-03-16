@@ -17,11 +17,18 @@ require_relative "lemma_scraper"
 
 url = "https://en.wiktionary.org/wiki/Category:Proto-Indo-European_lemmas"
 
+errored = []
+
 loop do
   list_scraper = ListScraper.new(url)
   list_scraper.lemma_urls.each do |lemma_url|
-    sleep 1
-    print "." if result = LemmaScraper.parse(lemma_url)
+    sleep 0.2
+
+    if result = LemmaScraper.parse(lemma_url)
+      print "."
+    else
+      errored << lemma_url
+    end
   rescue => e
     byebug
     puts lemma_url
@@ -29,4 +36,11 @@ loop do
   end
   url = list_scraper.next_page_url
   break unless url
+end
+
+if errored.any?
+  pp errored
+else
+  puts ""
+  puts "Yay! All parsed correctly!"
 end
