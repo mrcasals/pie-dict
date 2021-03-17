@@ -1,5 +1,5 @@
 PATH
-  remote: ../piedict
+  remote: ../theme
   specs:
     piedict (0.1.0)
       jekyll (~> 4.2)
