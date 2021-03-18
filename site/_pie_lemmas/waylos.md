@@ -1,6 +1,5 @@
 ---
-title: *waylos
-actual_lemma: "*waylos"
+title: "*waylos"
 klass: noun
 etymology:
 - The word is usually explained as ‘the howler’ and derived from *wáy. Armenian and Celtic replaced the usual Proto-Indo-European *wĺ̥kʷos (“wolf”) due to taboo.
