@@ -34,6 +34,19 @@ theme: piedict
 plugins:
   - jekyll-feed
 
+collections:
+  pie_lemmas:
+    output: true
+    permalink: "/pie/:name"
+    sort_by: slug
+
+defaults:
+  - scope:
+      path: ""
+      type: "pie_lemmas"
+    values:
+      layout: pie_lemma
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
