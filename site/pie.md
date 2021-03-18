@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<h1>PIE index</h1>
+<h1>PIE lemmas</h1>
 
 {% assign groups = site.pie_lemmas | group_by_initial %}
 
