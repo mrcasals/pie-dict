@@ -1,9 +1,3 @@
-PATH
-  remote: ../theme
-  specs:
-    piedict (0.1.0)
-      jekyll (~> 4.2)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -73,7 +67,6 @@ DEPENDENCIES
   byebug
   jekyll (~> 4.2.0)
   jekyll-feed (~> 0.12)
-  piedict!
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
