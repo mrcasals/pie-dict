@@ -1,7 +1,7 @@
 ---
 title: "*píbeti"
 permalink: "/pie/verb/píbeti"
-lemma_to_sort: "píbeti"
+lemma_to_sort: "pibeti"
 klass: verb
 etymology: []
 markers: []

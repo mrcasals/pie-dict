@@ -1,7 +1,7 @@
 ---
 title: "*plúsis"
 permalink: "/pie/noun/plúsis"
-lemma_to_sort: "plúsis"
+lemma_to_sort: "plusis"
 klass: noun
 etymology: []
 markers: []

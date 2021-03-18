@@ -1,7 +1,7 @@
 ---
 title: "*bʰúHt"
 permalink: "/pie/verb/bʰúHt"
-lemma_to_sort: "bʰúht"
+lemma_to_sort: "bʰuht"
 klass: verb
 etymology: ["Athematic root aorist of *bʰuH-."]
 markers: []

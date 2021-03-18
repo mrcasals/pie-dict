@@ -1,7 +1,7 @@
 ---
 title: "*súHros"
 permalink: "/pie/adjective/súHros"
-lemma_to_sort: "súhros"
+lemma_to_sort: "suhros"
 klass: adjective
 etymology: []
 markers: []

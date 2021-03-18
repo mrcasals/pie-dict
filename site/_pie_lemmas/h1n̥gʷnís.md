@@ -1,7 +1,7 @@
 ---
 title: "*h₁n̥gʷnís"
 permalink: "/pie/noun/h1n̥gʷnís"
-lemma_to_sort: "h₁ngʷnís"
+lemma_to_sort: "h₁ngʷnis"
 klass: noun
 etymology: ["From *h₁engʷ- (“to burn; fire”)."]
 markers: [["m", "masculine gender"]]

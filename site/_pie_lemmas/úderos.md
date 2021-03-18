@@ -1,7 +1,7 @@
 ---
 title: "*úderos"
 permalink: "/pie/noun/úderos"
-lemma_to_sort: "úderos"
+lemma_to_sort: "uderos"
 klass: noun
 etymology: ["Deadjectival form of *úd-er-o-s, variant of *údteros (“higher, outer”), from *úd (“out, outward”) +‎ *-teros (contrastive suffix)."]
 markers: [["m", "masculine gender"]]

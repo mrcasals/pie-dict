@@ -1,7 +1,7 @@
 ---
 title: "*ís"
 permalink: "/pie/pronoun/ís"
-lemma_to_sort: "ís"
+lemma_to_sort: "is"
 klass: pronoun
 etymology: []
 markers: []

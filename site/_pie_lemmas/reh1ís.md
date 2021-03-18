@@ -1,7 +1,7 @@
 ---
 title: "*reh₁ís"
 permalink: "/pie/root/reh1ís"
-lemma_to_sort: "reh₁ís"
+lemma_to_sort: "reh₁is"
 klass: root
 etymology: []
 markers: []

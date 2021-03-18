@@ -33,11 +33,13 @@ class Lemma
       .gsub("ē", "e")
       .gsub("ḗ", "e")
       .gsub("ǵ", "g'")
+      .gsub("í", "i")
       .gsub("ḱ", "k'")
       .gsub("n̥", "n")
       .gsub("ó", "o")
       .gsub("ō", "o")
       .gsub("r̥", "r")
+      .gsub("ú", "u")
       .downcase
   end
 

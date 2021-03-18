@@ -1,7 +1,7 @@
 ---
 title: "*Hrugʰís"
 permalink: "/pie/noun/Hrugʰís"
-lemma_to_sort: "hrugʰís"
+lemma_to_sort: "hrugʰis"
 klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
