@@ -9,7 +9,7 @@ layout: home
   <h2>{{ group[0] }}</h2>
   <ul>
   {% for lemma in group[1] %}
-    <li><a href="{{lemma.url}}">{{lemma.slug}}</a></li>
+    <li><a href="{{lemma.url}}">{{lemma.title}}</a></li>
   {% endfor %}
   </ul>
 {% endfor %}
