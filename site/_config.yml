@@ -36,7 +36,7 @@ collections:
   pie_lemmas:
     output: true
     permalink: "/pie/:name"
-    sort_by: slug
+    sort_by: lemma_to_sort
 
 defaults:
   - scope:

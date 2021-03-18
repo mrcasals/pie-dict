@@ -21,12 +21,12 @@ class Lemma
 
   attr_reader :lemma, :etymology, :klass, :markers, :definitions, :synonyms, :topics
 
-  def lemma_to_order
-    lemma
+  def lemma_to_sort
+    @lemma_to_sort ||= lemma
       .gsub("*", "")
       .gsub("(", "")
       .gsub(")", "")
-      .gsub("-", "")
+      .gsub(/^-/, "")
       .gsub("á", "a")
       .gsub("ā́", "a")
       .gsub("é", "e")
@@ -39,5 +39,14 @@ class Lemma
       .gsub("ō", "o")
       .gsub("r̥", "r")
       .downcase
+  end
+
+  def lemma_for_filename
+    @lemma_for_filename ||= lemma
+      .gsub("*", "")
+      .gsub("₁", "1")
+      .gsub("₂", "2")
+      .gsub("₃", "3")
+      .gsub("₄", "4")
   end
 end
