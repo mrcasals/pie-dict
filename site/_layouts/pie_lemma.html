@@ -1,0 +1,24 @@
+---
+layout: home
+---
+
+<h2>{{ page.title }}</h2>
+
+{% for element in page.etymology %}
+<p><em>{{element}}</em><p>
+{% endfor %}
+
+<h3>
+  {{page.klass | capitalize}}
+  {% assign markers_size = page.markers | size %}
+{% for element in page.markers %}
+<abbr title="{{element[1]}}">{{element[0]}}</abbr>
+{% endfor %}
+</h3>
+<ul>
+{% for definition_group in page.definitions %}
+{% for element in definition_group %}
+<li>{{element}}</li>
+{% endfor %}
+{% endfor %}
+</ul>
