@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to become, grow, appear"]]
+definitions: ["to become", "grow", "appear"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *krewh₂- +‎ *-rós."]
 markers: []
 synonyms: []
-definitions: [["bloody"]]
+definitions: ["bloody"]
 topics: []
 ---

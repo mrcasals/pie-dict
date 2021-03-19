@@ -6,6 +6,6 @@ klass: suffix
 etymology: ["Innovated compound suffix from *-eh₂ (eh₂-stem noun suffix) + *-yéti."]
 markers: []
 synonyms: []
-definitions: [["Creates iterative/ frequentative/ intensive verbs.", "Creates causative verbs."]]
+definitions: ["Creates iterative/ frequentative/ intensive verbs.", "Creates causative verbs."]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to make use of; have enjoyment of"]]
+definitions: ["to make use of", "have enjoyment of"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to burn"], ["to cover, heed, notice"], ["squirrel"]]
+definitions: ["to burn", "to cover", "heed", "notice", "squirrel"]
 topics: []
 ---

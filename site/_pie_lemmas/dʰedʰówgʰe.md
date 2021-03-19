@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Reduplicated stative of the root *dʰewgʰ-."]
 markers: []
 synonyms: []
-definitions: [["to be productive"]]
+definitions: ["to be productive"]
 topics: []
 ---

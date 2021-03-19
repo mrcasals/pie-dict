@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *népōts +‎ *-ih₂."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["granddaughter", "niece"]]
+definitions: ["granddaughter", "niece"]
 topics: ["ine-pro:Female family members"]
 ---

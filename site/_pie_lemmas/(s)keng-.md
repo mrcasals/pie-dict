@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to limp, hobble", "to tilt, be askew"]]
+definitions: ["to limp", "hobble", "to tilt", "be askew"]
 topics: []
 ---

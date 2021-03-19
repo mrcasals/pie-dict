@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to love"]]
+definitions: ["to love"]
 topics: []
 ---

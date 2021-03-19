@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["father-in-law"]]
+definitions: ["father-in-law"]
 topics: ["ine-pro:Male family members"]
 ---

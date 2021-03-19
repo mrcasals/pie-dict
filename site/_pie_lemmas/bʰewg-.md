@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: ["*bʰegʷ-"]
-definitions: [["to flee\nSynonym: *bʰegʷ-"], ["to enjoy, benefit"]]
+definitions: ["to flee", "to enjoy", "benefit"]
 topics: []
 ---

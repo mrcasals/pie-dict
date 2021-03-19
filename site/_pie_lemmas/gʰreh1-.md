@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to grow (of plants?)"]]
+definitions: ["to grow (of plants?)"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to be wet, to become wet"], ["to meet, approach, encounter"]]
+definitions: ["to be wet", "to become wet", "to meet", "approach", "encounter"]
 topics: []
 ---

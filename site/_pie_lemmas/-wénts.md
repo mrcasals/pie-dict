@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Forms possessive adjectives from nominal stems."]]
+definitions: ["Forms possessive adjectives from nominal stems."]
 topics: []
 ---

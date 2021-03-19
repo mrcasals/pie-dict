@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₂enk- (“to curve, bend”) +‎ *-os."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["bend, turn"]]
+definitions: ["bend", "turn"]
 topics: []
 ---

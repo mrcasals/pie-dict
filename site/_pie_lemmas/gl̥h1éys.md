@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["mouse, dormouse", "weasel"]]
+definitions: ["mouse", "dormouse", "weasel"]
 topics: ["ine-pro:Rodents", "ine-pro:Mustelids"]
 ---

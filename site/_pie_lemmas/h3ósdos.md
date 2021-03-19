@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["branch"]]
+definitions: ["branch"]
 topics: ["ine-pro:Trees"]
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to go", "to go in, enter", "to ride, to travel"]]
+definitions: ["to go", "to go in", "enter", "to ride", "to travel"]
 topics: []
 ---

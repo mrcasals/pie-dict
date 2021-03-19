@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["Used to form nouns representing state of being"]]
+definitions: ["Used to form nouns representing state of being"]
 topics: []
 ---

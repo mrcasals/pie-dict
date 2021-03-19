@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["master"]]
+definitions: ["master"]
 topics: ["ine-pro:People"]
 ---

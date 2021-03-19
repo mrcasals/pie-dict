@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: ["*leǵ-"]
-definitions: [["to gather, to collect"]]
+definitions: ["to gather", "to collect"]
 topics: []
 ---

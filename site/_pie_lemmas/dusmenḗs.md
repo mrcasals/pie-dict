@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *dus- (“bad”) +‎ *ménes- (“mind, thought”) +‎ *-s."]
 markers: []
 synonyms: []
-definitions: [["ill-disposed\nAntonym: *h₁sumenḗs"]]
+definitions: ["ill-disposed"]
 topics: []
 ---

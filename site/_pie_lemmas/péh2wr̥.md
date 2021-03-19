@@ -6,6 +6,6 @@ klass: noun
 etymology: ["Often considered to contain the suffix  +‎ *-wr̥."]
 markers: [["n", "neuter gender"]]
 synonyms: ["*h₁n̥gʷnis"]
-definitions: [["fire", "spelt"]]
+definitions: ["fire", "spelt"]
 topics: ["ine-pro:Fire", "ine-pro:Grains"]
 ---

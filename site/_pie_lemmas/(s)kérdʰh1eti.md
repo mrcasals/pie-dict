@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *(s)ker- (“to cut off”) +‎ *-dʰh₁eti."]
 markers: []
 synonyms: []
-definitions: [["to cut, pierce"]]
+definitions: ["to cut", "pierce"]
 topics: []
 ---

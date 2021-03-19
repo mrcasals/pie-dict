@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Creates intransitive, often deponent, imperfective verbs from roots."]]
+definitions: ["Creates intransitive", "often deponent", "imperfective verbs from roots."]
 topics: []
 ---

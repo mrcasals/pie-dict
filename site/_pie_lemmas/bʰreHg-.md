@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to smell, to have a strong odour"]]
+definitions: ["to smell", "to have a strong odour"]
 topics: []
 ---

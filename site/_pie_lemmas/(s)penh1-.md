@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to twist", "to weave"]]
+definitions: ["to twist", "to weave"]
 topics: []
 ---

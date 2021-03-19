@@ -6,6 +6,6 @@ klass: suffix
 etymology: ["From *-eh₂ + *-tós."]
 markers: []
 synonyms: []
-definitions: [["Forms adjectives from nouns, indicating the possession of a thing or a quality."]]
+definitions: ["Forms adjectives from nouns", "indicating the possession of a thing or a quality."]
 topics: []
 ---

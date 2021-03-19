@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: []
 synonyms: []
-definitions: [["mouse"]]
+definitions: ["mouse"]
 topics: ["ine-pro:Rodents"]
 ---

@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *ten- +‎ *-néwti."]
 markers: []
 synonyms: []
-definitions: [["to be stretching"]]
+definitions: ["to be stretching"]
 topics: []
 ---

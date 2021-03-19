@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to chase, pursue", "to suppress, persecute"]]
+definitions: ["to chase", "pursue", "to suppress", "persecute"]
 topics: []
 ---

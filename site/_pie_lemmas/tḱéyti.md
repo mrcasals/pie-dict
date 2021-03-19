@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root present of the root *tḱey-."]
 markers: []
 synonyms: []
-definitions: [["to settle, to populate", "to live, to dwell (i.e to be settled)", "to cultivate"]]
+definitions: ["to settle", "to populate", "to live", "to dwell (i.e to be settled)", "to cultivate"]
 topics: ["ine-pro:Biology", "ine-pro:Agriculture"]
 ---

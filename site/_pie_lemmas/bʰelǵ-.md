@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to balk, beam"]]
+definitions: ["to balk", "beam"]
 topics: []
 ---

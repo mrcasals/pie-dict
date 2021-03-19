@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *wĺ̥kʷos +‎ *-ih₂s."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["she-wolf"]]
+definitions: ["she-wolf"]
 topics: ["ine-pro:Female animals", "ine-pro:Canids"]
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to think, mind", "spiritual activity"], ["to stay, remain"], ["to stand out, to tower"]]
+definitions: ["to think", "mind", "spiritual activity", "to stay", "remain", "to stand out", "to tower"]
 topics: ["ine-pro:Thinking"]
 ---

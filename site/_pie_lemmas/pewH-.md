@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to be clean, pure"]]
+definitions: ["to be clean", "pure"]
 topics: []
 ---

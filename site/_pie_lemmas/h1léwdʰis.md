@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₁lewdʰ- (“people”) +‎ *-is."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["people"]]
+definitions: ["people"]
 topics: ["ine-pro:People", "ine-pro:Collectives"]
 ---

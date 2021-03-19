@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to put, to place; to locate"]]
+definitions: ["to put", "to place", "to locate"]
 topics: []
 ---

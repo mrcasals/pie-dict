@@ -6,6 +6,6 @@ klass: pronoun
 etymology: []
 markers: []
 synonyms: []
-definitions: [["you, thou (second-person singular pronoun)"]]
+definitions: ["you", "thou (second-person singular pronoun)"]
 topics: []
 ---

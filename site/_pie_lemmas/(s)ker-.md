@@ -6,6 +6,6 @@ klass: root
 etymology: ["Possibly from *sek- (“to cut”)."]
 markers: []
 synonyms: []
-definitions: [["to cut off"], ["to turn, bend"]]
+definitions: ["to cut off", "to turn", "bend"]
 topics: []
 ---

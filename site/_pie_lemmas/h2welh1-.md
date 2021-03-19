@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to rule", "strong, powerful"], ["hair; wool"]]
+definitions: ["to rule", "strong", "powerful", "hair", "wool"]
 topics: []
 ---

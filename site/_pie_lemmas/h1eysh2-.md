@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to strengthen", "to propel"]]
+definitions: ["to strengthen", "to propel"]
 topics: []
 ---

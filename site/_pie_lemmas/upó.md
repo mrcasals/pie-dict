@@ -6,6 +6,6 @@ klass: adverb
 etymology: ["Perhaps from *h₃ewp-."]
 markers: []
 synonyms: []
-definitions: [["under, below"]]
+definitions: ["under", "below"]
 topics: []
 ---

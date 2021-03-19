@@ -6,6 +6,6 @@ klass: root
 etymology: ["Perhaps extended from *h₂en- (“on, onto”)."]
 markers: []
 synonyms: []
-definitions: [["face", "forehead", "front"]]
+definitions: ["face", "forehead", "front"]
 topics: []
 ---

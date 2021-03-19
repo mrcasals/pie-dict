@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₂erh₃- (“to plough”) +‎ *-trom."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["plough, ard"]]
+definitions: ["plough", "ard"]
 topics: ["ine-pro:Tools", "ine-pro:Agriculture"]
 ---

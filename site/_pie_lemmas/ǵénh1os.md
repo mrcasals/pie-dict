@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *ǵenh₁- +‎ *-os."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["race, lineage"]]
+definitions: ["race", "lineage"]
 topics: ["ine-pro:Family"]
 ---

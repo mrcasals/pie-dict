@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to die", "to disappear"], ["sea, lake, wetland"]]
+definitions: ["to die", "to disappear", "sea", "lake", "wetland"]
 topics: ["ine-pro:Death"]
 ---

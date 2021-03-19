@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["Derives agent nouns from verbs, denoting someone or something whose role or purpose it is to perform the verb's action."]]
+definitions: ["Derives agent nouns from verbs", "denoting someone or something whose role or purpose it is to perform the verb's action."]
 topics: []
 ---

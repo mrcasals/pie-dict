@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["awl"]]
+definitions: ["awl"]
 topics: ["ine-pro:Tools"]
 ---

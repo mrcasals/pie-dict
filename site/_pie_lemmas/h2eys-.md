@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to wish", "to request"]]
+definitions: ["to wish", "to request"]
 topics: []
 ---

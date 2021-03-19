@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From earlier *póds, from *ped- (“to walk, to step”) +‎ *-s."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["foot"]]
+definitions: ["foot"]
 topics: ["ine-pro:Appendages"]
 ---

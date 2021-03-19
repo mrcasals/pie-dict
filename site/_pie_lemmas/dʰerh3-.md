@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to leap, spring"]]
+definitions: ["to leap", "spring"]
 topics: []
 ---

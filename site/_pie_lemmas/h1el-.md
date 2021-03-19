@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["greyish or brownish coloration", "deer, elk\n→ elephant", "various tree species with bright bark, e.g. alder, elm, fir"]]
+definitions: ["greyish or brownish coloration", "deer", "elk → elephant", "various tree species with bright bark", "e.g. alder", "elm", "fir"]
 topics: []
 ---

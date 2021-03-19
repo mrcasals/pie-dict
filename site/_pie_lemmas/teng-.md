@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to think"]]
+definitions: ["to think"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["far", "long"]]
+definitions: ["far", "long"]
 topics: []
 ---

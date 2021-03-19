@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["hoof"]]
+definitions: ["hoof"]
 topics: ["ine-pro:Animal body parts"]
 ---

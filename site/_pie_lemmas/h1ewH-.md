@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to help, to assist", "to protect"]]
+definitions: ["to help", "to assist", "to protect"]
 topics: []
 ---

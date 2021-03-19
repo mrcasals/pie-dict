@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic e-reduplicated verb of the root *dʰeh₁-."]
 markers: []
 synonyms: []
-definitions: [["to be putting, placing", "to be doing"]]
+definitions: ["to be putting", "placing", "to be doing"]
 topics: []
 ---

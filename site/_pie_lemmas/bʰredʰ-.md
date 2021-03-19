@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to wade"]]
+definitions: ["to wade"]
 topics: []
 ---

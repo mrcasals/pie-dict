@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Root thematic aorist of *h₁lewdʰ- (“to grow, climb”)."]
 markers: []
 synonyms: []
-definitions: [["to arrive"]]
+definitions: ["to arrive"]
 topics: []
 ---

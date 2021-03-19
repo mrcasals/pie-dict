@@ -6,6 +6,6 @@ klass: adjective
 etymology: []
 markers: []
 synonyms: []
-definitions: [["long"]]
+definitions: ["long"]
 topics: []
 ---

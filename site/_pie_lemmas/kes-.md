@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to scrape, comb"]]
+definitions: ["to scrape", "comb"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to slip, slide", "to be slippery, slick"]]
+definitions: ["to slip", "slide", "to be slippery", "slick"]
 topics: []
 ---

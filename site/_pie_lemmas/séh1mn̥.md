@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *seh₁- (“to sow”) +‎ *-mn̥."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["seed"]]
+definitions: ["seed"]
 topics: ["ine-pro:Botany"]
 ---

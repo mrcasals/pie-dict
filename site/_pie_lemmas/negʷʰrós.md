@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["kidney"]]
+definitions: ["kidney"]
 topics: ["ine-pro:Organs"]
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["nail (of the finger or toe)"]]
+definitions: ["nail (of the finger or toe)"]
 topics: ["ine-pro:Appendages"]
 ---

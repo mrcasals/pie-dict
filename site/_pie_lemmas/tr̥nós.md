@@ -6,6 +6,6 @@ klass: root
 etymology: ["Possibly derived from *(s)ter- (“stiff”) +‎ *-nós."]
 markers: []
 synonyms: []
-definitions: [["sharp, stiff"]]
+definitions: ["sharp", "stiff"]
 topics: []
 ---

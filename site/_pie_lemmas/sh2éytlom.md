@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *sh₂ey- (“to bind, fetter”) +‎ *-tlom."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["lifetime, lifespan"]]
+definitions: ["lifetime", "lifespan"]
 topics: []
 ---

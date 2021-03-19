@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["heart"]]
+definitions: ["heart"]
 topics: ["ine-pro:Organs"]
 ---

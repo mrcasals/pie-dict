@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *sterh₃- (“to spread, extend, stretch out”) +‎ *-tós."]
 markers: []
 synonyms: []
-definitions: [["stretched, spread"]]
+definitions: ["stretched", "spread"]
 topics: []
 ---

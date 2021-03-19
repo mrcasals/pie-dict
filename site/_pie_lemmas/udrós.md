@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *wed- +‎ *-rós."]
 markers: []
 synonyms: []
-definitions: [["of water, aquatic"]]
+definitions: ["of water", "aquatic"]
 topics: []
 ---

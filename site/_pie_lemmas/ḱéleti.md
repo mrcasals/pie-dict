@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Thematic root verb of the root *ḱel-."]
 markers: []
 synonyms: []
-definitions: [["to be covering, hiding"]]
+definitions: ["to be covering", "hiding"]
 topics: []
 ---

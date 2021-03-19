@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to stretch, to extend"], ["to split, cut off"]]
+definitions: ["to stretch", "to extend", "to split", "cut off"]
 topics: []
 ---

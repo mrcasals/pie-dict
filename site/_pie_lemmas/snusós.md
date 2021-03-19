@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["daughter-in-law"]]
+definitions: ["daughter-in-law"]
 topics: ["ine-pro:Female family members"]
 ---

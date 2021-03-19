@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["Derives abstract/action nouns from verb roots."]]
+definitions: ["Derives abstract/action nouns from verb roots."]
 topics: []
 ---

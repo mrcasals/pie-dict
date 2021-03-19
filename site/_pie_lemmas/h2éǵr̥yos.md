@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *h₂éǵros +‎ *-yós."]
 markers: []
 synonyms: []
-definitions: [["campestral, field (attributive), of or relating to fields"]]
+definitions: ["campestral", "field (attributive)", "of or relating to fields"]
 topics: []
 ---

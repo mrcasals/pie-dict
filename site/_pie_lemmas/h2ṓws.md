@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₂ew- (“to see”) +‎ *-s with a semantic shift to \"to hear\" after the split of Anatolian branch."]
 markers: []
 synonyms: []
-definitions: [["ear"]]
+definitions: ["ear"]
 topics: ["ine-pro:Appendages"]
 ---

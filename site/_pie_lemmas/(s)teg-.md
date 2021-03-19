@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to cover"], ["pole, stick, beam"]]
+definitions: ["to cover", "pole", "stick", "beam"]
 topics: []
 ---

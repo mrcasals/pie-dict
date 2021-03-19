@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *pent-."]
 markers: []
 synonyms: []
-definitions: [["path"]]
+definitions: ["path"]
 topics: ["ine-pro:Roads"]
 ---

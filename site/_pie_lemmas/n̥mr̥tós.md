@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *n̥- (“not, un-”) +‎ *mr̥tós (“dead; mortal”)"]
 markers: []
 synonyms: []
-definitions: [["immortal"]]
+definitions: ["immortal"]
 topics: []
 ---

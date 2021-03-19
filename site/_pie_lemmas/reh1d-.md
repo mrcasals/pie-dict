@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to scrape, scratch, gnaw"]]
+definitions: ["to scrape", "scratch", "gnaw"]
 topics: []
 ---

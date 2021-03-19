@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root present to the root *bʰeh₂-."]
 markers: []
 synonyms: []
-definitions: [["to speak, to be talking"]]
+definitions: ["to speak", "to be talking"]
 topics: []
 ---

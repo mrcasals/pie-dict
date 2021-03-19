@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to lead"]]
+definitions: ["to lead"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *dyew- (“sky, heaven”) +‎ *-yós."]
 markers: []
 synonyms: []
-definitions: [["heavenly"]]
+definitions: ["heavenly"]
 topics: []
 ---

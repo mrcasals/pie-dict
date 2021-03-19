@@ -6,6 +6,6 @@ klass: root
 etymology: ["Extension of the root *skey- perhaps with *dʰeh₁-."]
 markers: []
 synonyms: []
-definitions: [["to split, to divide"]]
+definitions: ["to split", "to divide"]
 topics: []
 ---

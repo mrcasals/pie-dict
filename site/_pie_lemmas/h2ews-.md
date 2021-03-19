@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["dawn", "east"], ["to draw water, scoop up"]]
+definitions: ["dawn", "east", "to draw water", "scoop up"]
 topics: []
 ---

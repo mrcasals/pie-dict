@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Reduplicated stative of the root *leykʷ-."]
 markers: []
 synonyms: []
-definitions: [["to be missing, to be gone"]]
+definitions: ["to be missing", "to be gone"]
 topics: []
 ---

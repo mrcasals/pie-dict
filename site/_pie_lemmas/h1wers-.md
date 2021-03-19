@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to rain"]]
+definitions: ["to rain"]
 topics: []
 ---

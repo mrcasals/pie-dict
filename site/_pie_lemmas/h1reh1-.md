@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to row"], ["to separate", "loose, sparse, rare"]]
+definitions: ["to row", "to separate", "loose", "sparse", "rare"]
 topics: []
 ---

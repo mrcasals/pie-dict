@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to return home (safely)"]]
+definitions: ["to return home (safely)"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: adjective
 etymology: []
 markers: []
 synonyms: []
-definitions: [["sour, acidic, salty"]]
+definitions: ["sour", "acidic", "salty"]
 topics: []
 ---

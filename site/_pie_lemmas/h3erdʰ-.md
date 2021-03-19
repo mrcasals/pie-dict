@@ -6,6 +6,6 @@ klass: root
 etymology: ["Possible reanalyzed root of *h₃er- (“to rise”) +‎ *-dʰh₁eti."]
 markers: []
 synonyms: []
-definitions: [["to increase, grow", "upright, high"]]
+definitions: ["to increase", "grow", "upright", "high"]
 topics: []
 ---

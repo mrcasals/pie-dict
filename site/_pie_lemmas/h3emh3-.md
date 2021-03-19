@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to grab, take", "to swear (an oath)"]]
+definitions: ["to grab", "take", "to swear (an oath)"]
 topics: []
 ---

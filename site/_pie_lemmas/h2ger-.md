@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to gather", "flock, herd"]]
+definitions: ["to gather", "flock", "herd"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *dʰeh₁- (“to put”) +‎ *-mos."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["that which is put, placed"]]
+definitions: ["that which is put", "placed"]
 topics: []
 ---

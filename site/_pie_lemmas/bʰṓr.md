@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From earlier **bʰórs, from *bʰer- (“to carry”)."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["thief"]]
+definitions: ["thief"]
 topics: ["ine-pro:People"]
 ---

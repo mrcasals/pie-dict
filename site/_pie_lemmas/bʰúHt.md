@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root aorist of *bʰuH-."]
 markers: []
 synonyms: []
-definitions: [["to become"]]
+definitions: ["to become"]
 topics: []
 ---

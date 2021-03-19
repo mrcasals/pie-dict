@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["peg, club"]]
+definitions: ["peg", "club"]
 topics: []
 ---

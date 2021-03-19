@@ -6,6 +6,6 @@ klass: particle
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Deictic particle, here", "Post-positional demonstrative particle, this"]]
+definitions: ["Deictic particle", "here", "Post-positional demonstrative particle", "this"]
 topics: []
 ---

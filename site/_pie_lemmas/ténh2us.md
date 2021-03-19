@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *tenh₂- (“thin”), probably an extension of *ten- (“to stretch, extend”)."]
 markers: []
 synonyms: []
-definitions: [["thin"]]
+definitions: ["thin"]
 topics: []
 ---

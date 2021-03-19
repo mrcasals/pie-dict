@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to bark, howl"], ["to be concealed"]]
+definitions: ["to bark", "howl", "to be concealed"]
 topics: []
 ---

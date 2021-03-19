@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["spit, skewer", "spear, throwing spear"]]
+definitions: ["spit", "skewer", "spear", "throwing spear"]
 topics: ["ine-pro:Spears"]
 ---

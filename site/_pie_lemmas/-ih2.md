@@ -6,6 +6,6 @@ klass: suffix
 etymology: ["From *-h₂."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["Feminizes athematic nominal stems."]]
+definitions: ["Feminizes athematic nominal stems."]
 topics: []
 ---

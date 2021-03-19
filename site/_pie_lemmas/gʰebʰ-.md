@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to give"]]
+definitions: ["to give"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Forms aktionsart verbs from roots."]]
+definitions: ["Forms aktionsart verbs from roots."]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *bʰewdʰ- (“to be awake”) +‎ *-tós."]
 markers: []
 synonyms: []
-definitions: [["aware"]]
+definitions: ["aware"]
 topics: []
 ---

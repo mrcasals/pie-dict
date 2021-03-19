@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to foam", "to boil"]]
+definitions: ["to foam", "to boil"]
 topics: []
 ---

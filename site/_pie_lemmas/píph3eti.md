@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Thematic i-reduplicated verb of the root *peh₃-."]
 markers: []
 synonyms: []
-definitions: [["to drink, to be drinking"]]
+definitions: ["to drink", "to be drinking"]
 topics: ["ine-pro:Food and drink"]
 ---

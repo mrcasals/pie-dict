@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *ḱred- (“heart”) +‎ *-dʰh₁eti."]
 markers: []
 synonyms: []
-definitions: [["to believe, trust"]]
+definitions: ["to believe", "trust"]
 topics: []
 ---

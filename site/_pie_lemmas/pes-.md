@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["penis"]]
+definitions: ["penis"]
 topics: ["ine-pro:Appendages"]
 ---

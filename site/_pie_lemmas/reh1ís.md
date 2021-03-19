@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["wealth, goods"]]
+definitions: ["wealth", "goods"]
 topics: ["ine-pro:Economics", "ine-pro:Business", "ine-pro:Transport"]
 ---

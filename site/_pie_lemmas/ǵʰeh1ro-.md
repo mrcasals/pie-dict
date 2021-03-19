@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *ǵʰeh₁- (“to go, to leave behind”)."]
 markers: []
 synonyms: []
-definitions: [["derelict; an abandoned or forsaken person"]]
+definitions: ["derelict", "an abandoned or forsaken person"]
 topics: []
 ---

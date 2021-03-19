@@ -6,6 +6,6 @@ klass: root
 etymology: ["Per LIV, it is assumed that the root is a t-extension of Proto-Indo-European *kʷey- (“to estimate”)."]
 markers: []
 synonyms: []
-definitions: [["to notice", "to read"]]
+definitions: ["to notice", "to read"]
 topics: []
 ---

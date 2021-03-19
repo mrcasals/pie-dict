@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: ["*swokʷós"]
-definitions: [["juice of plants\nSynonym: *swokʷós"]]
+definitions: ["juice of plants"]
 topics: ["ine-pro:Gums and resins", "ine-pro:Liquids"]
 ---

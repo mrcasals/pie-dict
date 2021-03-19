@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to change allegiance, status, ownership", "(Celtic, Germanic) inheritance (i.e. to change ownership)"]]
+definitions: ["to change allegiance", "status", "ownership", "(Celtic", "Germanic) inheritance (i.e. to change ownership)"]
 topics: []
 ---

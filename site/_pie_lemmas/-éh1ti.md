@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Creates stative (or durative) verbs from perfective roots.", "Creates stative (or durative) verbs from nominals."]]
+definitions: ["Creates stative (or durative) verbs from perfective roots.", "Creates stative (or durative) verbs from nominals."]
 topics: []
 ---

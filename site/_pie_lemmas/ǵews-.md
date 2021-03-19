@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to taste, try"]]
+definitions: ["to taste", "try"]
 topics: ["ine-pro:Taste"]
 ---

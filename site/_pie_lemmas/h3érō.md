@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["eagle"]]
+definitions: ["eagle"]
 topics: ["ine-pro:Eagles"]
 ---

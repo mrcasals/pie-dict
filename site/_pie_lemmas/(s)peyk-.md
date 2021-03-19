@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["name of a bird", "woodpecker", "magpie"]]
+definitions: ["name of a bird", "woodpecker", "magpie"]
 topics: []
 ---

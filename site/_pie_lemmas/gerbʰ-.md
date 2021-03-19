@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to carve"]]
+definitions: ["to carve"]
 topics: []
 ---

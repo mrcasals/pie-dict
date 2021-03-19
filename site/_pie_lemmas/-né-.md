@@ -6,6 +6,6 @@ klass: infix
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Forms mostly transitive imperfective verbs from perfective intransitive roots."]]
+definitions: ["Forms mostly transitive imperfective verbs from perfective intransitive roots."]
 topics: []
 ---

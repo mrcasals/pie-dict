@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to weave, braid"]]
+definitions: ["to weave", "braid"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to stroke, rub, strike", "to shear"]]
+definitions: ["to stroke", "rub", "strike", "to shear"]
 topics: []
 ---

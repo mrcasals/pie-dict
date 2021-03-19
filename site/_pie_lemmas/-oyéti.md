@@ -6,6 +6,6 @@ klass: suffix
 etymology: ["From *-yéti (factitive verb suffix)."]
 markers: []
 synonyms: []
-definitions: [["Creates factitive verbs from adjectives."]]
+definitions: ["Creates factitive verbs from adjectives."]
 topics: []
 ---

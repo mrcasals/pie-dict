@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *kagʰ- (“to take, seize”) +‎ *-yóm."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["enclosure, hedge"]]
+definitions: ["enclosure", "hedge"]
 topics: ["ine-pro:Walls and fences"]
 ---

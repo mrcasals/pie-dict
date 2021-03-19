@@ -6,6 +6,6 @@ klass: adverb
 etymology: ["Perhaps from *ḱe."]
 markers: []
 synonyms: []
-definitions: [["beside, near, by, with"]]
+definitions: ["beside", "near", "by", "with"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root present of the root *h₁ed-."]
 markers: []
 synonyms: []
-definitions: [["to eat"]]
+definitions: ["to eat"]
 topics: ["ine-pro:Food and drink"]
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to walk, to step", "to stumble, to fall"]]
+definitions: ["to walk", "to step", "to stumble", "to fall"]
 topics: []
 ---

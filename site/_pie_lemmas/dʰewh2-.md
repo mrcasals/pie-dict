@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["smoke", "mist, haze"]]
+definitions: ["smoke", "mist", "haze"]
 topics: []
 ---

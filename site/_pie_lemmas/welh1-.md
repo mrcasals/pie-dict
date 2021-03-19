@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to choose", "to want"]]
+definitions: ["to choose", "to want"]
 topics: []
 ---

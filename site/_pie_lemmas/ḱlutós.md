@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *ḱlew- (“to hear”) +‎ *-tós."]
 markers: []
 synonyms: []
-definitions: [["heard, listened", "known, famous"]]
+definitions: ["heard", "listened", "known", "famous"]
 topics: []
 ---

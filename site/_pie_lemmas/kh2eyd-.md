@@ -6,6 +6,6 @@ klass: root
 etymology: ["Possibly from *(s)kh₂ey- (perhaps whence Proto-Germanic *hajaną (“to pound”))  +‎ *-dʰh₁eti, possibly reanalyzed from *sekh₂- (“to cut, sever”) +‎ *-éyti."]
 markers: []
 synonyms: []
-definitions: [["to cut, hew"]]
+definitions: ["to cut", "hew"]
 topics: []
 ---

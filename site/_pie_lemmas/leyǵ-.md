@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to bind, tie"]]
+definitions: ["to bind", "tie"]
 topics: []
 ---

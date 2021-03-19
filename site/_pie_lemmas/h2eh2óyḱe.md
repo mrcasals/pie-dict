@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Reduplicated stative of the root *h₂eyḱ-."]
 markers: []
 synonyms: []
-definitions: [["to possess, to own"]]
+definitions: ["to possess", "to own"]
 topics: []
 ---

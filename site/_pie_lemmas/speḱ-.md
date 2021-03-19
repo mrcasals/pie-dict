@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to see, to look, to observe"]]
+definitions: ["to see", "to look", "to observe"]
 topics: ["ine-pro:Vision"]
 ---

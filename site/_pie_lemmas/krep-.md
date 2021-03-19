@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["body"]]
+definitions: ["body"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to bear, carry"]]
+definitions: ["to bear", "carry"]
 topics: []
 ---

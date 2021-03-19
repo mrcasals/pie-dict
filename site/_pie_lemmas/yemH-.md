@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["twin"]]
+definitions: ["twin"]
 topics: []
 ---

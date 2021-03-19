@@ -6,6 +6,6 @@ klass: numeral
 etymology: ["From *kʷetwr̥- (“four”) +‎ *déḱm̥ (“ten”)."]
 markers: []
 synonyms: []
-definitions: [["forty"]]
+definitions: ["forty"]
 topics: []
 ---

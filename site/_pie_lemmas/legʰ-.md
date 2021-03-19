@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to lie (to be in resting position)"]]
+definitions: ["to lie (to be in resting position)"]
 topics: []
 ---

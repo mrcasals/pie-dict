@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to leak"]]
+definitions: ["to leak"]
 topics: []
 ---

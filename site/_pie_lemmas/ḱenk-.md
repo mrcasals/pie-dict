@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to hang"]]
+definitions: ["to hang"]
 topics: []
 ---

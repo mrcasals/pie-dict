@@ -6,6 +6,6 @@ klass: root
 etymology: ["Possibly onomatopoeic, compare *h₂enh₁- (“to breathe”)."]
 markers: []
 synonyms: []
-definitions: [["to breathe", "breath"]]
+definitions: ["to breathe", "breath"]
 topics: []
 ---

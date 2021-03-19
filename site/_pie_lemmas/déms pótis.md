@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["master of the house"]]
+definitions: ["master of the house"]
 topics: ["ine-pro:People"]
 ---

@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root present of the root *h₁ey-."]
 markers: []
 synonyms: []
-definitions: [["to go, to be going"]]
+definitions: ["to go", "to be going"]
 topics: []
 ---

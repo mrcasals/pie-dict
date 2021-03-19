@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *ḱlew- (“to hear”) +‎ *-né-."]
 markers: []
 synonyms: []
-definitions: [["to be listening"]]
+definitions: ["to be listening"]
 topics: ["ine-pro:Hearing"]
 ---

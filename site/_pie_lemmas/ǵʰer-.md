@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to yearn for"], ["to enclose"], ["bowels, intestines"]]
+definitions: ["to yearn for", "to enclose", "bowels", "intestines"]
 topics: ["ine-pro:Organs"]
 ---

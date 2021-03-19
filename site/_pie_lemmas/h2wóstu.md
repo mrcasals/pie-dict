@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From the o-grade of *h₂wes- (“to dwell”) +‎ *-tu."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["home, dwelling"]]
+definitions: ["home", "dwelling"]
 topics: ["ine-pro:Home", "ine-pro:Buildings"]
 ---

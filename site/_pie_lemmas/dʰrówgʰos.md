@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *dʰrewgʰ- (“to deceive”) +‎ *-os."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["a deception, falsehood, lie"]]
+definitions: ["a deception", "falsehood", "lie"]
 topics: []
 ---

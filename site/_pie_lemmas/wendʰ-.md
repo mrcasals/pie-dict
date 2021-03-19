@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to wind, to turn"]]
+definitions: ["to wind", "to turn"]
 topics: []
 ---

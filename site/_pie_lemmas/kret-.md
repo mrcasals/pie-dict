@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["insight, intelligence", "strength"]]
+definitions: ["insight", "intelligence", "strength"]
 topics: []
 ---

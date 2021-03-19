@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *weyd- +‎ *-(h₁)seti."]
 markers: []
 synonyms: []
-definitions: [["to want to see"]]
+definitions: ["to want to see"]
 topics: ["ine-pro:Vision"]
 ---

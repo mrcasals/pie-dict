@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *dʰgʷʰey- (“to decline, perish”) +‎ *-tis."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["decay, destruction"]]
+definitions: ["decay", "destruction"]
 topics: []
 ---

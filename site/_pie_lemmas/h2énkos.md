@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₂enk- +‎ *-os."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["curve, bend"]]
+definitions: ["curve", "bend"]
 topics: []
 ---

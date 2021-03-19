@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *yewg- +‎ *-né-."]
 markers: []
 synonyms: []
-definitions: [["to be joining"]]
+definitions: ["to be joining"]
 topics: []
 ---

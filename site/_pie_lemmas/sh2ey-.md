@@ -6,6 +6,6 @@ klass: root
 etymology: ["Probably from *seh₂- (“to bind”) +‎ *-éyti."]
 markers: []
 synonyms: []
-definitions: [["to bind, fetter"]]
+definitions: ["to bind", "fetter"]
 topics: []
 ---

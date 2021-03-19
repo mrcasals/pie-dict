@@ -6,6 +6,6 @@ klass: determiner
 etymology: ["From *h₂el- +‎ *-teros."]
 markers: []
 synonyms: ["*h₂énteros"]
-definitions: [["other (of two), second"]]
+definitions: ["other (of two)", "second"]
 topics: []
 ---

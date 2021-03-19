@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["soft, calm", "lazy, slow"]]
+definitions: ["soft", "calm", "lazy", "slow"]
 topics: []
 ---

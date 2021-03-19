@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["summer, year (season)"]]
+definitions: ["summer", "year (season)"]
 topics: ["ine-pro:Seasons"]
 ---

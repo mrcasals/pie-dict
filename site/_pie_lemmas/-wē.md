@@ -6,6 +6,6 @@ klass: conjunction
 etymology: []
 markers: []
 synonyms: []
-definitions: [["or"]]
+definitions: ["or"]
 topics: []
 ---

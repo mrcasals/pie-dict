@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Thematic root present to the root *dʰegʷʰ-."]
 markers: []
 synonyms: []
-definitions: [["to burn, to be burning"]]
+definitions: ["to burn", "to be burning"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["sharp point, stick"]]
+definitions: ["sharp point", "stick"]
 topics: []
 ---

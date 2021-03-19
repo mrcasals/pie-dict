@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *pleh₁- (“to fill”) +‎ *-nós."]
 markers: []
 synonyms: []
-definitions: [["full"]]
+definitions: ["full"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to advance, push", "to drive, propel"]]
+definitions: ["to advance", "push", "to drive", "propel"]
 topics: []
 ---

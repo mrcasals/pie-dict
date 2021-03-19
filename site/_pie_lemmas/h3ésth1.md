@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["bone"]]
+definitions: ["bone"]
 topics: ["ine-pro:Bones"]
 ---

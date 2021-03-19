@@ -6,6 +6,6 @@ klass: prefix
 etymology: ["Zero grade form of the numeral *dwóh₁ (“two”)."]
 markers: []
 synonyms: []
-definitions: [["two", "apart, asunder"]]
+definitions: ["two", "apart", "asunder"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *ley- (“to flow, pour, stream”) +‎ *-mō (agent noun suffix)."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["lake"]]
+definitions: ["lake"]
 topics: ["ine-pro:Landforms", "ine-pro:Water"]
 ---

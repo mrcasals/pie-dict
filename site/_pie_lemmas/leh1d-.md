@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to be tired"]]
+definitions: ["to be tired"]
 topics: []
 ---

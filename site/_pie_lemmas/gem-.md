@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to grab, grip; be full"]]
+definitions: ["to grab", "grip", "be full"]
 topics: []
 ---

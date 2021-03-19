@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["barley"]]
+definitions: ["barley"]
 topics: ["ine-pro:Grains"]
 ---

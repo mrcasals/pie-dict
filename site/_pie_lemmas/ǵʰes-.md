@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["hand", "take, give in exchange"]]
+definitions: ["hand", "take", "give in exchange"]
 topics: ["ine-pro:Appendages"]
 ---

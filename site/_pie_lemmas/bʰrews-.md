@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to break"]]
+definitions: ["to break"]
 topics: []
 ---

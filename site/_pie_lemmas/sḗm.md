@@ -6,6 +6,6 @@ klass: numeral
 etymology: ["From *sem- (“one”)."]
 markers: []
 synonyms: ["*óynos"]
-definitions: [["one\nSynonym: *óynos"]]
+definitions: ["one"]
 topics: []
 ---

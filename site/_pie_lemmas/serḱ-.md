@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to emend, make good, recompense"]]
+definitions: ["to emend", "make good", "recompense"]
 topics: []
 ---

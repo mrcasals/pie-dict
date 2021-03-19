@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *gʷem- +‎ *-sḱéti."]
 markers: []
 synonyms: []
-definitions: [["to be walking", "to come, to be coming"]]
+definitions: ["to be walking", "to come", "to be coming"]
 topics: ["ine-pro:Gaits"]
 ---

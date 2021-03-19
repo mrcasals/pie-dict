@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["Derived from *h₁rewdʰ- +‎ *-rós."]
 markers: []
 synonyms: []
-definitions: [["red"]]
+definitions: ["red"]
 topics: ["ine-pro:Colors"]
 ---

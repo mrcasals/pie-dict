@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to fall into thinking, remember, care for"], ["to assign, allot"]]
+definitions: ["to fall into thinking", "remember", "care for", "to assign", "allot"]
 topics: []
 ---

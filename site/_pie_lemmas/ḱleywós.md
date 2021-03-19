@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *ḱley- (“to lean, slope”) +‎ *-wós."]
 markers: []
 synonyms: []
-definitions: [["sloped, curved"]]
+definitions: ["sloped", "curved"]
 topics: []
 ---

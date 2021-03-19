@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["*deh₃- (“give”) +‎ *-tós"]
 markers: []
 synonyms: []
-definitions: [["given"]]
+definitions: ["given"]
 topics: []
 ---

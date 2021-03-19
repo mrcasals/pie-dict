@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to tug, to stretch", "to pluck"]]
+definitions: ["to tug", "to stretch", "to pluck"]
 topics: []
 ---

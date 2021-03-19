@@ -6,6 +6,6 @@ klass: root
 etymology: ["Uncertain; the connection between each form is semantically fine, however their isolation makes this reconstruction suspect."]
 markers: []
 synonyms: []
-definitions: [["false, erroneous", "bad, evil"]]
+definitions: ["false", "erroneous", "bad", "evil"]
 topics: []
 ---

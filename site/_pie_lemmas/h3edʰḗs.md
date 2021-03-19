@@ -6,6 +6,6 @@ klass: noun
 etymology: ["Perhaps from *h₃edʰ- (“to cut”)."]
 markers: []
 synonyms: []
-definitions: [["adze"]]
+definitions: ["adze"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: ["Unknown; possibly borrowed from a substrate language."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["dregs, sediment (of wine, oil, fat)"]]
+definitions: ["dregs", "sediment (of wine", "oil", "fat)"]
 topics: []
 ---

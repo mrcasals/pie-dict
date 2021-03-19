@@ -6,6 +6,6 @@ klass: root
 etymology: ["Possibly related to Proto-Kartvelian *deɣ- (“day”) (Can this(+) etymology be sourced?)."]
 markers: []
 synonyms: []
-definitions: [["to burn", "warm, hot"]]
+definitions: ["to burn", "warm", "hot"]
 topics: []
 ---

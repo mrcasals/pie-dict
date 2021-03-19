@@ -6,6 +6,6 @@ klass: root
 etymology: ["From *h₂eǵ- (“to drive”)."]
 markers: []
 synonyms: []
-definitions: [["axis, axle"]]
+definitions: ["axis", "axle"]
 topics: []
 ---

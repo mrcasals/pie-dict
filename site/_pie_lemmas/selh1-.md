@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to take"]]
+definitions: ["to take"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: []
 synonyms: []
-definitions: [["goat"], ["oak"]]
+definitions: ["goat", "oak"]
 topics: ["ine-pro:Goats"]
 ---

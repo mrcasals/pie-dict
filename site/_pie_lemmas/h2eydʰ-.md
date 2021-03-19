@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to ignite", "fire"]]
+definitions: ["to ignite", "fire"]
 topics: []
 ---

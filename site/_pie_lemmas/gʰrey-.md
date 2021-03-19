@@ -6,6 +6,6 @@ klass: root
 etymology: ["Extended from *gʰer- (“to rub”)."]
 markers: []
 synonyms: []
-definitions: [["to smear", "to paint", "to streak"]]
+definitions: ["to smear", "to paint", "to streak"]
 topics: []
 ---

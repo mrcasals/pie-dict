@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root present of the root *wert-."]
 markers: []
 synonyms: []
-definitions: [["to be turning around"]]
+definitions: ["to be turning around"]
 topics: []
 ---

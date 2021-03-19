@@ -6,6 +6,6 @@ klass: noun
 etymology: ["Possibly Northern Indo-European substratum word or a late PIE regionalism with otherwise atypical/non-existent phoneme */a/."]
 markers: [["f", "feminine gender"]]
 synonyms: ["*smóḱwr̥"]
-definitions: [["beard"]]
+definitions: ["beard"]
 topics: ["ine-pro:Face", "ine-pro:Hair"]
 ---

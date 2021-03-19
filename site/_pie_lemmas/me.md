@@ -6,6 +6,6 @@ klass: adverb
 etymology: []
 markers: []
 synonyms: []
-definitions: [["in the middle of, near, by, around, with"]]
+definitions: ["in the middle of", "near", "by", "around", "with"]
 topics: []
 ---

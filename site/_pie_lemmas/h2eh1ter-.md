@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: []
 synonyms: []
-definitions: [["fire"]]
+definitions: ["fire"]
 topics: []
 ---

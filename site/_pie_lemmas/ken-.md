@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to arise, begin"]]
+definitions: ["to arise", "begin"]
 topics: []
 ---

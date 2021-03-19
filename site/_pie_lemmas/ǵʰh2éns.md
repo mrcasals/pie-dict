@@ -6,6 +6,6 @@ klass: noun
 etymology: ["Probably of imitative origin."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["goose"]]
+definitions: ["goose"]
 topics: ["ine-pro:Geese"]
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to be"]]
+definitions: ["to be"]
 topics: []
 ---

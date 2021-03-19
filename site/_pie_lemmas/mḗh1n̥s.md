@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From earlier *méh₁n̥ss, probably from *meh₁- (“to measure”)."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["moon", "month"]]
+definitions: ["moon", "month"]
 topics: ["ine-pro:Moons", "ine-pro:Light sources", "ine-pro:Time"]
 ---

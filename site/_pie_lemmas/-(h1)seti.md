@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Creates desiderative imperfective verbs from roots."]]
+definitions: ["Creates desiderative imperfective verbs from roots."]
 topics: []
 ---

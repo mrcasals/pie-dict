@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *pleh₁- (“to fill”) +‎ *-dʰh₁eti."]
 markers: []
 synonyms: []
-definitions: [["to become full, swell", "to increase, further"]]
+definitions: ["to become full", "swell", "to increase", "further"]
 topics: []
 ---

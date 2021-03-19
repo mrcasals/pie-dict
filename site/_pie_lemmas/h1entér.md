@@ -6,6 +6,6 @@ klass: adverb
 etymology: ["From *h₁en."]
 markers: []
 synonyms: []
-definitions: [["between"]]
+definitions: ["between"]
 topics: []
 ---

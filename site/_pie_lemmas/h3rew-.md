@@ -6,6 +6,6 @@ klass: root
 etymology: ["*-w- extension of *h₃er-."]
 markers: []
 synonyms: []
-definitions: [["to run, to hurry"]]
+definitions: ["to run", "to hurry"]
 topics: []
 ---

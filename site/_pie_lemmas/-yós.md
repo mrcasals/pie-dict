@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Creates adjectives from noun (e.g. *diwyós) or verb (e.g. *kagʰyós/*kagʰyóm) stems."]]
+definitions: ["Creates adjectives from noun (e.g. *diwyós) or verb (e.g. *kagʰyós/*kagʰyóm) stems."]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Derives nouns from roots."], ["Derives nouns from roots."], ["Derives nouns from roots."], ["Derives nouns from roots."]]
+definitions: ["Derives nouns from roots.", "Derives nouns from roots.", "Derives nouns from roots.", "Derives nouns from roots."]
 topics: []
 ---

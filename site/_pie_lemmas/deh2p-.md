@@ -6,6 +6,6 @@ klass: root
 etymology: ["Extension of *deh₂- (“to divide”)."]
 markers: []
 synonyms: []
-definitions: [["to sacrifice", "to lose"]]
+definitions: ["to sacrifice", "to lose"]
 topics: []
 ---

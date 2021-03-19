@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: ["*bʰew-", "*dʰen-", "*kelh₂-", "*kret-", "*meldʰ-", "*pleh₂k-", "*(s)kep-"]
-definitions: [["to hit, to strike\nSynonyms: *bʰew-, *dʰen-, *kelh₂-, *kret-, *meldʰ-, *pleh₂k-, *(s)kep-", "to forge"]]
+definitions: ["to hit", "to strike", "to forge"]
 topics: []
 ---

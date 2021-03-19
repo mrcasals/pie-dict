@@ -6,6 +6,6 @@ klass: root
 etymology: ["From *h₂weg-, of which the zero grade *h₂ug- was reanalysed as having the ablaut vowel before the -w- rather than after it, creating a new variant form of the root. The original root remained in use, however."]
 markers: []
 synonyms: []
-definitions: [["to increase, to enlarge"]]
+definitions: ["to increase", "to enlarge"]
 topics: []
 ---

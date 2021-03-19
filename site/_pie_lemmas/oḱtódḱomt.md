@@ -6,6 +6,6 @@ klass: numeral
 etymology: ["From *oḱtṓw (“eight”) +‎ *déḱm̥ (“ten”)."]
 markers: []
 synonyms: []
-definitions: [["eighty"]]
+definitions: ["eighty"]
 topics: []
 ---

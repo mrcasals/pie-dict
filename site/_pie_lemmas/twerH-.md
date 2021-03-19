@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to enclose, fence in", "to grab, seize"], ["to stir", "to hurry, hasten"]]
+definitions: ["to enclose", "fence in", "to grab", "seize", "to stir", "to hurry", "hasten"]
 topics: []
 ---

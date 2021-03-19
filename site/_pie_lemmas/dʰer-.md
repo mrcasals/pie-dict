@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to support", "to hold"]]
+definitions: ["to support", "to hold"]
 topics: []
 ---

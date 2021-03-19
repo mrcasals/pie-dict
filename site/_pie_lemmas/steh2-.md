@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to stand (up)"]]
+definitions: ["to stand (up)"]
 topics: []
 ---

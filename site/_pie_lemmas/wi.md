@@ -6,6 +6,6 @@ klass: adverb
 etymology: []
 markers: []
 synonyms: []
-definitions: [["apart, asunder", "away from, against"]]
+definitions: ["apart", "asunder", "away from", "against"]
 topics: []
 ---

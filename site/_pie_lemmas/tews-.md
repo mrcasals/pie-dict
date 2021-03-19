@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to be empty; to drain"], ["to be happy"]]
+definitions: ["to be empty", "to drain", "to be happy"]
 topics: []
 ---

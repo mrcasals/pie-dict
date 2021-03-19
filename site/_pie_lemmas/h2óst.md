@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["alternative reconstruction of *h₃ésth₁"]]
+definitions: ["alternative reconstruction of *h₃ésth₁"]
 topics: ["ine-pro:Body parts"]
 ---

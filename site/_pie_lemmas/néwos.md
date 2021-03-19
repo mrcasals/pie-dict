@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From the hapax root *new-. Ultimately, suggested to be a vṛddhi derivation from *nu (“now”)."]
 markers: []
 synonyms: []
-definitions: [["new"]]
+definitions: ["new"]
 topics: []
 ---

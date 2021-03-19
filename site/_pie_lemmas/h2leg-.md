@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to care for"]]
+definitions: ["to care for"]
 topics: []
 ---

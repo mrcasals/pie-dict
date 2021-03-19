@@ -6,6 +6,6 @@ klass: root
 etymology: ["Onomatopoeic."]
 markers: []
 synonyms: []
-definitions: [["to belch", "to roar"]]
+definitions: ["to belch", "to roar"]
 topics: []
 ---

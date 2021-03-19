@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to take by the hand", "to receive, obtain"], ["to weave"]]
+definitions: ["to take by the hand", "to receive", "obtain", "to weave"]
 topics: []
 ---

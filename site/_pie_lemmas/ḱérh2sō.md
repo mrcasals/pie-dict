@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *ḱerh₂s- (“head, horn”) +‎ *-ō"]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["head, skull"]]
+definitions: ["head", "skull"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to rest", "rest, peace"]]
+definitions: ["to rest", "rest", "peace"]
 topics: []
 ---

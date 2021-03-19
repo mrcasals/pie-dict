@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["settlement, dwelling", "to build, dwell"]]
+definitions: ["settlement", "dwelling", "to build", "dwell"]
 topics: []
 ---

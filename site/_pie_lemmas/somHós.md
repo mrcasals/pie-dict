@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["Presumably from *sem-."]
 markers: []
 synonyms: []
-definitions: [["same, alike\nAntonym: *h₂élyos"]]
+definitions: ["same", "alike"]
 topics: []
 ---

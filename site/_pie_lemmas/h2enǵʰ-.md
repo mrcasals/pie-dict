@@ -6,6 +6,6 @@ klass: root
 etymology: ["Perhaps related to *h₂eng-, *h₂enk-, *h₂eḱ-"]
 markers: []
 synonyms: []
-definitions: [["to constrict, tighten, compress", "narrow, tight", "distressed, anxious"]]
+definitions: ["to constrict", "tighten", "compress", "narrow", "tight", "distressed", "anxious"]
 topics: []
 ---

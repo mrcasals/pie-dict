@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to move"]]
+definitions: ["to move"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *seyt- +‎ *-ós."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["magic"]]
+definitions: ["magic"]
 topics: []
 ---

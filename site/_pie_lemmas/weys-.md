@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to raise, increase", "to produce, procreate"]]
+definitions: ["to raise", "increase", "to produce", "procreate"]
 topics: []
 ---

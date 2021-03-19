@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to be sharp", "to sting"]]
+definitions: ["to be sharp", "to sting"]
 topics: []
 ---

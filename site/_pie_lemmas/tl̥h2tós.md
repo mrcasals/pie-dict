@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *telh₂- +‎ *-tós."]
 markers: []
 synonyms: []
-definitions: [["lifted"]]
+definitions: ["lifted"]
 topics: []
 ---

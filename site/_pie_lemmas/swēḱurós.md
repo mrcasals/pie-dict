@@ -6,6 +6,6 @@ klass: noun
 etymology: ["Vrddhi derivation of *swéḱuros"]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["brother-in-law"]]
+definitions: ["brother-in-law"]
 topics: ["ine-pro:Male family members"]
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["beech"]]
+definitions: ["beech"]
 topics: ["ine-pro:Beech family plants"]
 ---

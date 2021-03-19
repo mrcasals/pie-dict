@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *steh₂- (“stand (up)”) +‎ *-tis."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["standing, position"]]
+definitions: ["standing", "position"]
 topics: []
 ---

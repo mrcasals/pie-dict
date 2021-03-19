@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *méǵh₂s +‎ *-yōs."]
 markers: []
 synonyms: []
-definitions: [["bigger, greater"]]
+definitions: ["bigger", "greater"]
 topics: []
 ---

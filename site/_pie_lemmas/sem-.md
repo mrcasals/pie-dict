@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["together, one"]]
+definitions: ["together", "one"]
 topics: []
 ---

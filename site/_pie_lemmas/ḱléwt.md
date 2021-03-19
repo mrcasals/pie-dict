@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root aorist of *ḱlew-."]
 markers: []
 synonyms: []
-definitions: [["to hear"]]
+definitions: ["to hear"]
 topics: ["ine-pro:Hearing"]
 ---

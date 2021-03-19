@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *ǵneh₃- +‎ *-tós."]
 markers: []
 synonyms: []
-definitions: [["known", "recognisable"]]
+definitions: ["known", "recognisable"]
 topics: []
 ---

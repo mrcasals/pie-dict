@@ -6,6 +6,6 @@ klass: root
 etymology: ["Perhaps related to *h₂enk-, *h₂enǵʰ-, *h₂eḱ-"]
 markers: []
 synonyms: []
-definitions: [["curve, bend"]]
+definitions: ["curve", "bend"]
 topics: []
 ---

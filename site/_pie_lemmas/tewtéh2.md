@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["people, tribe"]]
+definitions: ["people", "tribe"]
 topics: ["ine-pro:People", "ine-pro:Tribes", "ine-pro:Anthropology", "ine-pro:Collectives"]
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to grind, to crush"]]
+definitions: ["to grind", "to crush"]
 topics: []
 ---

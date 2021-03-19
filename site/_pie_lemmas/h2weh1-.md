@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to blow (of wind)"]]
+definitions: ["to blow (of wind)"]
 topics: []
 ---

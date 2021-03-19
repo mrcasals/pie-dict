@@ -6,6 +6,6 @@ klass: root
 etymology: ["Possibly derived from *mey-."]
 markers: []
 synonyms: []
-definitions: [["to exchange"]]
+definitions: ["to exchange"]
 topics: []
 ---

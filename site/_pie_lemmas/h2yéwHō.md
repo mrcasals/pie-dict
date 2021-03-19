@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *h₂óyu (“long time, lifetime”) +‎ *-Hō (“Hoffman's suffix”)."]
 markers: []
 synonyms: []
-definitions: [["young\nAntonym: *sénos"]]
+definitions: ["young"]
 topics: ["ine-pro:Age"]
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to request, pray, ask for"]]
+definitions: ["to request", "pray", "ask for"]
 topics: []
 ---

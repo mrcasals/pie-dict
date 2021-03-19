@@ -6,6 +6,6 @@ klass: root
 etymology: ["Extension of *deh₂- (“to share, divide”)."]
 markers: []
 synonyms: []
-definitions: [["to share, divide"]]
+definitions: ["to share", "divide"]
 topics: []
 ---

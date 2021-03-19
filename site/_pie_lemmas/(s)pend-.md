@@ -6,6 +6,6 @@ klass: root
 etymology: ["Possible reanalyzed root of *(s)penh₁- (“to spin (thread); to stretch”) +‎ *-dʰh₁eti."]
 markers: []
 synonyms: []
-definitions: [["to stretch"]]
+definitions: ["to stretch"]
 topics: []
 ---

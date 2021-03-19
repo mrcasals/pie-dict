@@ -6,6 +6,6 @@ klass: root
 etymology: ["Perhaps connected to the synonymous *ǵʰewH-."]
 markers: []
 synonyms: []
-definitions: [["to call, name", "to invoke, call on", "to cry, cry out"]]
+definitions: ["to call", "name", "to invoke", "call on", "to cry", "cry out"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Thematic root verb of the root *weǵʰ-."]
 markers: []
 synonyms: []
-definitions: [["to be transporting"]]
+definitions: ["to be transporting"]
 topics: ["ine-pro:Transport"]
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *steh₂- (“stand”) +‎ *-mn̥."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["that which stands, stature"]]
+definitions: ["that which stands", "stature"]
 topics: []
 ---

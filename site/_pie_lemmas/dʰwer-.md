@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["door"]]
+definitions: ["door"]
 topics: []
 ---

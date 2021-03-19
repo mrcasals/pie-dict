@@ -6,6 +6,6 @@ klass: root
 etymology: ["Extended from *(s)tew- (“to push, hit”)."]
 markers: []
 synonyms: []
-definitions: [["to push, to stick"]]
+definitions: ["to push", "to stick"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *gʷʰer- (“hot, warm”) +‎ *-éyeti (causative suffix)."]
 markers: []
 synonyms: []
-definitions: [["to heat"]]
+definitions: ["to heat"]
 topics: ["ine-pro:Temperature"]
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *ḱley- (“to shelter, cover”) +‎ *-treh₂."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["shelter, covering"]]
+definitions: ["shelter", "covering"]
 topics: ["ine-pro:Buildings"]
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to cut"]]
+definitions: ["to cut"]
 topics: []
 ---

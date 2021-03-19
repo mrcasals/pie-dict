@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to grow old, to mature"]]
+definitions: ["to grow old", "to mature"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Thematic root verb of the root *h₃reǵ-."]
 markers: []
 synonyms: []
-definitions: [["to be straightening, to be setting upright"]]
+definitions: ["to be straightening", "to be setting upright"]
 topics: []
 ---

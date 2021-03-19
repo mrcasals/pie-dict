@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *speḱ- +‎ *-yeti."]
 markers: []
 synonyms: []
-definitions: [["to be looking at, to keep looking at"]]
+definitions: ["to be looking at", "to keep looking at"]
 topics: ["ine-pro:Vision"]
 ---

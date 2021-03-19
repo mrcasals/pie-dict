@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to speak, say"]]
+definitions: ["to speak", "say"]
 topics: ["ine-pro:Talking"]
 ---

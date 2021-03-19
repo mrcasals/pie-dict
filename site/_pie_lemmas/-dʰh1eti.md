@@ -6,6 +6,6 @@ klass: suffix
 etymology: ["From *dʰeh₁- (“to do”)."]
 markers: []
 synonyms: []
-definitions: [["Forms resultative verbs."]]
+definitions: ["Forms resultative verbs."]
 topics: []
 ---

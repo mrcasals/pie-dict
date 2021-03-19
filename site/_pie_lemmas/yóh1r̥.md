@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["n", "neuter gender"]]
 synonyms: ["*ǵʰéyōm", "*wétos"]
-definitions: [["year\nSynonyms: *ǵʰéyōm, *wétos"]]
+definitions: ["year"]
 topics: ["ine-pro:Years"]
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to be able"]]
+definitions: ["to be able"]
 topics: []
 ---

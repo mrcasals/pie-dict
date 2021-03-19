@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root verb of the root *bʰeyd-."]
 markers: []
 synonyms: []
-definitions: [["to split"]]
+definitions: ["to split"]
 topics: []
 ---

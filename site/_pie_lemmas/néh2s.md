@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["nose"]]
+definitions: ["nose"]
 topics: ["ine-pro:Appendages"]
 ---

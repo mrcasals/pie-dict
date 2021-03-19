@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["n", "neuter gender"]]
 synonyms: ["*médʰu*mélit"]
-definitions: [["honey"]]
+definitions: ["honey"]
 topics: ["ine-pro:Foods", "ine-pro:Bees"]
 ---

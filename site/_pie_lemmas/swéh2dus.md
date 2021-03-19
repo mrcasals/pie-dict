@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *sweh₂d- +‎ *-us."]
 markers: []
 synonyms: ["*délkus"]
-definitions: [["sweet\nSynonym: *délkus"]]
+definitions: ["sweet"]
 topics: []
 ---

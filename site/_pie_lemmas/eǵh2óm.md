@@ -6,6 +6,6 @@ klass: pronoun
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Alternative form of *éǵh₂"]]
+definitions: ["Alternative form of *éǵh₂"]
 topics: []
 ---

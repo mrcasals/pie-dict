@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["fat, milk"]]
+definitions: ["fat", "milk"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["resin, gum"], ["to say, speak"]]
+definitions: ["resin", "gum", "to say", "speak"]
 topics: []
 ---

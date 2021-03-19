@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to pluck (wool, hair)"], ["livestock", "wealth"], ["joyful", "pretty"]]
+definitions: ["to pluck (wool", "hair)", "livestock", "wealth", "joyful", "pretty"]
 topics: []
 ---

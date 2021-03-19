@@ -6,6 +6,6 @@ klass: adverb
 etymology: ["From *per- (“before”)."]
 markers: []
 synonyms: []
-definitions: [["toward, leading to"]]
+definitions: ["toward", "leading to"]
 topics: []
 ---

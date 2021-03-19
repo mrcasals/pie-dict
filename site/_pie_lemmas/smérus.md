@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *smer- (“anoint”) +‎ *-us."]
 markers: []
 synonyms: []
-definitions: [["grease"]]
+definitions: ["grease"]
 topics: ["ine-pro:Fats and oils"]
 ---

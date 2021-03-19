@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *h₂yéwHō. This etymology is incomplete. You can help Wiktionary by elaborating on the origins of this term."]
 markers: []
 synonyms: []
-definitions: [["young"]]
+definitions: ["young"]
 topics: []
 ---

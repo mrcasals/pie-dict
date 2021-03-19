@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["ash tree"]]
+definitions: ["ash tree"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *mems- +‎ *-s."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["flesh, meat"]]
+definitions: ["flesh", "meat"]
 topics: ["ine-pro:Meats"]
 ---

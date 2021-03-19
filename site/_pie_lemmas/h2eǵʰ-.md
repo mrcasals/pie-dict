@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: []
 synonyms: []
-definitions: [["cow"]]
+definitions: ["cow"]
 topics: ["ine-pro:Cattle"]
 ---

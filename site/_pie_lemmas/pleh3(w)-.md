@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to swim, flow"]]
+definitions: ["to swim", "flow"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Alternative form of *dʰwes-"]]
+definitions: ["Alternative form of *dʰwes-"]
 topics: []
 ---

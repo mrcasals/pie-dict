@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["rotten, foul"]]
+definitions: ["rotten", "foul"]
 topics: []
 ---

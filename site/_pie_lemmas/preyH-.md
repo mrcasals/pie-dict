@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to love, to please"]]
+definitions: ["to love", "to please"]
 topics: []
 ---

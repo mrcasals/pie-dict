@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["shoulder"]]
+definitions: ["shoulder"]
 topics: ["ine-pro:Body parts"]
 ---

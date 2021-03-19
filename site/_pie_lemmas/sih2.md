@@ -6,6 +6,6 @@ klass: pronoun
 etymology: ["Derived from *só + *-ih₂."]
 markers: []
 synonyms: []
-definitions: [["she"]]
+definitions: ["she"]
 topics: []
 ---

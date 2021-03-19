@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Reduplicated stative of the root *steh₂-."]
 markers: []
 synonyms: []
-definitions: [["to be standing"]]
+definitions: ["to be standing"]
 topics: []
 ---

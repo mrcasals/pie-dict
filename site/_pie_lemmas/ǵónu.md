@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["knee"]]
+definitions: ["knee"]
 topics: ["ine-pro:Body parts"]
 ---

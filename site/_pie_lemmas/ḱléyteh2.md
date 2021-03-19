@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *ḱley- (“to lean, slope”) +‎ *-teh₂."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["something leaning, sloped, inclined"]]
+definitions: ["something leaning", "sloped", "inclined"]
 topics: []
 ---

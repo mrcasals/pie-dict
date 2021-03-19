@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *h₂lek- +‎ *-seti."]
 markers: []
 synonyms: []
-definitions: [["to be protecting"]]
+definitions: ["to be protecting"]
 topics: []
 ---

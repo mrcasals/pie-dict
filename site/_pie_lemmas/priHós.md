@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *preyH- +‎ *-ós."]
 markers: []
 synonyms: []
-definitions: [["dear, beloved", "happy, free"]]
+definitions: ["dear", "beloved", "happy", "free"]
 topics: []
 ---

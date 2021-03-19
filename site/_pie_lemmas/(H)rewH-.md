@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to dig out, to root"]]
+definitions: ["to dig out", "to root"]
 topics: []
 ---

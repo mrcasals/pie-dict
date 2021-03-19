@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *ǵel- (“to swallow”)."]
 markers: []
 synonyms: []
-definitions: [["leech"]]
+definitions: ["leech"]
 topics: ["ine-pro:Parasites"]
 ---

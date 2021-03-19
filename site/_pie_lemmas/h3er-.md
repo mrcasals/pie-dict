@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to move, to stir", "to rise, to spring", "to quarrel, fight"]]
+definitions: ["to move", "to stir", "to rise", "to spring", "to quarrel", "fight"]
 topics: []
 ---

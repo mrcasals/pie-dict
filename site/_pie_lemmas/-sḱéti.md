@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Forms durative or iterative imperfective verbs from roots."]]
+definitions: ["Forms durative or iterative imperfective verbs from roots."]
 topics: []
 ---

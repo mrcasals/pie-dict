@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["blueish"]]
+definitions: ["blueish"]
 topics: []
 ---

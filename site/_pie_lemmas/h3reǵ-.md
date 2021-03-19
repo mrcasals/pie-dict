@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to straighten, to right oneself", "right", "just"]]
+definitions: ["to straighten", "to right oneself", "right", "just"]
 topics: []
 ---

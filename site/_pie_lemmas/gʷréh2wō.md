@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *gʷréh₂us (“heavy”) +‎ *-ō"]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["quern, mill-stone"]]
+definitions: ["quern", "mill-stone"]
 topics: []
 ---

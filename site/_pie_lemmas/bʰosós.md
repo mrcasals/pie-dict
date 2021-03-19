@@ -6,6 +6,6 @@ klass: adjective
 etymology: []
 markers: []
 synonyms: []
-definitions: [["bare, barefoot"]]
+definitions: ["bare", "barefoot"]
 topics: []
 ---

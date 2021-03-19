@@ -6,6 +6,6 @@ klass: verb
 etymology: ["*bʰewdʰ- (“aware, alert”) +‎ *-éyeti (causative)."]
 markers: []
 synonyms: []
-definitions: [["to make aware", "to awaken, arouse"]]
+definitions: ["to make aware", "to awaken", "arouse"]
 topics: []
 ---

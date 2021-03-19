@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *dyew- +‎ *-ih₂."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["goddess"]]
+definitions: ["goddess"]
 topics: ["ine-pro:Religion", "ine-pro:Gods"]
 ---

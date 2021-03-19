@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["udder"]]
+definitions: ["udder"]
 topics: ["ine-pro:Animal body parts"]
 ---

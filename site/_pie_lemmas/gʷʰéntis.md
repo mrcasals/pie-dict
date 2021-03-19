@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *gʷʰen- (“to strike, slay”) +‎ *-tis."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["striking, killing"]]
+definitions: ["striking", "killing"]
 topics: []
 ---

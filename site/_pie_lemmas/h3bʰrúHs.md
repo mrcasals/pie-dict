@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["eyebrow"]]
+definitions: ["eyebrow"]
 topics: ["ine-pro:Hair"]
 ---

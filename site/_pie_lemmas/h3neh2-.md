@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to enjoy"]]
+definitions: ["to enjoy"]
 topics: []
 ---

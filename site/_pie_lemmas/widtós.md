@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *weyd- +‎ *-tós."]
 markers: []
 synonyms: []
-definitions: [["seen", "known"]]
+definitions: ["seen", "known"]
 topics: ["ine-pro:Vision"]
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["tongue"]]
+definitions: ["tongue"]
 topics: ["ine-pro:Organs"]
 ---

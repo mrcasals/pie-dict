@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Forms perfective verbs from roots."]]
+definitions: ["Forms perfective verbs from roots."]
 topics: []
 ---

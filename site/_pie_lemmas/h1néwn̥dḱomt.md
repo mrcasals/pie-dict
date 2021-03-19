@@ -6,6 +6,6 @@ klass: numeral
 etymology: ["From *h₁néwn̥ (“nine”) +‎ *déḱm̥ (“ten”)."]
 markers: []
 synonyms: []
-definitions: [["ninety"]]
+definitions: ["ninety"]
 topics: []
 ---

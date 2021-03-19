@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *deḱ- (“take, perceive”) +‎ *-os."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["that which is proper"]]
+definitions: ["that which is proper"]
 topics: []
 ---

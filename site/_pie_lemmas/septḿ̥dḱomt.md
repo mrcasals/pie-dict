@@ -6,6 +6,6 @@ klass: numeral
 etymology: ["From *septḿ̥ (“seven”) +‎ *déḱm̥ (“ten”)."]
 markers: []
 synonyms: []
-definitions: [["seventy"]]
+definitions: ["seventy"]
 topics: []
 ---

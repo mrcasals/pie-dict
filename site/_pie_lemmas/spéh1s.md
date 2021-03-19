@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From the root *speh₁- (“to succeed, to prosper”)."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["prosperity, success"]]
+definitions: ["prosperity", "success"]
 topics: ["ine-pro:Economics"]
 ---

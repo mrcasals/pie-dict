@@ -6,6 +6,6 @@ klass: root
 etymology: ["Could be from *dʰeǵʰ- (“day”), whence perhaps Proto-Germanic *dagaz."]
 markers: []
 synonyms: []
-definitions: [["yesterday, the day before"]]
+definitions: ["yesterday", "the day before"]
 topics: []
 ---

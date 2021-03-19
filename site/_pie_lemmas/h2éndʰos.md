@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₂endʰ- +‎ *-os."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["bloom"]]
+definitions: ["bloom"]
 topics: []
 ---

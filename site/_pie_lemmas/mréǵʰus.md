@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["*mreǵʰ- +‎ *-us"]
 markers: []
 synonyms: []
-definitions: [["short", "brief"]]
+definitions: ["short", "brief"]
 topics: []
 ---

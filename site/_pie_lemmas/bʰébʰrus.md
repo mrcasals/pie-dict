@@ -6,6 +6,6 @@ klass: noun
 etymology: ["Possibly from *bʰerH- (“brown”)."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["beaver"]]
+definitions: ["beaver"]
 topics: ["ine-pro:Rodents"]
 ---

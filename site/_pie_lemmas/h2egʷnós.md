@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₂egʷ- +‎ *-nós."]
 markers: []
 synonyms: []
-definitions: [["lamb"]]
+definitions: ["lamb"]
 topics: ["ine-pro:Sheep", "ine-pro:Baby animals"]
 ---

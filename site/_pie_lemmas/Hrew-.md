@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to tear out, dig out, open, acquire"]]
+definitions: ["to tear out", "dig out", "open", "acquire"]
 topics: []
 ---

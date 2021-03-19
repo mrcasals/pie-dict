@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to cover, to roof", "rib"]]
+definitions: ["to cover", "to roof", "rib"]
 topics: []
 ---

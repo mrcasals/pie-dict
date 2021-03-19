@@ -6,6 +6,6 @@ klass: root
 etymology: ["Often compared with Proto-Uralic *ku- and Proto-Turkic *ka-."]
 markers: []
 synonyms: []
-definitions: [["The primary interrogative root."]]
+definitions: ["The primary interrogative root."]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to bleat", "to cry"], ["to blow"]]
+definitions: ["to bleat", "to cry", "to blow"]
 topics: []
 ---

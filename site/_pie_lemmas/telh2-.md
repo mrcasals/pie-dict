@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to bear, to undergo, to endure"], ["ground, bottom"]]
+definitions: ["to bear", "to undergo", "to endure", "ground", "bottom"]
 topics: []
 ---

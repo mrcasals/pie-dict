@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *legʰ- +‎ *-yeti."]
 markers: []
 synonyms: []
-definitions: [["to be lying down"]]
+definitions: ["to be lying down"]
 topics: []
 ---

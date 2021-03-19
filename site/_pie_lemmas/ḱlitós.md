@@ -6,6 +6,6 @@ klass: adjective
 etymology: []
 markers: []
 synonyms: []
-definitions: [["covered, sheltered"], ["leaning, sloped, inclined"]]
+definitions: ["covered", "sheltered", "leaning", "sloped", "inclined"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Root stative of the root *weyd-."]
 markers: []
 synonyms: []
-definitions: [["to have seen, to know"]]
+definitions: ["to have seen", "to know"]
 topics: ["ine-pro:Vision"]
 ---

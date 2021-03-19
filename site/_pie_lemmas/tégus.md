@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["*teg- +‎ *-us."]
 markers: []
 synonyms: []
-definitions: [["thick"]]
+definitions: ["thick"]
 topics: []
 ---

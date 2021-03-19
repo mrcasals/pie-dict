@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root aorist of *skeyd-."]
 markers: []
 synonyms: []
-definitions: [["to cut off"]]
+definitions: ["to cut off"]
 topics: []
 ---

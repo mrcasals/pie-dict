@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: ["*h₁egʷʰ-"]
-definitions: [["to drink\nSynonym: *h₁egʷʰ-"]]
+definitions: ["to drink"]
 topics: []
 ---

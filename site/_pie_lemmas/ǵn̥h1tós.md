@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *ǵenh₁- (“to beget, to give birth”) +‎ *-tós."]
 markers: []
 synonyms: []
-definitions: [["begotten, produced"]]
+definitions: ["begotten", "produced"]
 topics: []
 ---

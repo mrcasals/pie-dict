@@ -6,6 +6,6 @@ klass: adverb
 etymology: []
 markers: []
 synonyms: []
-definitions: [["on, onto"]]
+definitions: ["on", "onto"]
 topics: []
 ---

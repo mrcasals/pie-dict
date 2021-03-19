@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *speḱ- (“to see, look”) +‎ *-s."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["watcher", "spy"]]
+definitions: ["watcher", "spy"]
 topics: ["ine-pro:Occupations", "ine-pro:Vision", "ine-pro:Espionage"]
 ---

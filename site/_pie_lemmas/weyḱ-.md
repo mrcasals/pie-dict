@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to enter in", "to settle", "settlement"]]
+definitions: ["to enter in", "to settle", "settlement"]
 topics: []
 ---

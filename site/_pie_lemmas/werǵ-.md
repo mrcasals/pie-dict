@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to make"]]
+definitions: ["to make"]
 topics: []
 ---

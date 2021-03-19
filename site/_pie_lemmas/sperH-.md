@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to kick"]]
+definitions: ["to kick"]
 topics: []
 ---

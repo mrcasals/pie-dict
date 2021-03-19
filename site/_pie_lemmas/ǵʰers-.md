@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["stiff", "surprised"]]
+definitions: ["stiff", "surprised"]
 topics: []
 ---

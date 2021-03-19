@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to dip, sink"]]
+definitions: ["to dip", "sink"]
 topics: []
 ---

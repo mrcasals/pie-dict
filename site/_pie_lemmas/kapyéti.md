@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *kap- +‎ *-yéti."]
 markers: []
 synonyms: []
-definitions: [["to be seized, held"]]
+definitions: ["to be seized", "held"]
 topics: []
 ---

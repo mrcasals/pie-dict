@@ -6,6 +6,6 @@ klass: prefix
 etymology: ["Possible metathesis of *h₁wes- (“good”), or perhaps related to *h₁es- (“to be”)."]
 markers: []
 synonyms: []
-definitions: [["good"]]
+definitions: ["good"]
 topics: []
 ---

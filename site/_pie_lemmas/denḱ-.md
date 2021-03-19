@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to bite"]]
+definitions: ["to bite"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["sun"]]
+definitions: ["sun"]
 topics: ["ine-pro:Sun", "ine-pro:Religion", "ine-pro:Gods"]
 ---

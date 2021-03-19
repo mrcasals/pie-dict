@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to freeze", "frost"]]
+definitions: ["to freeze", "frost"]
 topics: []
 ---

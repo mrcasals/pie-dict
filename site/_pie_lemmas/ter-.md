@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["tender, weak", "young creature"]]
+definitions: ["tender", "weak", "young creature"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *néwos +‎ *-h₂ti."]
 markers: []
 synonyms: []
-definitions: [["to renew"]]
+definitions: ["to renew"]
 topics: []
 ---

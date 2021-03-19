@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to pass", "path"]]
+definitions: ["to pass", "path"]
 topics: []
 ---

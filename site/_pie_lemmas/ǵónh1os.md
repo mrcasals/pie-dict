@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *ǵenh₁- +‎ *-os."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["birth", "offspring"]]
+definitions: ["birth", "offspring"]
 topics: []
 ---

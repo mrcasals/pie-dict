@@ -6,6 +6,6 @@ klass: root
 etymology: ["Reanalysed root of *dʰgʷʰéyti, from *dʰegʷʰ- (“to burn”) +‎ *-éyti (*éy-present suffix)."]
 markers: []
 synonyms: ["*mer-", "*neḱ-"]
-definitions: [["to decline", "to perish\nSynonyms: *mer-, *neḱ-"]]
+definitions: ["to decline", "to perish"]
 topics: []
 ---

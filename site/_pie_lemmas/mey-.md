@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to strengthen"], ["to bind"], ["to change, exchange", "to change places → to go past"], ["small, little"]]
+definitions: ["to strengthen", "to bind", "to change", "exchange", "to change places → to go past", "small", "little"]
 topics: []
 ---

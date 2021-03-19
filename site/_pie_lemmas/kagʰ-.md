@@ -6,6 +6,6 @@ klass: root
 etymology: ["Unknown; probably a borrowing from some unknown non-IE substrate language."]
 markers: []
 synonyms: []
-definitions: [["to take, seize"]]
+definitions: ["to take", "seize"]
 topics: []
 ---

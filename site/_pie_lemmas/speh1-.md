@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to succeed, to prosper"]]
+definitions: ["to succeed", "to prosper"]
 topics: []
 ---

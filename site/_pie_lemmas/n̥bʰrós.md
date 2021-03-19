@@ -6,6 +6,6 @@ klass: noun
 etymology: ["*nebʰ- +‎ *-rós"]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["rain-cloud, with semantic narrowing to rain, cloud"]]
+definitions: ["rain-cloud", "with semantic narrowing to rain", "cloud"]
 topics: ["ine-pro:Atmospheric phenomena"]
 ---

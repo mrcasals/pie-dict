@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic Narten root verb of the root *ḱey-."]
 markers: []
 synonyms: []
-definitions: [["to be lying flat"]]
+definitions: ["to be lying flat"]
 topics: []
 ---

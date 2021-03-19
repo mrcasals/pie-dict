@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *wes- +‎ *-éyeti."]
 markers: []
 synonyms: []
-definitions: [["to clothe, to put clothes onto"]]
+definitions: ["to clothe", "to put clothes onto"]
 topics: ["ine-pro:Clothing"]
 ---

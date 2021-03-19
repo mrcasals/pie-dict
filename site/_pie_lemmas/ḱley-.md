@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to shelter, cover"], ["to lean, slope, incline"]]
+definitions: ["to shelter", "cover", "to lean", "slope", "incline"]
 topics: []
 ---

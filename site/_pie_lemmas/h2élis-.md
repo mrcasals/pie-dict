@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["alder"]]
+definitions: ["alder"]
 topics: ["ine-pro:Birch family plants"]
 ---

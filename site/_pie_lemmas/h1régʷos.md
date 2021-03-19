@@ -6,6 +6,6 @@ klass: noun
 etymology: ["*h₁regʷ- (“to be dark”) +‎ *-os"]
 markers: [["n", "neuter gender"]]
 synonyms: ["*témHos", "*(s)ḱeh₃ih₂"]
-definitions: [["darkness\nSynonyms: *témHos, *(s)ḱeh₃ih₂"]]
+definitions: ["darkness"]
 topics: ["ine-pro:Light"]
 ---

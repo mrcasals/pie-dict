@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Thematic present of *bʰewdʰ-."]
 markers: []
 synonyms: []
-definitions: [["to be awake, aware"]]
+definitions: ["to be awake", "aware"]
 topics: []
 ---

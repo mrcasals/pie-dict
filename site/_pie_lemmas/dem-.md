@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to build (up)", "to arrange, to put together"]]
+definitions: ["to build (up)", "to arrange", "to put together"]
 topics: []
 ---

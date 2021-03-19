@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to bow, to bend; elbow"]]
+definitions: ["to bow", "to bend", "elbow"]
 topics: []
 ---

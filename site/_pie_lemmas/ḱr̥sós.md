@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *ḱers- (“to run”) +‎ *-ós."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["vehicle"]]
+definitions: ["vehicle"]
 topics: []
 ---

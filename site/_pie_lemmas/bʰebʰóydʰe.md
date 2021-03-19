@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Reduplicated stative of the root *bʰeydʰ-."]
 markers: []
 synonyms: []
-definitions: [["to be trusting, confident"]]
+definitions: ["to be trusting", "confident"]
 topics: []
 ---

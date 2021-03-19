@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root present of the root *dewk-."]
 markers: []
 synonyms: []
-definitions: [["to pull, to draw", "to lead"]]
+definitions: ["to pull", "to draw", "to lead"]
 topics: []
 ---

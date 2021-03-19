@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *dʰewb- +‎ *-rós."]
 markers: []
 synonyms: []
-definitions: [["deep"]]
+definitions: ["deep"]
 topics: []
 ---

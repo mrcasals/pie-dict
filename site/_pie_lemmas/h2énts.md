@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₂ent- +‎ *-s."]
 markers: [["?", "gender incomplete"]]
 synonyms: []
-definitions: [["forehead", "front"]]
+definitions: ["forehead", "front"]
 topics: ["ine-pro:Body parts", "ine-pro:Face"]
 ---

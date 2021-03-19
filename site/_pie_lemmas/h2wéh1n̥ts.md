@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["Participle of *h₂wḗh₁ti, of the root *h₂weh₁-."]
 markers: []
 synonyms: []
-definitions: [["blowing", "(as substantive) that which blows; the wind, air"]]
+definitions: ["blowing", "(as substantive) that which blows", "the wind", "air"]
 topics: []
 ---

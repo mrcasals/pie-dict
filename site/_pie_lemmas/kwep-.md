@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to smoke, to steam", "to boil", "aroma, strong odor"]]
+definitions: ["to smoke", "to steam", "to boil", "aroma", "strong odor"]
 topics: []
 ---

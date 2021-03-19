@@ -6,6 +6,6 @@ klass: suffix
 etymology: ["Earlier *-tu- +‎ *-eh₂ (feminine ending)."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["Forms nouns from verbs"]]
+definitions: ["Forms nouns from verbs"]
 topics: []
 ---

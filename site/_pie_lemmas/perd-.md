@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: ["*pesd-"]
-definitions: [["to fart loudly, pass gas, break wind"]]
+definitions: ["to fart loudly", "pass gas", "break wind"]
 topics: ["ine-pro:Bodily functions"]
 ---

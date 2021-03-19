@@ -6,6 +6,6 @@ klass: adjective
 etymology: []
 markers: []
 synonyms: []
-definitions: [["one-eyed, blind"]]
+definitions: ["one-eyed", "blind"]
 topics: []
 ---

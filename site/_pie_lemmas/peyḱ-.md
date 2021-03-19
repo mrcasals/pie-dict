@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to hew, cut out", "to stitch, embroider, sting", "(by extension) to paint, mark, color"], ["hostile"]]
+definitions: ["to hew", "cut out", "to stitch", "embroider", "sting", "(by extension) to paint", "mark", "color", "hostile"]
 topics: []
 ---

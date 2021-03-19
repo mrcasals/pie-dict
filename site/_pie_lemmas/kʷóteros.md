@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *kʷos (interrogative) +‎ *-teros (contrastive suffix)."]
 markers: []
 synonyms: []
-definitions: [["which of two"]]
+definitions: ["which of two"]
 topics: []
 ---

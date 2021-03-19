@@ -6,6 +6,6 @@ klass: root
 etymology: ["Often supposed to be an extension of *ley-, *(s)ley- (“to slip, slide, glide; slimy”)."]
 markers: []
 synonyms: []
-definitions: [["to stick", "fat or sticky substance"]]
+definitions: ["to stick", "fat or sticky substance"]
 topics: []
 ---

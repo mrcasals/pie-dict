@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *weǵʰ- +‎ *-st."]
 markers: []
 synonyms: []
-definitions: [["to transport"]]
+definitions: ["to transport"]
 topics: ["ine-pro:Transport"]
 ---

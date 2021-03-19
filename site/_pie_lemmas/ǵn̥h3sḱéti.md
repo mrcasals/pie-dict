@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *ǵneh₃- +‎ *-sḱéti."]
 markers: []
 synonyms: []
-definitions: [["to recognise"]]
+definitions: ["to recognise"]
 topics: ["ine-pro:Thinking"]
 ---

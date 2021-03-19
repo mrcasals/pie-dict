@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to burn", "to shine"]]
+definitions: ["to burn", "to shine"]
 topics: []
 ---

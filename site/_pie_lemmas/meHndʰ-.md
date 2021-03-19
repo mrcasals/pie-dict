@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["vivacious", "wisdom", "to pay attention to"]]
+definitions: ["vivacious", "wisdom", "to pay attention to"]
 topics: []
 ---

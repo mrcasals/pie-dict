@@ -6,6 +6,6 @@ klass: adverb
 etymology: []
 markers: []
 synonyms: []
-definitions: [["out"]]
+definitions: ["out"]
 topics: []
 ---

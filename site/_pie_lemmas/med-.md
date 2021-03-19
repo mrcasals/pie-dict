@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to measure", "to give advice", "healing"]]
+definitions: ["to measure", "to give advice", "healing"]
 topics: []
 ---

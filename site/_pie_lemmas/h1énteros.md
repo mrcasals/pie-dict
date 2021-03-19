@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *h₁en (“in”) +‎ *-teros (contrastive suffix)."]
 markers: []
 synonyms: []
-definitions: [["inside, within"]]
+definitions: ["inside", "within"]
 topics: []
 ---

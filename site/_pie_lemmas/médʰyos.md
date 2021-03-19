@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["Perhaps from *me-dʰi- (“with, among”), from *me (“with”)."]
 markers: []
 synonyms: []
-definitions: [["middle"]]
+definitions: ["middle"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: adverb
 etymology: ["From *h₁n̥dʰí (“under, below”) +‎ *-ér, *-éri (innovative locative suffix) (compare the suffix in *h₂éyeri)."]
 markers: []
 synonyms: []
-definitions: [["under, below"]]
+definitions: ["under", "below"]
 topics: []
 ---

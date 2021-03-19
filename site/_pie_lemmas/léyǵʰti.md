@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *leyǵʰ-."]
 markers: []
 synonyms: []
-definitions: [["to be licking"]]
+definitions: ["to be licking"]
 topics: []
 ---

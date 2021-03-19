@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to fight"]]
+definitions: ["to fight"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["earth"]]
+definitions: ["earth"]
 topics: []
 ---

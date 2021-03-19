@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Thematic root verb of the root *bʰeydʰ-."]
 markers: []
 synonyms: []
-definitions: [["to trust"]]
+definitions: ["to trust"]
 topics: []
 ---

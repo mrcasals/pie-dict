@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root aorist of *ǵneh₃-."]
 markers: []
 synonyms: []
-definitions: [["to know", "to get to know, to meet"]]
+definitions: ["to know", "to get to know", "to meet"]
 topics: ["ine-pro:Thinking"]
 ---

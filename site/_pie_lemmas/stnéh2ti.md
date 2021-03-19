@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *steh₂- +‎ *-né-."]
 markers: []
 synonyms: []
-definitions: [["to place, to stand"]]
+definitions: ["to place", "to stand"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to scratch, to tear"]]
+definitions: ["to scratch", "to tear"]
 topics: []
 ---

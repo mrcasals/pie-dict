@@ -6,6 +6,6 @@ klass: root
 etymology: ["Reanalysed root of *tḱéyti, from *teḱ- (“to sire, beget”) +‎ *-éyti (*éy-present suffix)."]
 markers: []
 synonyms: []
-definitions: [["to cultivate", "to settle", "to live"]]
+definitions: ["to cultivate", "to settle", "to live"]
 topics: []
 ---

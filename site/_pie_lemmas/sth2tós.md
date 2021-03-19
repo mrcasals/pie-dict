@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *steh₂- (“stand (up)”) +‎ *-tós."]
 markers: []
 synonyms: []
-definitions: [["placed, standing"]]
+definitions: ["placed", "standing"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₃erbʰ- (“to change allegiance, status, ownership”) +‎ *-os."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["orphan", "servant, slave, worker"]]
+definitions: ["orphan", "servant", "slave", "worker"]
 topics: ["ine-pro:People", "ine-pro:Occupations", "ine-pro:Slavery"]
 ---

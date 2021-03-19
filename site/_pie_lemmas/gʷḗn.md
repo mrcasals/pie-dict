@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From a root *gʷen- + *-h₂."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["woman"]]
+definitions: ["woman"]
 topics: ["ine-pro:People", "ine-pro:Female"]
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *peth₂- (“to fly”) +‎ *-r̥ (r/n-stem suffix)."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["wing", "feather"]]
+definitions: ["wing", "feather"]
 topics: ["ine-pro:Animal body parts", "ine-pro:Birds"]
 ---

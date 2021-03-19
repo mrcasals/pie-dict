@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["wet, damp"]]
+definitions: ["wet", "damp"]
 topics: []
 ---

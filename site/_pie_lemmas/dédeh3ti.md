@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic e-reduplicated verb of the root *deh₃- (“to give”)."]
 markers: []
 synonyms: []
-definitions: [["to be giving"]]
+definitions: ["to be giving"]
 topics: []
 ---

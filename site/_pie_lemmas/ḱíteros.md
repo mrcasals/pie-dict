@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *ḱis (deictic) +‎ *-teros (contrastive suffix)."]
 markers: []
 synonyms: []
-definitions: [["this one, the closer one"]]
+definitions: ["this one", "the closer one"]
 topics: []
 ---

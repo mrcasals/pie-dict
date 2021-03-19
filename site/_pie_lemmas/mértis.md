@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *mer- (“to die”) +‎ *-tis."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["death"]]
+definitions: ["death"]
 topics: ["ine-pro:Death"]
 ---

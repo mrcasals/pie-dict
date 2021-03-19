@@ -6,6 +6,6 @@ klass: adjective
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Alternative form of *néwos"]]
+definitions: ["Alternative form of *néwos"]
 topics: []
 ---

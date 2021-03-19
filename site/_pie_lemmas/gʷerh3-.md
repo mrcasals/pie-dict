@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to swallow, devour, eat"]]
+definitions: ["to swallow", "devour", "eat"]
 topics: []
 ---

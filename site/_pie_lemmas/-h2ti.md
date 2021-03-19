@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Forms factitive verbs from adjective stems."]]
+definitions: ["Forms factitive verbs from adjective stems."]
 topics: []
 ---

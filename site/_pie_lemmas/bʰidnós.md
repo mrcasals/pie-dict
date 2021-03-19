@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *bʰeyd- (“to split”) +‎ *-nós."]
 markers: []
 synonyms: []
-definitions: [["split, cloven"]]
+definitions: ["split", "cloven"]
 topics: []
 ---

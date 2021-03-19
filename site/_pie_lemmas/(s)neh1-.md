@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to spin (thread), to sew"]]
+definitions: ["to spin (thread)", "to sew"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to cook", "to ripen"]]
+definitions: ["to cook", "to ripen"]
 topics: ["ine-pro:Cooking"]
 ---

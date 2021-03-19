@@ -6,6 +6,6 @@ klass: particle
 etymology: ["Alternatively derived from *dʰeh₁- (“to place”)."]
 markers: []
 synonyms: []
-definitions: [["Locative particle, where"]]
+definitions: ["Locative particle", "where"]
 topics: []
 ---

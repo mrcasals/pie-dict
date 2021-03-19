@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *dʰeh₁- (“to put”) +‎ *-tis."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["act of putting, placement"]]
+definitions: ["act of putting", "placement"]
 topics: []
 ---

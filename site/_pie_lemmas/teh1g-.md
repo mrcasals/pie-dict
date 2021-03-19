@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to touch"]]
+definitions: ["to touch"]
 topics: []
 ---

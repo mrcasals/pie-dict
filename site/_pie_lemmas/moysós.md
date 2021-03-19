@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: []
 synonyms: []
-definitions: [["ram, sheep", "fleece, skin"]]
+definitions: ["ram", "sheep", "fleece", "skin"]
 topics: []
 ---

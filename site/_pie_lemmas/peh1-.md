@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to hate, hurt"]]
+definitions: ["to hate", "hurt"]
 topics: []
 ---

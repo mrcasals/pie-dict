@@ -6,6 +6,6 @@ klass: adverb
 etymology: ["From *h₂ey- (“day, morning”) +‎ *-eri (locative adverbial suffix)."]
 markers: []
 synonyms: []
-definitions: [["early, in the morning"]]
+definitions: ["early", "in the morning"]
 topics: []
 ---

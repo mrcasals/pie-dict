@@ -6,6 +6,6 @@ klass: noun
 etymology: ["Possibly from *ǵh₂l- (“to nourish”); compare Greek γάλα (gála, “milk”), Hittite [script needed] (galak-, “to soothe”). According to Mallory and Adams (1997), some forms may be influenced by association with unrelated *gl̥h₁éys (“mouse”)."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["sister-in-law (brother's wife)"]]
+definitions: ["sister-in-law (brother's wife)"]
 topics: ["ine-pro:Female family members"]
 ---

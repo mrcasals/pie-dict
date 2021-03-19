@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["sweat", "to sweat"]]
+definitions: ["sweat", "to sweat"]
 topics: []
 ---

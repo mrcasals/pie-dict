@@ -6,6 +6,6 @@ klass: pronoun
 etymology: ["Thematisation of *ís."]
 markers: []
 synonyms: []
-definitions: [["that, who, which (relative)"]]
+definitions: ["that", "who", "which (relative)"]
 topics: []
 ---

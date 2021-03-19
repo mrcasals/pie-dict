@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root aorist of *dʰeh₁-."]
 markers: []
 synonyms: []
-definitions: [["to put, to place", "to do"]]
+definitions: ["to put", "to place", "to do"]
 topics: []
 ---

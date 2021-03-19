@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to die, pass away"], ["to run, flow"]]
+definitions: ["to die", "pass away", "to run", "flow"]
 topics: []
 ---

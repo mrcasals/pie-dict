@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["army"]]
+definitions: ["army"]
 topics: []
 ---

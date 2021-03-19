@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: []
 synonyms: []
-definitions: [["testicle"]]
+definitions: ["testicle"]
 topics: ["ine-pro:Organs"]
 ---

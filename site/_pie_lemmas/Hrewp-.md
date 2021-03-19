@@ -6,6 +6,6 @@ klass: root
 etymology: ["Perhaps an extension of *Hrew- (“to tear out, dig out”)."]
 markers: []
 synonyms: []
-definitions: [["to break, tear (up)"]]
+definitions: ["to break", "tear (up)"]
 topics: []
 ---

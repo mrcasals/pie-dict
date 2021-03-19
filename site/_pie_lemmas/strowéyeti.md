@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *strew- +‎ *-éyeti."]
 markers: []
 synonyms: []
-definitions: [["to strew, to disperse", "to spawn"]]
+definitions: ["to strew", "to disperse", "to spawn"]
 topics: []
 ---

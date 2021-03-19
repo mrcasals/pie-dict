@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₂eh₃- (“to be hot, burn”)."]
 markers: []
 synonyms: []
-definitions: [["heat"]]
+definitions: ["heat"]
 topics: ["ine-pro:Temperature"]
 ---

@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Reduplicated perfect of the root *men-."]
 markers: []
 synonyms: []
-definitions: [["to think, to be mindful", "to remember"]]
+definitions: ["to think", "to be mindful", "to remember"]
 topics: ["ine-pro:Thinking"]
 ---

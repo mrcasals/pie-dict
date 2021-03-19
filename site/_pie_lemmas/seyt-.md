@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["magic"]]
+definitions: ["magic"]
 topics: []
 ---

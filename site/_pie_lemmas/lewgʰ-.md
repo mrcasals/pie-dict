@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to lie, to tell falsehood"]]
+definitions: ["to lie", "to tell falsehood"]
 topics: []
 ---

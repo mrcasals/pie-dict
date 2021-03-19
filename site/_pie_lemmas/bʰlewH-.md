@@ -6,6 +6,6 @@ klass: root
 etymology: ["Possible laryngeal extension of *bʰlew-, whence Ancient Greek φλέω (phléō, “to overflow, flood”)."]
 markers: []
 synonyms: []
-definitions: [["to overflow"]]
+definitions: ["to overflow"]
 topics: []
 ---

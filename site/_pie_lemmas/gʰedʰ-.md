@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to join", "to unite", "to suit"]]
+definitions: ["to join", "to unite", "to suit"]
 topics: []
 ---

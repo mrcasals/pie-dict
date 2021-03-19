@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *swep- (“to sleep”) +‎ *-nós."]
 markers: [["m", "masculine gender"]]
 synonyms: ["*supnós"]
-definitions: [["sleep, slumber\nSynonym: *supnós"]]
+definitions: ["sleep", "slumber"]
 topics: ["ine-pro:Sleep"]
 ---

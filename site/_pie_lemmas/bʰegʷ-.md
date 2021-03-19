@@ -6,6 +6,6 @@ klass: root
 etymology: ["Apparently originally the same root as the synonymous *bʰewg-."]
 markers: []
 synonyms: ["*bʰewg-"]
-definitions: [["to flee\nSynonym: *bʰewg-", "to run"]]
+definitions: ["to flee", "to run"]
 topics: []
 ---

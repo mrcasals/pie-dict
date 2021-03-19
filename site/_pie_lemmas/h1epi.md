@@ -6,6 +6,6 @@ klass: adverb
 etymology: ["Would be locative case of *h₁eps (from *h₁ep-), which could mean \"back\", with the \"on\" sense referring to pack animals or riding."]
 markers: []
 synonyms: []
-definitions: [["on, at, near"]]
+definitions: ["on", "at", "near"]
 topics: []
 ---

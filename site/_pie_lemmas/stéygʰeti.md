@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Thematic root verb of the root *steygʰ-."]
 markers: []
 synonyms: []
-definitions: [["to be walking", "to be climbing"]]
+definitions: ["to be walking", "to be climbing"]
 topics: ["ine-pro:Gaits"]
 ---

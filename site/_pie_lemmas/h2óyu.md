@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From the root *h₂ey-."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["long time, lifetime"]]
+definitions: ["long time", "lifetime"]
 topics: ["ine-pro:Time", "ine-pro:Biology"]
 ---

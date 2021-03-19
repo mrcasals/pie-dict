@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["wild", "wild animal"]]
+definitions: ["wild", "wild animal"]
 topics: []
 ---

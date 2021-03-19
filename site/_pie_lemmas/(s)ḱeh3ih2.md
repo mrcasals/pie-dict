@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *(s)ḱeh₃- +‎ *-ih₂."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["shadow, shade"]]
+definitions: ["shadow", "shade"]
 topics: ["ine-pro:Light"]
 ---

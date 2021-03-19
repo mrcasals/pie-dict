@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to divide, distribute, allot"]]
+definitions: ["to divide", "distribute", "allot"]
 topics: []
 ---

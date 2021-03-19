@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to onerate; to charge"]]
+definitions: ["to onerate", "to charge"]
 topics: []
 ---

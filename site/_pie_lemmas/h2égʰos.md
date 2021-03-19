@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₂egʰ- +‎ *-os."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["(emotional) distress"]]
+definitions: ["(emotional) distress"]
 topics: ["ine-pro:Emotions"]
 ---

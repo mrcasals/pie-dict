@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *wed- (“water”) +‎ *-r̥ (r/n-stem suffix)."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["water"]]
+definitions: ["water"]
 topics: ["ine-pro:Water"]
 ---

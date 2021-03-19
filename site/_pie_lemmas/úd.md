@@ -6,6 +6,6 @@ klass: adverb
 etymology: []
 markers: []
 synonyms: []
-definitions: [["upwards, away, out, outward"]]
+definitions: ["upwards", "away", "out", "outward"]
 topics: []
 ---

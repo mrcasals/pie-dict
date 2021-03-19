@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to bring", "to transport"]]
+definitions: ["to bring", "to transport"]
 topics: ["ine-pro:Transport"]
 ---

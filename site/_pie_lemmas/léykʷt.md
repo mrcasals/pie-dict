@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root verb of the root *leykʷ-."]
 markers: []
 synonyms: []
-definitions: [["to leave"]]
+definitions: ["to leave"]
 topics: []
 ---

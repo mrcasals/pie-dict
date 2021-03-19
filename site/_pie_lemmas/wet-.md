@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["year", "year-old"]]
+definitions: ["year", "year-old"]
 topics: []
 ---

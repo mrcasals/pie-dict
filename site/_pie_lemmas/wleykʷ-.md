@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["moist, to wet"]]
+definitions: ["moist", "to wet"]
 topics: []
 ---

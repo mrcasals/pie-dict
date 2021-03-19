@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *mel- (“soft, weak, tender”). Related to *melh₂-. Presumably also related to *(s)meld-."]
 markers: []
 synonyms: []
-definitions: [["soft, weak"]]
+definitions: ["soft", "weak"]
 topics: []
 ---

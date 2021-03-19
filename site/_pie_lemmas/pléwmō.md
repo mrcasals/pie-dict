@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *plew- +‎ *-mō."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["lung, (literally) floater"]]
+definitions: ["lung", "(literally) floater"]
 topics: ["ine-pro:Organs"]
 ---

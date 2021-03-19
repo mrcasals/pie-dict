@@ -6,6 +6,6 @@ klass: noun
 etymology: ["Pokorny suggests *ter(h₂)- (“through”) +‎ *-mn̥; Watkins suggests *ter- (“boundary”) +‎ *-mn̥."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["boundary, end"]]
+definitions: ["boundary", "end"]
 topics: []
 ---

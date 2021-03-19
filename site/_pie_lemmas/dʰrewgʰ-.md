@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to deceive, to mislead"], ["to serve one's tribe", "loyal"]]
+definitions: ["to deceive", "to mislead", "to serve one's tribe", "loyal"]
 topics: []
 ---

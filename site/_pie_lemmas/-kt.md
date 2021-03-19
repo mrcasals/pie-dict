@@ -6,6 +6,6 @@ klass: suffix
 etymology: ["Limited to PNIE and possibly built upon an intrusive velar or a velar extension."]
 markers: []
 synonyms: []
-definitions: [["Forms perfective verbs from roots."]]
+definitions: ["Forms perfective verbs from roots."]
 topics: []
 ---

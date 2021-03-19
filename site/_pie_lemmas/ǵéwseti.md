@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *ǵews- (“to taste, try”)."]
 markers: []
 synonyms: []
-definitions: [["to taste, try, choose"]]
+definitions: ["to taste", "try", "choose"]
 topics: ["ine-pro:Taste"]
 ---

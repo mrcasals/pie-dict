@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Thematic root verb of the root *h₂eǵ-."]
 markers: []
 synonyms: []
-definitions: [["to be driving"]]
+definitions: ["to be driving"]
 topics: []
 ---

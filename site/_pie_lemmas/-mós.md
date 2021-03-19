@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["Creates action/result nouns from verb stems."]]
+definitions: ["Creates action/result nouns from verb stems."]
 topics: []
 ---

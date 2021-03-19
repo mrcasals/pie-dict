@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to let loose, release", "to slip away, escape, flee"]]
+definitions: ["to let loose", "release", "to slip away", "escape", "flee"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *ǵerh₂- +‎ *-onts (Caland adjective suffix)."]
 markers: []
 synonyms: []
-definitions: [["old"]]
+definitions: ["old"]
 topics: []
 ---

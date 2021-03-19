@@ -6,6 +6,6 @@ klass: noun
 etymology: ["Believed by Kroonen to be a non-Indo-European substrate word related to Latin lēns (“id.”)."]
 markers: []
 synonyms: []
-definitions: [["nit, louse egg"]]
+definitions: ["nit", "louse egg"]
 topics: ["ine-pro:Lice", "ine-pro:Parasites"]
 ---

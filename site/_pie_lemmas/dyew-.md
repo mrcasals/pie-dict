@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to be bright", "sky, heaven"]]
+definitions: ["to be bright", "sky", "heaven"]
 topics: []
 ---

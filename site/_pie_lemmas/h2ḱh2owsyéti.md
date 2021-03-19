@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *h₂eḱ- (“sharp”) +‎ *h₂ṓws (“ear”) and  +‎ *-yéti (“denominative suffix”)."]
 markers: []
 synonyms: []
-definitions: [["to be sharp-eared, to hear well"]]
+definitions: ["to be sharp-eared", "to hear well"]
 topics: ["ine-pro:Hearing"]
 ---

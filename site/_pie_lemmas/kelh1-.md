@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to call, cry, summon"]]
+definitions: ["to call", "cry", "summon"]
 topics: []
 ---

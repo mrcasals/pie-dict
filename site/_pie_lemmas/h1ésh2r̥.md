@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["n", "neuter gender"]]
 synonyms: ["*krewh₂-"]
-definitions: [["(flowing) blood"]]
+definitions: ["(flowing) blood"]
 topics: ["ine-pro:Bodily fluids"]
 ---

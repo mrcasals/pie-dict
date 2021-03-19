@@ -6,6 +6,6 @@ klass: root
 etymology: ["Perhaps connected to the synonymous *gewH-."]
 markers: []
 synonyms: []
-definitions: [["to call on, invoke"]]
+definitions: ["to call on", "invoke"]
 topics: []
 ---

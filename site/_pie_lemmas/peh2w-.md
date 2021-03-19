@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["few, little", "smallness"]]
+definitions: ["few", "little", "smallness"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to produce, to beget, to give birth"]]
+definitions: ["to produce", "to beget", "to give birth"]
 topics: []
 ---

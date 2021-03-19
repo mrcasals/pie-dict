@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: ["*bʰew-", "*dʰen-", "*kewh₂-", "*kret-", "*meldʰ-", "*pleh₂k-", "*(s)kep-", "*bʰeg-", "*bʰreg-", "*Hrewp-", "*lem-", "*lewǵ-"]
-definitions: [["to beat\nSynonyms: *bʰew-, *dʰen-, *kewh₂-, *kret-, *meldʰ-, *pleh₂k-, *(s)kep-", "to break\nSynonyms: *bʰeg-, *bʰreg-, *Hrewp-, *lem-, *lewǵ-"]]
+definitions: ["to beat", "to break"]
 topics: []
 ---

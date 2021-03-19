@@ -6,6 +6,6 @@ klass: numeral
 etymology: ["From *swéḱs (“six”) +‎ *déḱm̥ (“ten”)."]
 markers: []
 synonyms: []
-definitions: [["sixty"]]
+definitions: ["sixty"]
 topics: []
 ---

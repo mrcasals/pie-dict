@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to be silent, be still"]]
+definitions: ["to be silent", "be still"]
 topics: []
 ---

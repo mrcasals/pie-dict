@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to compete, contest, struggle"]]
+definitions: ["to compete", "contest", "struggle"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["post, beam, pole"]]
+definitions: ["post", "beam", "pole"]
 topics: []
 ---

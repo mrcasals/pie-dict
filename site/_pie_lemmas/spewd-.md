@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to press, to push"]]
+definitions: ["to press", "to push"]
 topics: []
 ---

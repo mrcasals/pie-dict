@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to carve, cut off, trim"]]
+definitions: ["to carve", "cut off", "trim"]
 topics: []
 ---

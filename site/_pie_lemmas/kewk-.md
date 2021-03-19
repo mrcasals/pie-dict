@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to elevate", "height"]]
+definitions: ["to elevate", "height"]
 topics: []
 ---

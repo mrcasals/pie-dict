@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to pay", "to avenge"]]
+definitions: ["to pay", "to avenge"]
 topics: []
 ---

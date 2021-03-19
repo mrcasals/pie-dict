@@ -6,6 +6,6 @@ klass: adjective
 etymology: []
 markers: []
 synonyms: []
-definitions: [["big, great"]]
+definitions: ["big", "great"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *déh₃-r̥ +‎ *-om."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["gift"]]
+definitions: ["gift"]
 topics: []
 ---

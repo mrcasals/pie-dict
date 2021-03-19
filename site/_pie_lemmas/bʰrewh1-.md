@@ -6,6 +6,6 @@ klass: root
 etymology: ["Extension of *bʰer- (“to boil”)."]
 markers: []
 synonyms: []
-definitions: [["to boil", "to brew"]]
+definitions: ["to boil", "to brew"]
 topics: []
 ---

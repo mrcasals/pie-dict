@@ -6,6 +6,6 @@ klass: adverb
 etymology: ["From the locative form of *dʰǵʰyes- (“the day before”)."]
 markers: []
 synonyms: []
-definitions: [["yesterday"]]
+definitions: ["yesterday"]
 topics: []
 ---

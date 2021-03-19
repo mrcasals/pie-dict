@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["Alternative form of *-trom"]]
+definitions: ["Alternative form of *-trom"]
 topics: []
 ---

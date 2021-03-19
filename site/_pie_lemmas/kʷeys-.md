@@ -6,6 +6,6 @@ klass: root
 etymology: ["Extended from *kʷey- (“to perceive”)."]
 markers: []
 synonyms: []
-definitions: [["to see; to heed"]]
+definitions: ["to see", "to heed"]
 topics: []
 ---

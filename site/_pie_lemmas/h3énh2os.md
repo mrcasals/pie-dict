@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₃enh₂- (“to onerate; to charge”) +‎ *-os."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["load; burden"]]
+definitions: ["load", "burden"]
 topics: []
 ---

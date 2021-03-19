@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *gʷem- +‎ *-tós."]
 markers: []
 synonyms: []
-definitions: [["passable"]]
+definitions: ["passable"]
 topics: []
 ---

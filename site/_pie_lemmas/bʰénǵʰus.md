@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *bʰenǵʰ- +‎ *-us."]
 markers: []
 synonyms: []
-definitions: [["dense, thick"]]
+definitions: ["dense", "thick"]
 topics: []
 ---

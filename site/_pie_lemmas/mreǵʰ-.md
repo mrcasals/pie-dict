@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["short"]]
+definitions: ["short"]
 topics: []
 ---

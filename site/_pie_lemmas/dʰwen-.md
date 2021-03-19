@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["make a noise"]]
+definitions: ["make a noise"]
 topics: []
 ---

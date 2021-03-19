@@ -6,6 +6,6 @@ klass: adverb
 etymology: ["From *h₁én and *do."]
 markers: []
 synonyms: []
-definitions: [["into, inside"]]
+definitions: ["into", "inside"]
 topics: []
 ---

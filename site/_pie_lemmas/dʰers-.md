@@ -6,6 +6,6 @@ klass: root
 etymology: ["An *-s- extension of *dʰer- (“to hold, support”)."]
 markers: []
 synonyms: []
-definitions: [["to be bold, to dare"]]
+definitions: ["to be bold", "to dare"]
 topics: []
 ---

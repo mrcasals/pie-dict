@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["good, great", "timely, opportune"], ["wet, damp"]]
+definitions: ["good", "great", "timely", "opportune", "wet", "damp"]
 topics: []
 ---

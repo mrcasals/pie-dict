@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to dwell, live, reside", "to stay, spend the night"]]
+definitions: ["to dwell", "live", "reside", "to stay", "spend the night"]
 topics: []
 ---

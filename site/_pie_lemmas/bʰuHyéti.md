@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *bʰuH- +‎ *-yéti."]
 markers: []
 synonyms: []
-definitions: [["to be becoming, to be growing, to be appearing"]]
+definitions: ["to be becoming", "to be growing", "to be appearing"]
 topics: []
 ---

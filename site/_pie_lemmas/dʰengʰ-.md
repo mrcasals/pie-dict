@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to cover", "to overcast"]]
+definitions: ["to cover", "to overcast"]
 topics: []
 ---

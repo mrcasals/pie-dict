@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *wet- (“year”) +‎ *-os."]
 markers: [["n", "neuter gender"]]
 synonyms: ["*ǵʰéyōm", "*yóh₁r̥"]
-definitions: [["year\nSynonyms: *ǵʰéyōm, *yóh₁r̥"]]
+definitions: ["year"]
 topics: ["ine-pro:Years"]
 ---

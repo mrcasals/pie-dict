@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["spring, surge, wave"]]
+definitions: ["spring", "surge", "wave"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: ["Possibly from *wer- (“to burn”)."]
 markers: []
 synonyms: []
-definitions: [["worm"]]
+definitions: ["worm"]
 topics: ["ine-pro:Worms"]
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to suckle, nurse"]]
+definitions: ["to suckle", "nurse"]
 topics: []
 ---

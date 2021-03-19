@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *seǵʰ- (“to hold, to overpower”) +‎ *-os."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["power, strength"]]
+definitions: ["power", "strength"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["inactive, reluctant"]]
+definitions: ["inactive", "reluctant"]
 topics: []
 ---

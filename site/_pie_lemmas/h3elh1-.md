@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to fall, to collapse", "to destroy/be destroyed"]]
+definitions: ["to fall", "to collapse", "to destroy/be destroyed"]
 topics: []
 ---

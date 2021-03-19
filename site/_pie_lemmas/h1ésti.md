@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root present of the root *h₁es-."]
 markers: []
 synonyms: []
-definitions: [["to be"]]
+definitions: ["to be"]
 topics: []
 ---

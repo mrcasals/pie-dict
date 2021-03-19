@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to ridicule, mock, anger"]]
+definitions: ["to ridicule", "mock", "anger"]
 topics: []
 ---

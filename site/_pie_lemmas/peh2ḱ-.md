@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to join, to attach", "agreement, settlement"]]
+definitions: ["to join", "to attach", "agreement", "settlement"]
 topics: []
 ---

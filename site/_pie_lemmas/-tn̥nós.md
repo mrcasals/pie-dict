@@ -6,6 +6,6 @@ klass: suffix
 etymology: ["From *ten- (“to extent, stretch”) +‎ *-nós."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["Used to form adjectives related to time"]]
+definitions: ["Used to form adjectives related to time"]
 topics: []
 ---

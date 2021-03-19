@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From a late, southern dialectal variant that is found only in East Indo-European languages, namely the Armenian, Greek and Indo-Iranian branches."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["marsh"]]
+definitions: ["marsh"]
 topics: ["ine-pro:Landforms"]
 ---

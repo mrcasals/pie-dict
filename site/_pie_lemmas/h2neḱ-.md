@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to reach, to attain"]]
+definitions: ["to reach", "to attain"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to swell", "to crowd", "to be strong"]]
+definitions: ["to swell", "to crowd", "to be strong"]
 topics: []
 ---

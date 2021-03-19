@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *ǵʰer-."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["enclosure"]]
+definitions: ["enclosure"]
 topics: []
 ---

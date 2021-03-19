@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["*ten- (“stretched”) +‎ *-tós"]
 markers: []
 synonyms: []
-definitions: [["stretched, extended"]]
+definitions: ["stretched", "extended"]
 topics: []
 ---

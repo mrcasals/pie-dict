@@ -6,6 +6,6 @@ klass: root
 etymology: ["Possibly from *mey- (“to change”)."]
 markers: []
 synonyms: []
-definitions: [["to mix"]]
+definitions: ["to mix"]
 topics: []
 ---

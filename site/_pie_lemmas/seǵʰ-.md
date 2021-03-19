@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to hold", "to overpower"]]
+definitions: ["to hold", "to overpower"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *h₁lengʷʰ- +‎ *-us."]
 markers: []
 synonyms: []
-definitions: [["lightweight"]]
+definitions: ["lightweight"]
 topics: []
 ---

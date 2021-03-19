@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to fall"]]
+definitions: ["to fall"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *ǵenh₁- (“to beget, to give birth”) +‎ *-mn̥."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["offspring, seed"]]
+definitions: ["offspring", "seed"]
 topics: ["ine-pro:Family", "ine-pro:Botany"]
 ---

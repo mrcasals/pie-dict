@@ -6,6 +6,6 @@ klass: prefix
 etymology: ["Zero grade form of *tréyes (“three”)."]
 markers: []
 synonyms: []
-definitions: [["three, threefold"]]
+definitions: ["three", "threefold"]
 topics: []
 ---

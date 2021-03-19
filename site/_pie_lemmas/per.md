@@ -6,6 +6,6 @@ klass: adverb
 etymology: []
 markers: []
 synonyms: []
-definitions: [["around", "through"]]
+definitions: ["around", "through"]
 topics: []
 ---

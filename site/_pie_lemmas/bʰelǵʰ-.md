@@ -6,6 +6,6 @@ klass: root
 etymology: ["Extension of *bʰel- (“to blow”)."]
 markers: []
 synonyms: []
-definitions: [["to swell"]]
+definitions: ["to swell"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to stand still", "to harden"]]
+definitions: ["to stand still", "to harden"]
 topics: []
 ---

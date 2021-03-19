@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: ["*dʰgʷʰey-", "*mer-"]
-definitions: [["to perish, disappear\nSynonyms: *dʰgʷʰey-, *mer-"]]
+definitions: ["to perish", "disappear"]
 topics: []
 ---

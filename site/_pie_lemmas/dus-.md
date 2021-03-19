@@ -6,6 +6,6 @@ klass: prefix
 etymology: []
 markers: []
 synonyms: []
-definitions: [["bad\nAntonym: *h₁su-"]]
+definitions: ["bad"]
 topics: []
 ---

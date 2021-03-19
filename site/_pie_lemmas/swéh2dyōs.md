@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *sweh₂d- +‎ *-yōs."]
 markers: []
 synonyms: []
-definitions: [["very sweet, rather sweet"]]
+definitions: ["very sweet", "rather sweet"]
 topics: []
 ---

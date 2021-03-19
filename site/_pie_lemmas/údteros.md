@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *úd (“out, outward”) +‎ *-teros (contrastive suffix)."]
 markers: []
 synonyms: []
-definitions: [["higher, outer"]]
+definitions: ["higher", "outer"]
 topics: []
 ---

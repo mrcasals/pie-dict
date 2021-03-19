@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to turn (end-over-end)"]]
+definitions: ["to turn (end-over-end)"]
 topics: []
 ---

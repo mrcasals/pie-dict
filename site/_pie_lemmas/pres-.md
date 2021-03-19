@@ -6,6 +6,6 @@ klass: root
 etymology: ["Possibly an extension of *per- (“to attempt, try, risk”), but this is guesswork."]
 markers: []
 synonyms: ["*bʰedʰ-", "*dʰen-", "*gen-", "*gremH-", "*(s)tewk-", "*trenkʷ-"]
-definitions: [["to press\nSynonyms: *bʰedʰ-, *dʰen-, *gen-, *gremH-, *(s)tewk-, *trenkʷ-"]]
+definitions: ["to press"]
 topics: []
 ---

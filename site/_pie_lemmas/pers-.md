@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to sprinkle, to spatter"]]
+definitions: ["to sprinkle", "to spatter"]
 topics: []
 ---

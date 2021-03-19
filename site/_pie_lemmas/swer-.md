@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to ache", "to fester", "wound; injury"], ["to resound; ringing, whistling", "to speak loudly", "to swear"]]
+definitions: ["to ache", "to fester", "wound", "injury", "to resound", "ringing", "whistling", "to speak loudly", "to swear"]
 topics: []
 ---

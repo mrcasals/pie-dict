@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *h₂enǵʰ- +‎ *-us."]
 markers: []
 synonyms: []
-definitions: [["narrow, tight"]]
+definitions: ["narrow", "tight"]
 topics: []
 ---

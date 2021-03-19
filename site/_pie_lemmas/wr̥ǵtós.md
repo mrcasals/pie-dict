@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *werǵ- +‎ *-tós."]
 markers: []
 synonyms: []
-definitions: [["worked, fashioned"]]
+definitions: ["worked", "fashioned"]
 topics: []
 ---

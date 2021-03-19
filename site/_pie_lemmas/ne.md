@@ -6,6 +6,6 @@ klass: particle
 etymology: []
 markers: []
 synonyms: []
-definitions: [["not"]]
+definitions: ["not"]
 topics: []
 ---

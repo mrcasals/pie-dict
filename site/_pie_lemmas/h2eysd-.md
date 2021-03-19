@@ -6,6 +6,6 @@ klass: root
 etymology: ["An extension of *h₂eys- (“to wish”)."]
 markers: []
 synonyms: []
-definitions: [["to laud, honour"]]
+definitions: ["to laud", "honour"]
 topics: []
 ---

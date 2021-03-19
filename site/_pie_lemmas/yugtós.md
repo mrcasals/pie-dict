@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *yewg- +‎ *-tós."]
 markers: []
 synonyms: []
-definitions: [["yoked, joined"]]
+definitions: ["yoked", "joined"]
 topics: []
 ---

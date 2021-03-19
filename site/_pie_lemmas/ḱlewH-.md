@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to clean, rinse, slide"]]
+definitions: ["to clean", "rinse", "slide"]
 topics: []
 ---

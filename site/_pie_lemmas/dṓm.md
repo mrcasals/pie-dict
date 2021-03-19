@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *dem- (“to build”)."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["home", "house"]]
+definitions: ["home", "house"]
 topics: []
 ---

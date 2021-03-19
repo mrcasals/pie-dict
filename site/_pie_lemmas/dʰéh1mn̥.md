@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *dʰeh₁- (“put, place”) +‎ *-mn̥."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["that which is established, house, home"]]
+definitions: ["that which is established", "house", "home"]
 topics: ["ine-pro:Housing"]
 ---

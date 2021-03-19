@@ -6,6 +6,6 @@ klass: root
 etymology: ["Perhaps an extension of *sew- (“to pour; squeeze”)."]
 markers: []
 synonyms: []
-definitions: [["to bear (a child)", "to give birth"]]
+definitions: ["to bear (a child)", "to give birth"]
 topics: []
 ---

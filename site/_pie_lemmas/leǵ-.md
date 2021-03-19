@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: ["*les-"]
-definitions: [["to gather, collect, with derivatives meaning to speak"]]
+definitions: ["to gather", "collect", "with derivatives meaning to speak"]
 topics: []
 ---

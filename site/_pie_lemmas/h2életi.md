@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Thematic root verb of the root *h₂el-."]
 markers: []
 synonyms: []
-definitions: [["to be nourishing"]]
+definitions: ["to be nourishing"]
 topics: []
 ---

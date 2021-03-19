@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *ters- (“dry”) +‎ *-éyeti (causative suffix)."]
 markers: []
 synonyms: []
-definitions: [["to make dry, to cause to dry"]]
+definitions: ["to make dry", "to cause to dry"]
 topics: []
 ---

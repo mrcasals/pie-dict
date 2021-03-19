@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["beam, plank"]]
+definitions: ["beam", "plank"]
 topics: []
 ---

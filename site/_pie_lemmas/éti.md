@@ -6,6 +6,6 @@ klass: adverb
 etymology: ["From *h₁é."]
 markers: []
 synonyms: []
-definitions: [["beyond", "over"]]
+definitions: ["beyond", "over"]
 topics: []
 ---

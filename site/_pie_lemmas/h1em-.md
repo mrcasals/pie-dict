@@ -6,6 +6,6 @@ klass: root
 etymology: ["Possibly related to *nem- (“to take or give one's due”)."]
 markers: []
 synonyms: []
-definitions: [["to take", "to distribute"]]
+definitions: ["to take", "to distribute"]
 topics: []
 ---

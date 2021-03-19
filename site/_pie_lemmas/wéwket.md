@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Thematic reduplicated aorist of *wekʷ-."]
 markers: []
 synonyms: []
-definitions: [["to say"]]
+definitions: ["to say"]
 topics: ["ine-pro:Talking"]
 ---

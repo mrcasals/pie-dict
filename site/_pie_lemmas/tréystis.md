@@ -6,6 +6,6 @@ klass: adjective
 etymology: []
 markers: []
 synonyms: []
-definitions: [["stubborn", "in a bad mood"]]
+definitions: ["stubborn", "in a bad mood"]
 topics: []
 ---

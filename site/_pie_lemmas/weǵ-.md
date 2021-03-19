@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["lively, awake", "strong"]]
+definitions: ["lively", "awake", "strong"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to pierce", "to strike"], ["brown"]]
+definitions: ["to pierce", "to strike", "brown"]
 topics: []
 ---

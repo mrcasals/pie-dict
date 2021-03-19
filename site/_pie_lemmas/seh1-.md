@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to impress, insert", "to sow, to plant"], ["long, lasting"]]
+definitions: ["to impress", "insert", "to sow", "to plant", "long", "lasting"]
 topics: []
 ---

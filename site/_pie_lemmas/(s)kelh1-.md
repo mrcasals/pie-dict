@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to parch, wither"]]
+definitions: ["to parch", "wither"]
 topics: []
 ---

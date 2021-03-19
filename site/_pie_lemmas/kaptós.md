@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["Perfect passive participle of *kapyéti (“to be seized, held”). Equivalent to *kap- +‎ *-tós."]
 markers: []
 synonyms: []
-definitions: [["seized, held"]]
+definitions: ["seized", "held"]
 topics: []
 ---

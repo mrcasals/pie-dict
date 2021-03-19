@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to bake, to roast, to fry"]]
+definitions: ["to bake", "to roast", "to fry"]
 topics: []
 ---

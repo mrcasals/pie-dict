@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Forms transitive imperfective verbs from roots."]]
+definitions: ["Forms transitive imperfective verbs from roots."]
 topics: []
 ---

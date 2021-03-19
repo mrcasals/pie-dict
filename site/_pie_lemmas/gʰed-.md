@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to find", "to hold"]]
+definitions: ["to find", "to hold"]
 topics: []
 ---

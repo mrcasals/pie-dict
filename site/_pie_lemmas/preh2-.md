@@ -6,6 +6,6 @@ klass: root
 etymology: ["From *per- (“before”)."]
 markers: []
 synonyms: []
-definitions: [["before, in front"]]
+definitions: ["before", "in front"]
 topics: []
 ---

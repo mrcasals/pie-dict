@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Thematic root verb of the root *bʰer-."]
 markers: []
 synonyms: []
-definitions: [["to be carrying"]]
+definitions: ["to be carrying"]
 topics: []
 ---

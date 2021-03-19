@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *gʷreh₂- +‎ *-us."]
 markers: []
 synonyms: []
-definitions: [["heavy"]]
+definitions: ["heavy"]
 topics: []
 ---

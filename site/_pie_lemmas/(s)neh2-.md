@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to swim", "to float"]]
+definitions: ["to swim", "to float"]
 topics: ["ine-pro:Swimming"]
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to win, to conquer", "force"]]
+definitions: ["to win", "to conquer", "force"]
 topics: []
 ---

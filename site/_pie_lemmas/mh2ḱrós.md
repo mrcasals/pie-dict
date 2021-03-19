@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *meh₂ḱ- +‎ *-rós."]
 markers: []
 synonyms: []
-definitions: [["lean, meager"]]
+definitions: ["lean", "meager"]
 topics: []
 ---

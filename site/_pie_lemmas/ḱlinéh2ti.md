@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *ḱley- +‎ *-né-."]
 markers: []
 synonyms: []
-definitions: [["to be leaning, sloped, bent"]]
+definitions: ["to be leaning", "sloped", "bent"]
 topics: []
 ---

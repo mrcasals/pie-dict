@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["sweet"]]
+definitions: ["sweet"]
 topics: []
 ---

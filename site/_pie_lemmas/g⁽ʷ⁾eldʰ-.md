@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to wish for, to greedily desire"]]
+definitions: ["to wish for", "to greedily desire"]
 topics: []
 ---

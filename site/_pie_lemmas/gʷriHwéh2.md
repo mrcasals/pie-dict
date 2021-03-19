@@ -6,6 +6,6 @@ klass: noun
 etymology: ["Possible, from *gʷerh₃- (“to swallow, devour, eat”)."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["mane, nape", "neck, throat", "estuary, mouth of an inlet"]]
+definitions: ["mane", "nape", "neck", "throat", "estuary", "mouth of an inlet"]
 topics: []
 ---

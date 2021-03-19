@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to say"]]
+definitions: ["to say"]
 topics: []
 ---

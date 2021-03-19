@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to smell, stink"], ["to hate"], ["to bite"]]
+definitions: ["to smell", "stink", "to hate", "to bite"]
 topics: []
 ---

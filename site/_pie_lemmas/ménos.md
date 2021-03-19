@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *men- (“think, mind”) +‎ *-os."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["mind", "thought"]]
+definitions: ["mind", "thought"]
 topics: ["ine-pro:Thinking"]
 ---

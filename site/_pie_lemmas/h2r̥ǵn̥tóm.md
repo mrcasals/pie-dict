@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₂erǵ- (“white, argent, glittering”).\nProbably entered the vocabulary with the meaning 'white metal, (probably) silver' around 3,500 BC. "]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["silver"]]
+definitions: ["silver"]
 topics: ["ine-pro:Metals"]
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to foment; warm; bathe"]]
+definitions: ["to foment", "warm", "bathe"]
 topics: []
 ---

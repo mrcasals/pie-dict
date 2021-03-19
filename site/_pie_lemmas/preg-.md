@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to yearn, to covet"]]
+definitions: ["to yearn", "to covet"]
 topics: []
 ---

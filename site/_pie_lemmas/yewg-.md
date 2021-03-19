@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to join, to yoke, to tie together"]]
+definitions: ["to join", "to yoke", "to tie together"]
 topics: []
 ---

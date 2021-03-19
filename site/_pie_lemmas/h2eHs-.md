@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to be/become dry", "to burn, to glow", "hearth", "ashes"]]
+definitions: ["to be/become dry", "to burn", "to glow", "hearth", "ashes"]
 topics: []
 ---

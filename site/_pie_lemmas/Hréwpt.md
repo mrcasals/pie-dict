@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root aorist of *Hrewp-."]
 markers: []
 synonyms: []
-definitions: [["to break"]]
+definitions: ["to break"]
 topics: []
 ---

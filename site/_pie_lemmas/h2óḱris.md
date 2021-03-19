@@ -6,6 +6,6 @@ klass: noun
 etymology: ["*h₂eḱ- (“sharp”) +‎ *-ris"]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["top, protrusion", "sharp edge, corner"]]
+definitions: ["top", "protrusion", "sharp edge", "corner"]
 topics: []
 ---

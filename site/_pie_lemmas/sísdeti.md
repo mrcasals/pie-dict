@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Thematic i-reduplicated verb of the root *sed-."]
 markers: []
 synonyms: []
-definitions: [["to be sitting down"]]
+definitions: ["to be sitting down"]
 topics: []
 ---

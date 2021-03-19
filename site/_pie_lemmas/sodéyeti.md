@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *sed- (“to sit”) +‎ *-éyeti (“causative/iterative suffix”)."]
 markers: []
 synonyms: []
-definitions: [["to set, to seat, to cause to sit"]]
+definitions: ["to set", "to seat", "to cause to sit"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *gʷʰedʰ- +‎ *-yeti."]
 markers: []
 synonyms: []
-definitions: [["to keep requesting, to keep asking for"]]
+definitions: ["to keep requesting", "to keep asking for"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *deh₂y- (“to share, divide”) +‎ *-tis."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["interval, period of time"]]
+definitions: ["interval", "period of time"]
 topics: ["ine-pro:Time"]
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["bee"]]
+definitions: ["bee"]
 topics: ["ine-pro:Insects"]
 ---

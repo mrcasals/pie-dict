@@ -6,6 +6,6 @@ klass: suffix
 etymology: ["From *-tḗr + *-ih₂."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["Derives agent nouns from verbs, denoting someone or something who has performed the verb's action."]]
+definitions: ["Derives agent nouns from verbs", "denoting someone or something who has performed the verb's action."]
 topics: []
 ---

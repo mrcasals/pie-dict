@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: []
 synonyms: []
-definitions: [["absolute superlative adjectival suffix."]]
+definitions: ["absolute superlative adjectival suffix."]
 topics: []
 ---

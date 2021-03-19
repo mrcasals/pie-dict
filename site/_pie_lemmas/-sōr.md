@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["Derives feminine gender stems from roots"]]
+definitions: ["Derives feminine gender stems from roots"]
 topics: []
 ---

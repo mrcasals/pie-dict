@@ -6,6 +6,6 @@ klass: noun
 etymology: ["Uncertain; possibly from *myewh₁- (“to move (about)”), or perhaps *mewH- (“to wash”)  +‎ *-trom."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["excrement, urine", "filth, sediment"]]
+definitions: ["excrement", "urine", "filth", "sediment"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *sed- (“to sit”) +‎ *-yeti."]
 markers: []
 synonyms: []
-definitions: [["to be sitting"]]
+definitions: ["to be sitting"]
 topics: []
 ---

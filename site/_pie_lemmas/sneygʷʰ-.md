@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to snow"]]
+definitions: ["to snow"]
 topics: ["ine-pro:Atmospheric phenomena", "ine-pro:Winter"]
 ---

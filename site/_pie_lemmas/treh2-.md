@@ -6,6 +6,6 @@ klass: root
 etymology: ["Metathesized form of *terh₂-."]
 markers: []
 synonyms: []
-definitions: [["to cross over, pass through, overcome"]]
+definitions: ["to cross over", "pass through", "overcome"]
 topics: []
 ---

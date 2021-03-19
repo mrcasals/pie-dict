@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["colored", "motley"], ["to open, rip up", "to dig"]]
+definitions: ["colored", "motley", "to open", "rip up", "to dig"]
 topics: []
 ---

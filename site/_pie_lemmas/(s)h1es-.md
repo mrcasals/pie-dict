@@ -6,6 +6,6 @@ klass: root
 etymology: ["Reanalyzed root from *sh₁es ~ *sh₁s-o-s (“sowing”), from *seh₁- (“to sow”)."]
 markers: []
 synonyms: []
-definitions: [["harvest, crop, fruit"]]
+definitions: ["harvest", "crop", "fruit"]
 topics: []
 ---

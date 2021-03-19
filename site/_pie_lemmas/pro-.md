@@ -6,6 +6,6 @@ klass: prefix
 etymology: ["From *pró (“toward, leading”)."]
 markers: []
 synonyms: []
-definitions: [["toward, forward"]]
+definitions: ["toward", "forward"]
 topics: []
 ---

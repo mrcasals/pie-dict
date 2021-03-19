@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to recite", "to sing"]]
+definitions: ["to recite", "to sing"]
 topics: []
 ---

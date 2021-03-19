@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to ask"]]
+definitions: ["to ask"]
 topics: ["ine-pro:Talking"]
 ---

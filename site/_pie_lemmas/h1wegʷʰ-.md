@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to promise, to vow", "to praise"]]
+definitions: ["to promise", "to vow", "to praise"]
 topics: []
 ---

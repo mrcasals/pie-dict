@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *yewg- (“to yoke, harness, join”) +‎ *-óm."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["yoke"]]
+definitions: ["yoke"]
 topics: ["ine-pro:Agriculture"]
 ---

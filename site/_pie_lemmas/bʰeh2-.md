@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to shine, glow light"], ["to speak, say"]]
+definitions: ["to shine", "glow light", "to speak", "say"]
 topics: ["ine-pro:Light"]
 ---

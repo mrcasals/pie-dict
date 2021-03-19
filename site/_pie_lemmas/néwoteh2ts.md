@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *néwos +‎ *-teh₂ts."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["newness"]]
+definitions: ["newness"]
 topics: []
 ---

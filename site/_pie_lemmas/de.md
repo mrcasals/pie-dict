@@ -6,6 +6,6 @@ klass: particle
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Emphatic or contrastive particle, and, but", "Postpositive demonstrative particle, towards"]]
+definitions: ["Emphatic or contrastive particle", "and", "but", "Postpositive demonstrative particle", "towards"]
 topics: []
 ---

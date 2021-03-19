@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *per- (“to penetrate; to cross (water)”) +‎ *-tus."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["crossing"]]
+definitions: ["crossing"]
 topics: ["ine-pro:Road transport"]
 ---

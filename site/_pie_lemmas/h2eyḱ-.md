@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to obtain, come in possession of , possess, to own"]]
+definitions: ["to obtain", "come in possession of ", "possess", "to own"]
 topics: []
 ---

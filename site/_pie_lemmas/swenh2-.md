@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to sound"]]
+definitions: ["to sound"]
 topics: []
 ---

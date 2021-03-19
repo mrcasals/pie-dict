@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: []
 synonyms: []
-definitions: [["(anatomy) joint"]]
+definitions: ["(anatomy) joint"]
 topics: ["ine-pro:Anatomy"]
 ---

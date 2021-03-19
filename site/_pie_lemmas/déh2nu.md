@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["river goddess"]]
+definitions: ["river goddess"]
 topics: ["ine-pro:Religion", "ine-pro:Gods"]
 ---

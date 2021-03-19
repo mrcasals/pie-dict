@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₃engʷ- +‎ *-n̥."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["fat, butter"]]
+definitions: ["fat", "butter"]
 topics: ["ine-pro:Fats and oils"]
 ---

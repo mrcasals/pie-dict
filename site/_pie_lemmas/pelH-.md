@@ -6,6 +6,6 @@ klass: root
 etymology: ["Possibly related to Proto-Uralic *piľe (“dark”)."]
 markers: []
 synonyms: []
-definitions: [["pale, gray"]]
+definitions: ["pale", "gray"]
 topics: []
 ---

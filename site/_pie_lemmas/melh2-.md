@@ -6,6 +6,6 @@ klass: root
 etymology: ["Extended from *mel- (“to rub”) along with *meld-, *meldʰ- and perhaps others."]
 markers: []
 synonyms: []
-definitions: [["to grind, to crush"]]
+definitions: ["to grind", "to crush"]
 topics: []
 ---

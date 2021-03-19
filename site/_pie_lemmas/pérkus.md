@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *perkʷ-."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["oak"]]
+definitions: ["oak"]
 topics: ["ine-pro:Oaks"]
 ---

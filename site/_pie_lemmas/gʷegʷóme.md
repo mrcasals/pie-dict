@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Reduplicated stative of the root *gʷem-."]
 markers: []
 synonyms: []
-definitions: [["to have the feet planted, to stand steady"]]
+definitions: ["to have the feet planted", "to stand steady"]
 topics: []
 ---

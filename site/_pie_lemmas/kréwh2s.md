@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: []
 synonyms: []
-definitions: [["blood"], ["blood"]]
+definitions: ["blood", "blood"]
 topics: ["ine-pro:Bodily fluids"]
 ---

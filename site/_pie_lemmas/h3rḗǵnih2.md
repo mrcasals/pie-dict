@@ -6,6 +6,6 @@ klass: noun
 etymology: ["Feminine of *h₃rḗǵs (“king”)."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["queen"]]
+definitions: ["queen"]
 topics: ["ine-pro:People", "ine-pro:Female", "ine-pro:Heads of state", "ine-pro:Monarchy"]
 ---

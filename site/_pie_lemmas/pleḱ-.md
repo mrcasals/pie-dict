@@ -6,6 +6,6 @@ klass: root
 etymology: ["Extended from *pel- (“to fold”)."]
 markers: []
 synonyms: []
-definitions: [["to fold, plait, weave"]]
+definitions: ["to fold", "plait", "weave"]
 topics: []
 ---

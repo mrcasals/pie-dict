@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Forms agent nouns from verbal roots."]]
+definitions: ["Forms agent nouns from verbal roots."]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to split"]]
+definitions: ["to split"]
 topics: []
 ---

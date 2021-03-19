@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: []
 synonyms: []
-definitions: [["flea"]]
+definitions: ["flea"]
 topics: ["ine-pro:Fleas", "ine-pro:Parasites", "ine-pro:Insects"]
 ---

@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Forms the optative mood of verbs."]]
+definitions: ["Forms the optative mood of verbs."]
 topics: []
 ---

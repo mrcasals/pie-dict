@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to rub", "to stroke", "to grind", "to remove"]]
+definitions: ["to rub", "to stroke", "to grind", "to remove"]
 topics: []
 ---

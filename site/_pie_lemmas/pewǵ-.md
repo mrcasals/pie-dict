@@ -6,6 +6,6 @@ klass: root
 etymology: ["Probably not related to *pewḱ- (“pine”)."]
 markers: []
 synonyms: []
-definitions: [["to punch, fist-fight", "to prick, poke, stab"]]
+definitions: ["to punch", "fist-fight", "to prick", "poke", "stab"]
 topics: []
 ---

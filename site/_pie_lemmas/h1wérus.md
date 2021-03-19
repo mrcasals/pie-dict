@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *h₁wer- +‎ *-us."]
 markers: []
 synonyms: []
-definitions: [["broad"]]
+definitions: ["broad"]
 topics: []
 ---

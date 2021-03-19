@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to leave alone, give up", "to retreat"]]
+definitions: ["to leave alone", "give up", "to retreat"]
 topics: []
 ---

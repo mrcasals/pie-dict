@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to be obligated, owe", "to be guilty"]]
+definitions: ["to be obligated", "owe", "to be guilty"]
 topics: []
 ---

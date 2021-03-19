@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to hurtle, to chase (away)"]]
+definitions: ["to hurtle", "to chase (away)"]
 topics: []
 ---

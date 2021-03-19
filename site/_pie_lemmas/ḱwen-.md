@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["holy, sacred"]]
+definitions: ["holy", "sacred"]
 topics: []
 ---

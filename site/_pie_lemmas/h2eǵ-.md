@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to drive"]]
+definitions: ["to drive"]
 topics: []
 ---

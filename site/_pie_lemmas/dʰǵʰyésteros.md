@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *dʰǵʰyes- (“yesterday”) +‎ *-teros (contrastive suffix)."]
 markers: []
 synonyms: []
-definitions: [["yesterday"]]
+definitions: ["yesterday"]
 topics: []
 ---

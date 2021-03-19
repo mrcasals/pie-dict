@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["white, argent", "glittering"]]
+definitions: ["white", "argent", "glittering"]
 topics: ["ine-pro:Light"]
 ---

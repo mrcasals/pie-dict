@@ -6,6 +6,6 @@ klass: prefix
 etymology: ["Zero grade form of *h₁en"]
 markers: []
 synonyms: []
-definitions: [["in, in-"]]
+definitions: ["in", "in-"]
 topics: []
 ---

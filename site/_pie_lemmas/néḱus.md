@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *neḱ- (“to die, perish”) +‎ *-us."]
 markers: []
 synonyms: ["*mr̥tós", "*dʰgʷʰitós"]
-definitions: [["dead", "mortal"]]
+definitions: ["dead", "mortal"]
 topics: ["ine-pro:Death"]
 ---

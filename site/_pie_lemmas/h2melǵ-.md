@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to milk", "milk"]]
+definitions: ["to milk", "milk"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to increase, to enlarge"]]
+definitions: ["to increase", "to enlarge"]
 topics: []
 ---

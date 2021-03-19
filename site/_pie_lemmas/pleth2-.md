@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: ["*pleh₂-"]
-definitions: [["flat"]]
+definitions: ["flat"]
 topics: []
 ---

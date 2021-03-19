@@ -6,6 +6,6 @@ klass: adverb
 etymology: ["Likely from *h₁ní (“down, downwards”) +‎ *dʰe (locative particle)."]
 markers: []
 synonyms: []
-definitions: [["under, below"]]
+definitions: ["under", "below"]
 topics: []
 ---

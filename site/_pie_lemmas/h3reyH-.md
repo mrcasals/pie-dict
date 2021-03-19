@@ -6,6 +6,6 @@ klass: root
 etymology: ["Extended from *h₃er- (“to move, stir”)."]
 markers: []
 synonyms: []
-definitions: [["to move, set in motion", "to flow, stream (of water); to pour, rain", "to boil, churn"]]
+definitions: ["to move", "set in motion", "to flow", "stream (of water)", "to pour", "rain", "to boil", "churn"]
 topics: []
 ---

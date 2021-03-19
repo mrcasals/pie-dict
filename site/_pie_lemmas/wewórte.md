@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Reduplicated stative of the root *wert-."]
 markers: []
 synonyms: []
-definitions: [["to be turned towards"]]
+definitions: ["to be turned towards"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["brother-in-law, husband’s brother"]]
+definitions: ["brother-in-law", "husband’s brother"]
 topics: ["ine-pro:Male family members"]
 ---

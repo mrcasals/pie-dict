@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["cold, rainy", "north"]]
+definitions: ["cold", "rainy", "north"]
 topics: []
 ---

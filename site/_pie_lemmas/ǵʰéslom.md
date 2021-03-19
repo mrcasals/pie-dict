@@ -6,6 +6,6 @@ klass: numeral
 etymology: ["From *ǵʰes- (“hand”) +‎ -*-lom, as if \"full hand\"."]
 markers: [["n", "neuter gender"]]
 synonyms: ["*tuHsont-"]
-definitions: [["thousand\nSynonym: *tuHsont-"]]
+definitions: ["thousand"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["deep"]]
+definitions: ["deep"]
 topics: []
 ---

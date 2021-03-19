@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to be awake, be aware"]]
+definitions: ["to be awake", "be aware"]
 topics: []
 ---

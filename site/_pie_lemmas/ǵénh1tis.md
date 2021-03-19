@@ -6,6 +6,6 @@ klass: noun
 etymology: ["*ǵenh₁- +‎ *-tis."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["birth, production"]]
+definitions: ["birth", "production"]
 topics: []
 ---

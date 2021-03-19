@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *werǵ- +‎ *-yéti."]
 markers: []
 synonyms: []
-definitions: [["to be working, to be at work"]]
+definitions: ["to be working", "to be at work"]
 topics: []
 ---

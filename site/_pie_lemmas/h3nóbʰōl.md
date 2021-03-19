@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₃nebʰ- +‎ *-ōl."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["navel"]]
+definitions: ["navel"]
 topics: ["ine-pro:Body parts"]
 ---

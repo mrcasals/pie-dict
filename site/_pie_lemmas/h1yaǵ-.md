@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to sacrifice", "to worship"]]
+definitions: ["to sacrifice", "to worship"]
 topics: []
 ---

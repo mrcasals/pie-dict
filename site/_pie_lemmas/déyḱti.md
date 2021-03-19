@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root present of the root *deyḱ-."]
 markers: []
 synonyms: []
-definitions: [["to be pointing out"]]
+definitions: ["to be pointing out"]
 topics: []
 ---

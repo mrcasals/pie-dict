@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₂yuh₁en- +‎ *-teh₂."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["youth"]]
+definitions: ["youth"]
 topics: ["ine-pro:Age", "ine-pro:Collectives", "ine-pro:People"]
 ---

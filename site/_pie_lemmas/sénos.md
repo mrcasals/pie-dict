@@ -6,6 +6,6 @@ klass: adjective
 etymology: []
 markers: []
 synonyms: []
-definitions: [["old\nAntonym: *h₂yuh₁en-"]]
+definitions: ["old"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: ["Uncertain; possibly from *(s)neh₁- (“to twist, turn”), or perhaps *(s)neh₂- (“to swim”)  +‎ *-tr̥."]
 markers: []
 synonyms: []
-definitions: [["adder (type of snake)"]]
+definitions: ["adder (type of snake)"]
 topics: []
 ---

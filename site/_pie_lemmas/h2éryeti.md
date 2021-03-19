@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *h₂erh₃- +‎ *-yeti, with regular deletion of the laryngeal between a consonant and *y."]
 markers: []
 synonyms: []
-definitions: [["to be ploughing"]]
+definitions: ["to be ploughing"]
 topics: ["ine-pro:Agriculture"]
 ---

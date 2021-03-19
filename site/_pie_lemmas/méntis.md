@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *men- (“to think”) +‎ *-tis."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["thought"]]
+definitions: ["thought"]
 topics: ["ine-pro:Thinking"]
 ---

@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Forms primary verbs."]]
+definitions: ["Forms primary verbs."]
 topics: []
 ---

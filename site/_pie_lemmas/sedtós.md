@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *sed- +‎ *-tós."]
 markers: []
 synonyms: []
-definitions: [["seated"]]
+definitions: ["seated"]
 topics: []
 ---

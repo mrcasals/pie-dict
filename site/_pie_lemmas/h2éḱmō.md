@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₂eḱ- +‎ *-mō."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["stone"]]
+definitions: ["stone"]
 topics: ["ine-pro:Geology"]
 ---

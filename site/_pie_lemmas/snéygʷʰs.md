@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *sneygʷʰ-, whence also *snóygʷʰos."]
 markers: [["f", "feminine gender"]]
 synonyms: ["*ǵʰéyōm", "*snóygʷʰos"]
-definitions: [["snow\nSynonyms: *ǵʰéyōm (also “winter”), *snóygʷʰos"]]
+definitions: ["snow"]
 topics: ["ine-pro:Atmospheric phenomena", "ine-pro:Winter"]
 ---

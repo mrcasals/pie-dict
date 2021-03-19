@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["(onomatopoeia) low-pitch humming noise"]]
+definitions: ["(onomatopoeia) low-pitch humming noise"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: adjective
 etymology: []
 markers: []
 synonyms: []
-definitions: [["left, left-hand"]]
+definitions: ["left", "left-hand"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₁engʷ- (“to burn; fire”) +‎ *-ōl."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["charcoal"]]
+definitions: ["charcoal"]
 topics: []
 ---

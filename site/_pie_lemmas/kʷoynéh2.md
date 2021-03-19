@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *kʷey- (“to pay”) +‎ -*néh₂."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["payment", "punishment, vengeance"]]
+definitions: ["payment", "punishment", "vengeance"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: ["Imitative."]
 markers: []
 synonyms: []
-definitions: [["to shout, call"]]
+definitions: ["to shout", "call"]
 topics: []
 ---

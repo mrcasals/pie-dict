@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *ǵʰew- (“pour, libate”) +‎ *-tós."]
 markers: []
 synonyms: []
-definitions: [["invoked", "libated, poured as part of a liquid offering"]]
+definitions: ["invoked", "libated", "poured as part of a liquid offering"]
 topics: []
 ---

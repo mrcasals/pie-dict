@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to sit"]]
+definitions: ["to sit"]
 topics: []
 ---

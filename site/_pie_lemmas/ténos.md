@@ -6,6 +6,6 @@ klass: noun
 etymology: ["*ten- (“stretch, extend”) +‎ *-os"]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["extension"]]
+definitions: ["extension"]
 topics: []
 ---

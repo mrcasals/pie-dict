@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *h₁wes- +‎ *-us."]
 markers: []
 synonyms: []
-definitions: [["good, excellent"]]
+definitions: ["good", "excellent"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: determiner
 etymology: ["From *h₂el- (“beyond, other”)."]
 markers: []
 synonyms: []
-definitions: [["other, another"]]
+definitions: ["other", "another"]
 topics: []
 ---

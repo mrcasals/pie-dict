@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to leave, abandon, give out"]]
+definitions: ["to leave", "abandon", "give out"]
 topics: []
 ---

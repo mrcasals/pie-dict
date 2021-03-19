@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Alternative form of *dʰewbʰ- (“deep”)"]]
+definitions: ["Alternative form of *dʰewbʰ- (“deep”)"]
 topics: []
 ---

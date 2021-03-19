@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *bʰeyd- +‎ *-né-."]
 markers: []
 synonyms: []
-definitions: [["to be splitting"]]
+definitions: ["to be splitting"]
 topics: []
 ---

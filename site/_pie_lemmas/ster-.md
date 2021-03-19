@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["sterile, infertile"]]
+definitions: ["sterile", "infertile"]
 topics: []
 ---

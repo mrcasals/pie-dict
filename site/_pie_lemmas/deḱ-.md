@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["take", "perceive"]]
+definitions: ["take", "perceive"]
 topics: []
 ---

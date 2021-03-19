@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From the root *gerh₂-."]
 markers: [["?", "gender incomplete"]]
 synonyms: []
-definitions: [["crane (bird)"]]
+definitions: ["crane (bird)"]
 topics: ["ine-pro:Cranes (birds)"]
 ---

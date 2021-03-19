@@ -6,6 +6,6 @@ klass: noun
 etymology: ["Often compared with Proto-Uralic *kala."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["large fish", "sheatfish"]]
+definitions: ["large fish", "sheatfish"]
 topics: ["ine-pro:Catfish"]
 ---

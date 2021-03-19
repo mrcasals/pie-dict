@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to be dry"]]
+definitions: ["to be dry"]
 topics: []
 ---

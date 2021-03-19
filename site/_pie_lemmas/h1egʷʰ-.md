@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: ["*peh₃-"]
-definitions: [["to drink\nSynonym: *peh₃-"]]
+definitions: ["to drink"]
 topics: []
 ---

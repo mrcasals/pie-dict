@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["naked", "head"]]
+definitions: ["naked", "head"]
 topics: []
 ---

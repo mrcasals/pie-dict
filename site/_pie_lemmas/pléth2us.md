@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *pleth₂- (“flat”) +‎ *-us."]
 markers: []
 synonyms: []
-definitions: [["flat, broad"]]
+definitions: ["flat", "broad"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to mow, reap"]]
+definitions: ["to mow", "reap"]
 topics: []
 ---

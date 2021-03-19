@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Reduplicated stative of the root *h₂neḱ-."]
 markers: []
 synonyms: []
-definitions: [["to have reached, to be at"]]
+definitions: ["to have reached", "to be at"]
 topics: []
 ---

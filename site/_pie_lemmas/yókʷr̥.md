@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *Hyekʷ- (“liver”) +‎ *-r̥ (r/n-stem suffix)."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["liver"]]
+definitions: ["liver"]
 topics: ["ine-pro:Organs"]
 ---

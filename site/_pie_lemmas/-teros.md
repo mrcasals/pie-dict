@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Contrastive or oppositional adjectival suffix."]]
+definitions: ["Contrastive or oppositional adjectival suffix."]
 topics: []
 ---

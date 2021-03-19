@@ -6,6 +6,6 @@ klass: root
 etymology: ["From a univerbation of *dwi- (“apart”) + *dʰeh₁-. The initial *d became *h₁ due to dissimilation."]
 markers: []
 synonyms: []
-definitions: [["to separate, divide"]]
+definitions: ["to separate", "divide"]
 topics: []
 ---

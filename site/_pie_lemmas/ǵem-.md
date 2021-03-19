@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to marry"]]
+definitions: ["to marry"]
 topics: []
 ---

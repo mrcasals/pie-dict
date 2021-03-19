@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *tetḱ- (“to create; to hew”) +‎ *-ō"]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["carpenter"]]
+definitions: ["carpenter"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *ǵenh₁- (“to produce, to give birth”) +‎ *-tōr (agent noun)."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["one who begets, produces", "parent"]]
+definitions: ["one who begets", "produces", "parent"]
 topics: ["ine-pro:People", "ine-pro:Family members", "ine-pro:Parents"]
 ---

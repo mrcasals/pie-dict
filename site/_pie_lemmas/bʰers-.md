@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["top, tip, point"]]
+definitions: ["top", "tip", "point"]
 topics: []
 ---

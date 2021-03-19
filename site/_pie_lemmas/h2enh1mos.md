@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₂enh₁- +‎ *-mos. Compare *h₂énh₁-mn̥, whence Proto-Celtic *anaman."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["breath"]]
+definitions: ["breath"]
 topics: ["ine-pro:Bodily functions", "ine-pro:Air"]
 ---

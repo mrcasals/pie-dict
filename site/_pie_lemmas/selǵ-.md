@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to let go, send"]]
+definitions: ["to let go", "send"]
 topics: []
 ---

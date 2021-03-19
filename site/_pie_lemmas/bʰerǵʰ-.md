@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to rise", "high, lofty", "hill, mountain"]]
+definitions: ["to rise", "high", "lofty", "hill", "mountain"]
 topics: []
 ---

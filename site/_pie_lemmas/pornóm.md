@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *p(t)erH- (“fern”)."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["feather, wing", "fern, leaf"]]
+definitions: ["feather", "wing", "fern", "leaf"]
 topics: []
 ---

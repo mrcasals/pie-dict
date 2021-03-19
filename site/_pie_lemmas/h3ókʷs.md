@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₃ekʷ- (“to see”) +‎ *-s."]
 markers: [["?", "gender incomplete"]]
 synonyms: []
-definitions: [["eye"]]
+definitions: ["eye"]
 topics: ["ine-pro:Organs"]
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to trace, to track"]]
+definitions: ["to trace", "to track"]
 topics: []
 ---

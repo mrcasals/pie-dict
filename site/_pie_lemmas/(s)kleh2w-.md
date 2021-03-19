@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["a hook, crook, peg"]]
+definitions: ["a hook", "crook", "peg"]
 topics: []
 ---

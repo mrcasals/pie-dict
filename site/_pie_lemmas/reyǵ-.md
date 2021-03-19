@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to reach, stretch out"]]
+definitions: ["to reach", "stretch out"]
 topics: []
 ---

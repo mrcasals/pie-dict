@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to blend, to mix up", "to make cloudy, opaque", "blond, red-haired, ruddy (alternative/contested)"]]
+definitions: ["to blend", "to mix up", "to make cloudy", "opaque", "blond", "red-haired", "ruddy (alternative/contested)"]
 topics: []
 ---

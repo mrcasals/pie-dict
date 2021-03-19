@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *weh₁- +‎ *-rós"]
 markers: []
 synonyms: []
-definitions: [["true"]]
+definitions: ["true"]
 topics: []
 ---

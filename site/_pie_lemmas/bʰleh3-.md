@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["bloom, flower"]]
+definitions: ["bloom", "flower"]
 topics: []
 ---

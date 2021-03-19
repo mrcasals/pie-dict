@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to follow"], ["to see"], ["to say"]]
+definitions: ["to follow", "to see", "to say"]
 topics: []
 ---

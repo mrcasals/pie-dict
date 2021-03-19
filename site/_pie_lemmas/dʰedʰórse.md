@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Reduplicated stative of the root *dʰers-."]
 markers: []
 synonyms: []
-definitions: [["to dare"]]
+definitions: ["to dare"]
 topics: []
 ---

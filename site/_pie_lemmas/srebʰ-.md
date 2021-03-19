@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to sip, gulp, suck (in)"]]
+definitions: ["to sip", "gulp", "suck (in)"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root verb of the root *telh₂-."]
 markers: []
 synonyms: []
-definitions: [["to lift"]]
+definitions: ["to lift"]
 topics: []
 ---

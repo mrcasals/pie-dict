@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *h₁rewdʰ- +‎ *-éh₁ti."]
 markers: []
 synonyms: []
-definitions: [["to be red"]]
+definitions: ["to be red"]
 topics: ["ine-pro:Colors"]
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to bind, to secure", "to pledge, to guarantee", "to lead"]]
+definitions: ["to bind", "to secure", "to pledge", "to guarantee", "to lead"]
 topics: []
 ---

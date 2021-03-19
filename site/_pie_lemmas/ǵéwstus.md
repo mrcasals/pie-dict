@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *ǵews- (“to try, to taste”) +‎ *-tus."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["taste"]]
+definitions: ["taste"]
 topics: ["ine-pro:Taste"]
 ---

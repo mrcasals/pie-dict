@@ -6,6 +6,6 @@ klass: root
 etymology: ["Extension of *pel- (“to drive”)."]
 markers: []
 synonyms: []
-definitions: [["to approach"]]
+definitions: ["to approach"]
 topics: []
 ---

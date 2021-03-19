@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Alternative form of *gley-"]]
+definitions: ["Alternative form of *gley-"]
 topics: []
 ---

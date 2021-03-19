@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *h₃énh₂os."]
 markers: []
 synonyms: []
-definitions: [["loaded; burdened"]]
+definitions: ["loaded", "burdened"]
 topics: []
 ---

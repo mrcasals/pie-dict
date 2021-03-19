@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to bend, crook", "bent, crooked", "(bent or curved body parts) leg, heel, knee, hip"]]
+definitions: ["to bend", "crook", "bent", "crooked", "(bent or curved body parts) leg", "heel", "knee", "hip"]
 topics: []
 ---

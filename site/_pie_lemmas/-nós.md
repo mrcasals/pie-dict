@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: []
 synonyms: ["*-tós"]
-definitions: [["Creates verbal adjectives from roots."]]
+definitions: ["Creates verbal adjectives from roots."]
 topics: []
 ---

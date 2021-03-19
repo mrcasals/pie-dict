@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to tame, domesticate"]]
+definitions: ["to tame", "domesticate"]
 topics: []
 ---

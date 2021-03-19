@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to talk"]]
+definitions: ["to talk"]
 topics: []
 ---

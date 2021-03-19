@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to appear, to be visible"]]
+definitions: ["to appear", "to be visible"]
 topics: []
 ---

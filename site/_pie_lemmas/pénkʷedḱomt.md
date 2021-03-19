@@ -6,6 +6,6 @@ klass: numeral
 etymology: ["From *pénkʷe (“five”) +‎ *déḱm̥ (“ten”)."]
 markers: []
 synonyms: []
-definitions: [["fifty"]]
+definitions: ["fifty"]
 topics: []
 ---

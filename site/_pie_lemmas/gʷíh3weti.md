@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Apparently from the adjective *gʷih₃wós, from *gʷeyh₃-.", "However, Gąsiorowski (2006) takes this verb to be an irregular dissimilation of *gʷígʷwe-, an isolated reduplicating thematic present from a lost *gʷew- (“move”) (?) with an o-grade root noun in *gʷṓws."]
 markers: []
 synonyms: []
-definitions: [["to live, to be alive"]]
+definitions: ["to live", "to be alive"]
 topics: ["ine-pro:Biology"]
 ---

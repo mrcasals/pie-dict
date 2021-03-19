@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *peth₂- (“to fly”)."]
 markers: []
 synonyms: []
-definitions: [["to fly"]]
+definitions: ["to fly"]
 topics: []
 ---

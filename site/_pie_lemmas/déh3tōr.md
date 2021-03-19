@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *deh₃- +‎ *-tōr."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["giver"]]
+definitions: ["giver"]
 topics: ["ine-pro:People"]
 ---

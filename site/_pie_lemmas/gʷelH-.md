@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to throw, reach, pierce; to hit by throwing"]]
+definitions: ["to throw", "reach", "pierce", "to hit by throwing"]
 topics: []
 ---

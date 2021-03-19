@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["light (not heavy)"]]
+definitions: ["light (not heavy)"]
 topics: []
 ---

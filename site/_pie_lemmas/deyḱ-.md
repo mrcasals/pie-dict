@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to point out"]]
+definitions: ["to point out"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to see"]]
+definitions: ["to see"]
 topics: ["ine-pro:Vision"]
 ---

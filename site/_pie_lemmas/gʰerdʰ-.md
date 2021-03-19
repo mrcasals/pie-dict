@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to enclose, to encircle", "enclosure, fence, belt"]]
+definitions: ["to enclose", "to encircle", "enclosure", "fence", "belt"]
 topics: []
 ---

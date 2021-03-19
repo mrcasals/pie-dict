@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["Derives nouns from roots, frequently mass nouns."]]
+definitions: ["Derives nouns from roots", "frequently mass nouns."]
 topics: []
 ---

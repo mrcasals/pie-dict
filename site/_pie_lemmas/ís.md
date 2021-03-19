@@ -6,6 +6,6 @@ klass: pronoun
 etymology: []
 markers: []
 synonyms: []
-definitions: [["the (just named, anaphoric). This demonstrative was used instead of a third-person pronoun."]]
+definitions: ["the (just named", "anaphoric). This demonstrative was used instead of a third-person pronoun."]
 topics: []
 ---

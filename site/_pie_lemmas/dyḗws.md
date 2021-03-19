@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From earlier *dyéws, from *dyew- +‎ *-s."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["sky, heaven", "sky god"]]
+definitions: ["sky", "heaven", "sky god"]
 topics: ["ine-pro:Nature", "ine-pro:Religion", "ine-pro:Gods"]
 ---

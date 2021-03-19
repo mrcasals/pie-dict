@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["hatred, angriness"]]
+definitions: ["hatred", "angriness"]
 topics: []
 ---

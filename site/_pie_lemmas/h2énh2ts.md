@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["duck"]]
+definitions: ["duck"]
 topics: ["ine-pro:Ducks"]
 ---

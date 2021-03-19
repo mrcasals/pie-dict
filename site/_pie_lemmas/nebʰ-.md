@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to become damp, cloudy"]]
+definitions: ["to become damp", "cloudy"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: ["Extension of *ster- (“to spread”)."]
 markers: []
 synonyms: []
-definitions: [["to spread, extend, stretch out"]]
+definitions: ["to spread", "extend", "stretch out"]
 topics: []
 ---

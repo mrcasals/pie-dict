@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to wipe"], ["peak, height"]]
+definitions: ["to wipe", "peak", "height"]
 topics: []
 ---

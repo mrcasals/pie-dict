@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["winter"]]
+definitions: ["winter"]
 topics: []
 ---

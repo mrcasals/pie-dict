@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *ǵʰes- +‎ *-ōr."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["hand"]]
+definitions: ["hand"]
 topics: ["ine-pro:Appendages"]
 ---

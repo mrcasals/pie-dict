@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *ten- +‎ *-éyeti."]
 markers: []
 synonyms: []
-definitions: [["to extend"]]
+definitions: ["to extend"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to twist", "to bend"]]
+definitions: ["to twist", "to bend"]
 topics: []
 ---

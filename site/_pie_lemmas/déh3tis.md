@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *deh₃- (“to give”) +‎ *-tis."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["(act of) giving"]]
+definitions: ["(act of) giving"]
 topics: []
 ---

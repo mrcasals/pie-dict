@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["rye"]]
+definitions: ["rye"]
 topics: ["ine-pro:Grains"]
 ---

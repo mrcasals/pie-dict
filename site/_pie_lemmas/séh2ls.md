@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: []
 synonyms: []
-definitions: [["salt"]]
+definitions: ["salt"]
 topics: ["ine-pro:Seasonings"]
 ---

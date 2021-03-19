@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"], ["f", "feminine gender"]]
 synonyms: []
-definitions: [["cattle"]]
+definitions: ["cattle"]
 topics: ["ine-pro:Cattle"]
 ---

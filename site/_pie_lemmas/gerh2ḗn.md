@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *gerh₂- +‎ *-ḗn."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["crane, heron"]]
+definitions: ["crane", "heron"]
 topics: ["ine-pro:Gruiforms"]
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to utter"]]
+definitions: ["to utter"]
 topics: []
 ---

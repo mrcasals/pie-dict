@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *Hrewp- +‎ *-né-."]
 markers: []
 synonyms: []
-definitions: [["to be breaking"]]
+definitions: ["to be breaking"]
 topics: []
 ---

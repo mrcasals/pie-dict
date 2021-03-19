@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["whole"]]
+definitions: ["whole"]
 topics: []
 ---

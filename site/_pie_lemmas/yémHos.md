@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *yemH- (“twin”) +‎ *-os."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["twin"]]
+definitions: ["twin"]
 topics: []
 ---

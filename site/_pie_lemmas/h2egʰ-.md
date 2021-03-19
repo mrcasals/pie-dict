@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to be upset, afraid"]]
+definitions: ["to be upset", "afraid"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["night"]]
+definitions: ["night"]
 topics: ["ine-pro:Times of day"]
 ---

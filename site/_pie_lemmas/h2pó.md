@@ -6,6 +6,6 @@ klass: adverb
 etymology: []
 markers: []
 synonyms: ["*h₂epó"]
-definitions: [["off, away\nSynonym: *h₂epó"]]
+definitions: ["off", "away"]
 topics: []
 ---

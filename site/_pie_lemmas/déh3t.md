@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root aorist of *deh₃-."]
 markers: []
 synonyms: []
-definitions: [["to give"]]
+definitions: ["to give"]
 topics: []
 ---

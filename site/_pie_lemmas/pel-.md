@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to cover, to wrap", "skin, hide, cloth"], ["to fold"], ["to beat, push, drive"], ["flour, dust"], ["alternative reconstruction of *pelH- (“pale, gray”)"]]
+definitions: ["to cover", "to wrap", "skin", "hide", "cloth", "to fold", "to beat", "push", "drive", "flour", "dust", "alternative reconstruction of *pelH- (“pale", "gray”)"]
 topics: []
 ---

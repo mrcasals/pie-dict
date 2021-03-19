@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₁ey- +‎ *-tr̥."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["way, course"]]
+definitions: ["way", "course"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to urinate"]]
+definitions: ["to urinate"]
 topics: ["ine-pro:Bodily functions", "ine-pro:Bodily fluids"]
 ---

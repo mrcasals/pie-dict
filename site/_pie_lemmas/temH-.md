@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: ["*h₁regʷ-", "*merk-", "*(s)ḱeh₃-"]
-definitions: [["dark\nSynonyms: *h₁regʷ-, *merk-, *(s)ḱeh₃-"]]
+definitions: ["dark"]
 topics: ["ine-pro:Light"]
 ---

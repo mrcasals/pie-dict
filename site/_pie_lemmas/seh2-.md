@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to satiate, satisfy"]]
+definitions: ["to satiate", "satisfy"]
 topics: []
 ---

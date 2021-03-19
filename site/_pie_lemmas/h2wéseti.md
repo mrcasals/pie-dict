@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *h₂wes- (“to dwell”)."]
 markers: []
 synonyms: []
-definitions: [["to dwell, remain"]]
+definitions: ["to dwell", "remain"]
 topics: []
 ---

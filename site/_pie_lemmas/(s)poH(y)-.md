@@ -6,6 +6,6 @@ klass: root
 etymology: ["De Vaan and Lubotsky suggest that this may be derived from a y-extension of *speh₁- (“to be filled to the brim”). "]
 markers: []
 synonyms: []
-definitions: [["foam"]]
+definitions: ["foam"]
 topics: []
 ---

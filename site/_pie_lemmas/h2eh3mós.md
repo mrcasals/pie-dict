@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *h₂eh₃- (“to be hot, burn”)."]
 markers: []
 synonyms: []
-definitions: [["raw", "uncooked", "bitter"]]
+definitions: ["raw", "uncooked", "bitter"]
 topics: []
 ---

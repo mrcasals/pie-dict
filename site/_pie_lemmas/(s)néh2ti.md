@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root present of the root *(s)neh₂-."]
 markers: []
 synonyms: []
-definitions: [["to swim, to be swimming"]]
+definitions: ["to swim", "to be swimming"]
 topics: ["ine-pro:Swimming"]
 ---

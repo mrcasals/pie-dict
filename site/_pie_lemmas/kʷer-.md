@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: ["*yeh₁-", "*h₂er-"]
-definitions: [["to do", "to make", "to build"]]
+definitions: ["to do", "to make", "to build"]
 topics: []
 ---

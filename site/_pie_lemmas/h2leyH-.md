@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to smear"]]
+definitions: ["to smear"]
 topics: []
 ---

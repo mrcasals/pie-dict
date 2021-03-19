@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["bald, naked"]]
+definitions: ["bald", "naked"]
 topics: []
 ---

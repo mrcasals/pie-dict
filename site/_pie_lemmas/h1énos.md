@@ -6,6 +6,6 @@ klass: pronoun
 etymology: ["From *h₁é."]
 markers: []
 synonyms: []
-definitions: [["that, that over there, yon (distal)"]]
+definitions: ["that", "that over there", "yon (distal)"]
 topics: []
 ---

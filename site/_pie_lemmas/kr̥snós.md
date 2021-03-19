@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *kers- +‎ *-nós."]
 markers: []
 synonyms: []
-definitions: [["black", "dark, dusky"]]
+definitions: ["black", "dark", "dusky"]
 topics: []
 ---

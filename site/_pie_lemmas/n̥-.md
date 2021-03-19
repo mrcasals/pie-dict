@@ -6,6 +6,6 @@ klass: prefix
 etymology: ["Zero grade form of the sentence negative *ne, used with verbal adjectives and forming bahuvrihis."]
 markers: []
 synonyms: []
-definitions: [["not, un-"]]
+definitions: ["not", "un-"]
 topics: []
 ---

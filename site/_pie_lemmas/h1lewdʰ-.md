@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to grow", "people"]]
+definitions: ["to grow", "people"]
 topics: []
 ---

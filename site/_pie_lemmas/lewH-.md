@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: []
 synonyms: []
-definitions: [["louse"]]
+definitions: ["louse"]
 topics: ["ine-pro:Lice", "ine-pro:Parasites"]
 ---

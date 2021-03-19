@@ -6,6 +6,6 @@ klass: noun
 etymology: ["Perhaps from *dʰewgʰ- (“to produce”), originally meaning \"the (potential) suckler, the one that draws milk\" (compare Sanskrit दुहे (duhé) / दुग्धे (dugdhe)),  +‎ *-tḗr, the suffix common to other r-stem kinship terms."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["daughter"]]
+definitions: ["daughter"]
 topics: ["ine-pro:Female family members"]
 ---

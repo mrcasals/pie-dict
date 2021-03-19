@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to cut", "to split, to separate"]]
+definitions: ["to cut", "to split", "to separate"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to put", "to lay out"]]
+definitions: ["to put", "to lay out"]
 topics: []
 ---

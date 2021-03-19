@@ -6,6 +6,6 @@ klass: root
 etymology: ["Back-formation from the noun *h₂óyu ~ *h₂yéw-, from the root *h₂ey- (“vital force, life”)."]
 markers: []
 synonyms: []
-definitions: [["straight, upright, right", "right, justice, law"]]
+definitions: ["straight", "upright", "right", "right", "justice", "law"]
 topics: []
 ---

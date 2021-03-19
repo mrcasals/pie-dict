@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to weep"]]
+definitions: ["to weep"]
 topics: []
 ---

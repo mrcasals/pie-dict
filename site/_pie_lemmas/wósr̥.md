@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["spring (season)"]]
+definitions: ["spring (season)"]
 topics: ["ine-pro:Seasons"]
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to spew, to vomit"]]
+definitions: ["to spew", "to vomit"]
 topics: []
 ---

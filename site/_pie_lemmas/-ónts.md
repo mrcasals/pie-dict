@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["Derives nouns denoting body parts."]]
+definitions: ["Derives nouns denoting body parts."]
 topics: []
 ---

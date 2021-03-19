@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to revile?"]]
+definitions: ["to revile?"]
 topics: []
 ---

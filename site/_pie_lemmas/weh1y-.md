@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to twist, wind, weave, plait", "to wrap, enclose, cover"]]
+definitions: ["to twist", "wind", "weave", "plait", "to wrap", "enclose", "cover"]
 topics: []
 ---

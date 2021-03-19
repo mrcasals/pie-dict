@@ -6,6 +6,6 @@ klass: adjective
 etymology: []
 markers: []
 synonyms: []
-definitions: [["white"]]
+definitions: ["white"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to rub, turn", "to drill, pierce"]]
+definitions: ["to rub", "turn", "to drill", "pierce"]
 topics: []
 ---

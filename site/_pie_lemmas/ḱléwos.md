@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *ḱlew- +‎ *-os."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["fame"]]
+definitions: ["fame"]
 topics: []
 ---

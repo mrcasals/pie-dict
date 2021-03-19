@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["sharp"]]
+definitions: ["sharp"]
 topics: []
 ---

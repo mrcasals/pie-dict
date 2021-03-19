@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["warm, hot"]]
+definitions: ["warm", "hot"]
 topics: []
 ---

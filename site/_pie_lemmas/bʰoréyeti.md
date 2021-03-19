@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *bʰer- (“carry”) +‎ *-éyeti (iterative suffix)."]
 markers: []
 synonyms: []
-definitions: [["to be carrying around", "to cause to carry"]]
+definitions: ["to be carrying around", "to cause to carry"]
 topics: []
 ---

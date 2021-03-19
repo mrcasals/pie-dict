@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to winnow, swing grains in a mill"]]
+definitions: ["to winnow", "swing grains in a mill"]
 topics: []
 ---

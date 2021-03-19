@@ -6,6 +6,6 @@ klass: numeral
 etymology: ["Unknown; possibly containing *ḱm̥t, from *ḱomt (“hand”), perhaps whence Proto-Germanic *handuz (“hand”). See also *deḱ-."]
 markers: []
 synonyms: []
-definitions: [["ten"]]
+definitions: ["ten"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root present of the root *mlewH-."]
 markers: []
 synonyms: []
-definitions: [["to say"]]
+definitions: ["to say"]
 topics: ["ine-pro:Talking"]
 ---

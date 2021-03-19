@@ -6,6 +6,6 @@ klass: root
 etymology: ["Perhaps an old ingressive s-formation of *ḱem-."]
 markers: []
 synonyms: []
-definitions: [["to announce, to proclaim", "to put in order"]]
+definitions: ["to announce", "to proclaim", "to put in order"]
 topics: []
 ---

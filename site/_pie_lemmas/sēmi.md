@@ -6,6 +6,6 @@ klass: adverb
 etymology: ["Vṛddhi derivative of *sem- (“one”), + locative suffix *-i."]
 markers: []
 synonyms: []
-definitions: [["half", "partially"]]
+definitions: ["half", "partially"]
 topics: []
 ---

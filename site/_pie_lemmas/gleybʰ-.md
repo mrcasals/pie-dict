@@ -6,6 +6,6 @@ klass: root
 etymology: ["Perhaps an extended form of *gley-."]
 markers: []
 synonyms: []
-definitions: [["to stick"]]
+definitions: ["to stick"]
 topics: []
 ---

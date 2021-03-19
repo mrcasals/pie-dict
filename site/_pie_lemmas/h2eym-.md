@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to copy, imitate"]]
+definitions: ["to copy", "imitate"]
 topics: []
 ---

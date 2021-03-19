@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to enjoy", "to consume"], ["to perceive, see, to be aware of"]]
+definitions: ["to enjoy", "to consume", "to perceive", "see", "to be aware of"]
 topics: []
 ---

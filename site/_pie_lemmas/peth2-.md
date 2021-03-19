@@ -6,6 +6,6 @@ klass: root
 etymology: ["Existing in variations, *pet-, *peth₁-, *peth₂-."]
 markers: []
 synonyms: []
-definitions: [["to spread out", "to fly (through the sense ‘spread one’s wings’)"]]
+definitions: ["to spread out", "to fly (through the sense ‘spread one’s wings’)"]
 topics: []
 ---

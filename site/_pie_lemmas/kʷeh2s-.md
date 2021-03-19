@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to cough"]]
+definitions: ["to cough"]
 topics: []
 ---

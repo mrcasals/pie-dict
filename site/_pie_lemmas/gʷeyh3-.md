@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to live"]]
+definitions: ["to live"]
 topics: ["ine-pro:Biology"]
 ---

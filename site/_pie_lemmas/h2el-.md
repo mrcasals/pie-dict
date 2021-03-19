@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to grow, nourish"], ["beyond, other"], ["to wander, roam"]]
+definitions: ["to grow", "nourish", "beyond", "other", "to wander", "roam"]
 topics: []
 ---

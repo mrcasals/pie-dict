@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to pull, to draw", "to lead (i.e. to pull behind oneself)"]]
+definitions: ["to pull", "to draw", "to lead (i.e. to pull behind oneself)"]
 topics: []
 ---

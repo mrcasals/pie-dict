@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *wert- +‎ *-éyeti."]
 markers: []
 synonyms: []
-definitions: [["to turn (transitive)"]]
+definitions: ["to turn (transitive)"]
 topics: []
 ---

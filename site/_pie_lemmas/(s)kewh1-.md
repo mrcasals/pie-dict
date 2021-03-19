@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to perceive", "to observe"]]
+definitions: ["to perceive", "to observe"]
 topics: []
 ---

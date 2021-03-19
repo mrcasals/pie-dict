@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *bʰardʰéh₂ +‎ *-éh₂tos."]
 markers: []
 synonyms: []
-definitions: [["bearded"]]
+definitions: ["bearded"]
 topics: []
 ---

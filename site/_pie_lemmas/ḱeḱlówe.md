@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Reduplicated stative of the root *ḱlew-."]
 markers: []
 synonyms: []
-definitions: [["to be heard, audible"]]
+definitions: ["to be heard", "audible"]
 topics: ["ine-pro:Hearing"]
 ---

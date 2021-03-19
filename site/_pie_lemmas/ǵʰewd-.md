@@ -6,6 +6,6 @@ klass: root
 etymology: ["Extended from *ǵʰew-."]
 markers: []
 synonyms: []
-definitions: [["to pour"]]
+definitions: ["to pour"]
 topics: []
 ---

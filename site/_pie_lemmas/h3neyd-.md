@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to revile, insult"]]
+definitions: ["to revile", "insult"]
 topics: []
 ---

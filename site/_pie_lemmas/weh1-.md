@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["true"]]
+definitions: ["true"]
 topics: []
 ---

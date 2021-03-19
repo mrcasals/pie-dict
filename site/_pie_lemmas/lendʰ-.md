@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["land, heath"], ["loins"]]
+definitions: ["land", "heath", "loins"]
 topics: []
 ---

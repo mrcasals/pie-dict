@@ -6,6 +6,6 @@ klass: numeral
 etymology: ["Possibly from *tewh₂- (“to swell”)."]
 markers: []
 synonyms: ["*ǵʰéslom"]
-definitions: [["thousand\nSynonym: *ǵʰéslom"]]
+definitions: ["thousand"]
 topics: []
 ---

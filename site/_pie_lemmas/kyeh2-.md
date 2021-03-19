@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to sieve"]]
+definitions: ["to sieve"]
 topics: []
 ---

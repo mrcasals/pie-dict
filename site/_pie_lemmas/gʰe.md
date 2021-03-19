@@ -6,6 +6,6 @@ klass: particle
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Postpositional intensifying particle, indeed, at any rate, in fact", "Discourse particle, indeed, of course, surely"]]
+definitions: ["Postpositional intensifying particle", "indeed", "at any rate", "in fact", "Discourse particle", "indeed", "of course", "surely"]
 topics: []
 ---

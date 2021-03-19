@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["vital force, life, age, eternity"], ["day, morning"]]
+definitions: ["vital force", "life", "age", "eternity", "day", "morning"]
 topics: []
 ---

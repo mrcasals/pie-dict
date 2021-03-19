@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["arm"]]
+definitions: ["arm"]
 topics: ["ine-pro:Appendages"]
 ---

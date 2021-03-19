@@ -6,6 +6,6 @@ klass: prefix
 etymology: ["Zero grade form of the numeral stem *sem- (“one, together”)."]
 markers: []
 synonyms: []
-definitions: [["one", "with, together"]]
+definitions: ["one", "with", "together"]
 topics: []
 ---

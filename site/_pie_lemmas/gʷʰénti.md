@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root present of the root *gʷʰen-."]
 markers: []
 synonyms: []
-definitions: [["to be striking down, killing, slaying"]]
+definitions: ["to be striking down", "killing", "slaying"]
 topics: ["ine-pro:Murder"]
 ---

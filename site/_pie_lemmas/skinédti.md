@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *skeyd- +‎ *-né-."]
 markers: []
 synonyms: []
-definitions: [["to be cutting off"]]
+definitions: ["to be cutting off"]
 topics: []
 ---

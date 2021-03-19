@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *deyḱ- +‎ *-st."]
 markers: []
 synonyms: []
-definitions: [["to point out"]]
+definitions: ["to point out"]
 topics: []
 ---

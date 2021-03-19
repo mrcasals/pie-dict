@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Reduplicated stative of the root *ten-."]
 markers: []
 synonyms: []
-definitions: [["to be stretched, extended"]]
+definitions: ["to be stretched", "extended"]
 topics: []
 ---

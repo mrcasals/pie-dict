@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["excited, inspired", "possessed, raging"]]
+definitions: ["excited", "inspired", "possessed", "raging"]
 topics: []
 ---

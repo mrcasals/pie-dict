@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["dowry"]]
+definitions: ["dowry"]
 topics: []
 ---

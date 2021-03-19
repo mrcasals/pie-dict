@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to wobble, swing"]]
+definitions: ["to wobble", "swing"]
 topics: []
 ---

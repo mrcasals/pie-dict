@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["fog, mist, cloud", "to drizzle"]]
+definitions: ["fog", "mist", "cloud", "to drizzle"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to speak, to sound out"]]
+definitions: ["to speak", "to sound out"]
 topics: ["ine-pro:Talking"]
 ---

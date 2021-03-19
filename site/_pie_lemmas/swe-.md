@@ -6,6 +6,6 @@ klass: prefix
 etymology: ["From *swé (“self”)."]
 markers: []
 synonyms: []
-definitions: [["self"]]
+definitions: ["self"]
 topics: []
 ---

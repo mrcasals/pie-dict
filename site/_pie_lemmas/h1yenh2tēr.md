@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["co-sister-in-law"]]
+definitions: ["co-sister-in-law"]
 topics: ["ine-pro:Female family members"]
 ---

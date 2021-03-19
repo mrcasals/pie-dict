@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *telh₂- +‎ *-né-."]
 markers: []
 synonyms: []
-definitions: [["to be lifting"]]
+definitions: ["to be lifting"]
 topics: []
 ---

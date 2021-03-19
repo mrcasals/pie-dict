@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to set in motion", "to flow"]]
+definitions: ["to set in motion", "to flow"]
 topics: []
 ---

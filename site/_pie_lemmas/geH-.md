@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to sing", "to cry"]]
+definitions: ["to sing", "to cry"]
 topics: []
 ---

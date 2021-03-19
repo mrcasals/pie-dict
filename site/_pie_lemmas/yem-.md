@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to hold, restrain", "to take, seize"]]
+definitions: ["to hold", "restrain", "to take", "seize"]
 topics: []
 ---

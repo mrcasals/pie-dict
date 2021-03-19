@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to laugh, to be glad"]]
+definitions: ["to laugh", "to be glad"]
 topics: []
 ---

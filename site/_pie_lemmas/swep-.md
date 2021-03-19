@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to sleep"]]
+definitions: ["to sleep"]
 topics: []
 ---

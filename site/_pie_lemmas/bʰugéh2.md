@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *bʰewg- (“to flee, to escape”)."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["flight, escape"]]
+definitions: ["flight", "escape"]
 topics: []
 ---

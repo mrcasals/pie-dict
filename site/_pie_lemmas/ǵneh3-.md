@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to know"]]
+definitions: ["to know"]
 topics: ["ine-pro:Thinking"]
 ---

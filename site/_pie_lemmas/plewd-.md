@@ -6,6 +6,6 @@ klass: root
 etymology: ["Extended form of *plew-."]
 markers: []
 synonyms: []
-definitions: [["to fly, flow, run"]]
+definitions: ["to fly", "flow", "run"]
 topics: []
 ---

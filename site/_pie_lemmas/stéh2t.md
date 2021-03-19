@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root aorist of *steh₂-."]
 markers: []
 synonyms: []
-definitions: [["to stand up"]]
+definitions: ["to stand up"]
 topics: []
 ---

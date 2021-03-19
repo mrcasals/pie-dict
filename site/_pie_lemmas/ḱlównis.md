@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["buttocks, hip"]]
+definitions: ["buttocks", "hip"]
 topics: ["ine-pro:Body parts"]
 ---

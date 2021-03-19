@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to cross over, pass through, overcome"]]
+definitions: ["to cross over", "pass through", "overcome"]
 topics: []
 ---

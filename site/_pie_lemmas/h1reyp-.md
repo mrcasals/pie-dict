@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to tear, tear down"]]
+definitions: ["to tear", "tear down"]
 topics: []
 ---

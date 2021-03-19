@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *(s)neh₁- (“to twist (threads), spin, weave”) +‎ *-wr̥."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["sinew, tendon"]]
+definitions: ["sinew", "tendon"]
 topics: ["ine-pro:Anatomy", "ine-pro:Fibers"]
 ---

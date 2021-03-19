@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *pleth₂- (“flat”) +‎ *-os."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["breadth"]]
+definitions: ["breadth"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to wash"]]
+definitions: ["to wash"]
 topics: ["ine-pro:Bathing"]
 ---

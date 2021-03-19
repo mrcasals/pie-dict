@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["thick"]]
+definitions: ["thick"]
 topics: []
 ---

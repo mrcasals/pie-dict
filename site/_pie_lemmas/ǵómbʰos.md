@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: ["*h₃dónts"]
-definitions: [["tooth", "row of teeth", "peg"]]
+definitions: ["tooth", "row of teeth", "peg"]
 topics: ["ine-pro:Body parts"]
 ---

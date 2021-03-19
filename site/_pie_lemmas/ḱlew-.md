@@ -6,6 +6,6 @@ klass: root
 etymology: ["From *ḱel- (“to incline”)."]
 markers: []
 synonyms: []
-definitions: [["to hear"]]
+definitions: ["to hear"]
 topics: ["ine-pro:Hearing"]
 ---

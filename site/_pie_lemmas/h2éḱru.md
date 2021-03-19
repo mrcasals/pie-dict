@@ -6,6 +6,6 @@ klass: noun
 etymology: ["Probably from *h₂eḱ- (“sharp”)."]
 markers: [["n", "neuter gender"]]
 synonyms: ["*dáḱru"]
-definitions: [["tear (in the eyes)\nSynonym: *dáḱru"]]
+definitions: ["tear (in the eyes)"]
 topics: ["ine-pro:Bodily fluids"]
 ---

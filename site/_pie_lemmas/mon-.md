@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: []
 synonyms: []
-definitions: [["man, human being"]]
+definitions: ["man", "human being"]
 topics: []
 ---

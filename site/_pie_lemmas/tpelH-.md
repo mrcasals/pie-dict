@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["fortification, city"]]
+definitions: ["fortification", "city"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to irritate", "rough"]]
+definitions: ["to irritate", "rough"]
 topics: []
 ---

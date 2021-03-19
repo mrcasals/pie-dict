@@ -6,6 +6,6 @@ klass: determiner
 etymology: ["Perhaps related to *h₂en-, *h₂ent-."]
 markers: []
 synonyms: ["*h₂élteros"]
-definitions: [["second, other"]]
+definitions: ["second", "other"]
 topics: []
 ---

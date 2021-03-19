@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["birch"]]
+definitions: ["birch"]
 topics: []
 ---

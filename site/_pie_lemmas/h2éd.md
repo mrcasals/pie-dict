@@ -6,6 +6,6 @@ klass: adverb
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to, at"]]
+definitions: ["to", "at"]
 topics: []
 ---

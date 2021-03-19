@@ -6,6 +6,6 @@ klass: prefix
 etymology: ["Zero grade form of *kʷetwóres (“four”)."]
 markers: []
 synonyms: []
-definitions: [["four, fourfold"]]
+definitions: ["four", "fourfold"]
 topics: []
 ---

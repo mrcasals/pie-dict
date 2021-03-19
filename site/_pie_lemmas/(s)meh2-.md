@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to beckon, signal"]]
+definitions: ["to beckon", "signal"]
 topics: []
 ---

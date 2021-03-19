@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to sound; to speak, roar, bark"], ["shiny, white"], ["to blow, to swell up"], ["henbane"]]
+definitions: ["to sound", "to speak", "roar", "bark", "shiny", "white", "to blow", "to swell up", "henbane"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: ["Of imitative/expressive origin. Probably a Lallwort: dubious PIE reconstruction."]
 markers: []
 synonyms: ["*gʷuH-"]
-definitions: [["to defecate"]]
+definitions: ["to defecate"]
 topics: []
 ---

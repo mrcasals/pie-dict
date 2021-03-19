@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root aorist of *gʷem-."]
 markers: []
 synonyms: []
-definitions: [["to step, to take a step", "to arrive"]]
+definitions: ["to step", "to take a step", "to arrive"]
 topics: ["ine-pro:Gaits"]
 ---

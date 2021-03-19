@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₃meygʰ- (“fog, cloud”)."]
 markers: []
 synonyms: []
-definitions: [["mist, cloud"]]
+definitions: ["mist", "cloud"]
 topics: ["ine-pro:Atmospheric phenomena"]
 ---

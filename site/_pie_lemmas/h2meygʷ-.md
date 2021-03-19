@@ -6,6 +6,6 @@ klass: root
 etymology: ["Perhaps an extension of h₂mey-."]
 markers: []
 synonyms: []
-definitions: [["to change, exchange", "to change places → to wander"]]
+definitions: ["to change", "exchange", "to change places → to wander"]
 topics: []
 ---

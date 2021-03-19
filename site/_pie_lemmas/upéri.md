@@ -6,6 +6,6 @@ klass: adverb
 etymology: []
 markers: []
 synonyms: []
-definitions: [["alternative reconstruction of *upér"]]
+definitions: ["alternative reconstruction of *upér"]
 topics: []
 ---

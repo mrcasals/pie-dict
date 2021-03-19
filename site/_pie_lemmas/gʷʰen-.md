@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to strike, slay, kill"]]
+definitions: ["to strike", "slay", "kill"]
 topics: []
 ---

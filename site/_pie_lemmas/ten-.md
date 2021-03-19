@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: ["*temp-"]
-definitions: [["to stretch, to extend\nSynonym: *temp-"]]
+definitions: ["to stretch", "to extend"]
 topics: []
 ---

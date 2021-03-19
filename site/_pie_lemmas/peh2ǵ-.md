@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to attach"]]
+definitions: ["to attach"]
 topics: []
 ---

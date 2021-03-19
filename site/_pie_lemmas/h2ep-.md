@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["water, body of water"]]
+definitions: ["water", "body of water"]
 topics: []
 ---

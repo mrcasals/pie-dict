@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to pour"]]
+definitions: ["to pour"]
 topics: []
 ---

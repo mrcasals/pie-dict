@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *leykʷ- +‎ *-né-."]
 markers: []
 synonyms: []
-definitions: [["to be leaving"]]
+definitions: ["to be leaving"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["the womb"]]
+definitions: ["the womb"]
 topics: []
 ---

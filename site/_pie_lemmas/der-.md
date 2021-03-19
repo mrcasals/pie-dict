@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to split, to separate", "to tear, to crack, to shatter"]]
+definitions: ["to split", "to separate", "to tear", "to crack", "to shatter"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["pond, pool"]]
+definitions: ["pond", "pool"]
 topics: ["ine-pro:Landforms", "ine-pro:Water"]
 ---

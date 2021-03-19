@@ -6,6 +6,6 @@ klass: noun
 etymology: ["Perhaps rebuilt from the genitive of *swóp-r̥ ~ *swép-n̥s, from *swep- (“to sleep”) +‎ *-r̥."]
 markers: [["m", "masculine gender"]]
 synonyms: ["*swépnos", "*swópr̥", "*mértis", "*dʰgʷʰéytis"]
-definitions: [["sleep\nSynonyms: *swépnos, *swópr̥", "(euphemistic) death\nSynonyms: *mértis, *dʰgʷʰéytis"]]
+definitions: ["sleep", "(euphemistic) death"]
 topics: ["ine-pro:Sleep", "ine-pro:Death"]
 ---

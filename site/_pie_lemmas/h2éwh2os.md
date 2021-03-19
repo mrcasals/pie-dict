@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["maternal grandfather", "maternal uncle"]]
+definitions: ["maternal grandfather", "maternal uncle"]
 topics: ["ine-pro:Male family members"]
 ---

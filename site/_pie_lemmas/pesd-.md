@@ -6,6 +6,6 @@ klass: root
 etymology: ["Probably imitative."]
 markers: []
 synonyms: ["*perd-"]
-definitions: [["to fart softly, pass gas, break wind"]]
+definitions: ["to fart softly", "pass gas", "break wind"]
 topics: ["ine-pro:Bodily functions"]
 ---

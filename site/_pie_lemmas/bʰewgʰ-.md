@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to bend", "curve, arch"]]
+definitions: ["to bend", "curve", "arch"]
 topics: []
 ---

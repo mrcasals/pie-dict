@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: ["*h₁eyg-"]
-definitions: [["ice, frost\nSynonym: *h₁eyg-"]]
+definitions: ["ice", "frost"]
 topics: ["ine-pro:Atmospheric phenomena", "ine-pro:Water"]
 ---

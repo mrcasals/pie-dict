@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to shake, tremble, agitate", "to swing, sway", "to turn, wind, rotate, wrap (around)"]]
+definitions: ["to shake", "tremble", "agitate", "to swing", "sway", "to turn", "wind", "rotate", "wrap (around)"]
 topics: []
 ---

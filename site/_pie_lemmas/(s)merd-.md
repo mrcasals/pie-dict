@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to bite, to sting"]]
+definitions: ["to bite", "to sting"]
 topics: []
 ---

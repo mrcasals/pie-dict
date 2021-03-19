@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: []
 synonyms: []
-definitions: [["lamb in general, or more probably only the male, ram."]]
+definitions: ["lamb in general", "or more probably only the male", "ram."]
 topics: ["ine-pro:Male animals", "ine-pro:Sheep"]
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to fit, to fix, to put together"]]
+definitions: ["to fit", "to fix", "to put together"]
 topics: []
 ---

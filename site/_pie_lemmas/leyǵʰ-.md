@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to lick"]]
+definitions: ["to lick"]
 topics: []
 ---

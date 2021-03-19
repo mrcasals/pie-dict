@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to knead", "to form, to shape"]]
+definitions: ["to knead", "to form", "to shape"]
 topics: []
 ---

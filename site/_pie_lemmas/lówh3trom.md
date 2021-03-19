@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *lewh₃- (“to rinse, wash, bathe”) +‎ *-trom (suffix for instrument nouns)."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["that which is used for washing", "washbasin, bathtub", "bathwater; soap suds"]]
+definitions: ["that which is used for washing", "washbasin", "bathtub", "bathwater", "soap suds"]
 topics: ["ine-pro:Bathing"]
 ---

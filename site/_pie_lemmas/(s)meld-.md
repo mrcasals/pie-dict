@@ -6,6 +6,6 @@ klass: root
 etymology: ["Often compared to *(s)mel- (“to crush, grind”)."]
 markers: []
 synonyms: []
-definitions: [["to soften, to melt"]]
+definitions: ["to soften", "to melt"]
 topics: []
 ---

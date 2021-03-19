@@ -6,6 +6,6 @@ klass: pronoun
 etymology: []
 markers: []
 synonyms: []
-definitions: [["you (plural)"]]
+definitions: ["you (plural)"]
 topics: []
 ---

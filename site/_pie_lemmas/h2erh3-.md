@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to plough"]]
+definitions: ["to plough"]
 topics: ["ine-pro:Agriculture"]
 ---

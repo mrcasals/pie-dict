@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *tep- (“be warm, be hot”) +‎ *-os."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["heat, warmth"]]
+definitions: ["heat", "warmth"]
 topics: ["ine-pro:Temperature"]
 ---

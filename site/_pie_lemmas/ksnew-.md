@@ -6,6 +6,6 @@ klass: root
 etymology: ["Reanalysed root of *ksnéwti, from *kes- (“to scrape, comb”) +‎ *-néwti (*néw-present suffix)."]
 markers: []
 synonyms: []
-definitions: [["to scrape, sharpen"]]
+definitions: ["to scrape", "sharpen"]
 topics: []
 ---

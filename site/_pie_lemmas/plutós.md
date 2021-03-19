@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *plew- +‎ *-tós."]
 markers: []
 synonyms: []
-definitions: [["washed", "floated"]]
+definitions: ["washed", "floated"]
 topics: []
 ---

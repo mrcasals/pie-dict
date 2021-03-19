@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *bʰeydʰ- (“to trust”) +‎ *-tós."]
 markers: []
 synonyms: []
-definitions: [["trusted, trustworthy"]]
+definitions: ["trusted", "trustworthy"]
 topics: []
 ---

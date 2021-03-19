@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *gerbʰ- +‎ *-tós."]
 markers: []
 synonyms: []
-definitions: [["carved"]]
+definitions: ["carved"]
 topics: []
 ---

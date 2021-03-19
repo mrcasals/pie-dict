@@ -6,6 +6,6 @@ klass: suffix
 etymology: ["From *-éh₁ti (stative suffix) +‎ *-yeti."]
 markers: []
 synonyms: []
-definitions: [["Thematicization of the athematic stative verbal suffix; see *-yeti."]]
+definitions: ["Thematicization of the athematic stative verbal suffix", "see *-yeti."]
 topics: []
 ---

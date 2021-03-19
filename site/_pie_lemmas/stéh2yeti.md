@@ -6,6 +6,6 @@ klass: verb
 etymology: ["*steh₂- (“stand”) +‎ *-yeti."]
 markers: []
 synonyms: []
-definitions: [["to be standing"]]
+definitions: ["to be standing"]
 topics: []
 ---

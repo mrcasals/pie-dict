@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Reduplicated stative of the root *telh₂-."]
 markers: []
 synonyms: []
-definitions: [["to be holding up"]]
+definitions: ["to be holding up"]
 topics: []
 ---

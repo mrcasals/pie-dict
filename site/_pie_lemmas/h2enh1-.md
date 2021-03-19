@@ -6,6 +6,6 @@ klass: root
 etymology: ["Likely of onomatopoeic origin."]
 markers: []
 synonyms: []
-definitions: [["to breathe"]]
+definitions: ["to breathe"]
 topics: []
 ---

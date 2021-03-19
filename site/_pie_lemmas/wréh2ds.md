@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["root"]]
+definitions: ["root"]
 topics: ["ine-pro:Horticulture"]
 ---

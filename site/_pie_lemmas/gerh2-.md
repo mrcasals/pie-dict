@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to cry hoarsely", "crane"]]
+definitions: ["to cry hoarsely", "crane"]
 topics: []
 ---

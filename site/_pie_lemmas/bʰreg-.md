@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: ["*bʰeg-", "*Hrewp-", "*kelh₂-", "*lem-", "*lewǵ-"]
-definitions: [["to break\nSynonyms: *bʰeg-, *Hrewp-, *kelh₂-, *lem-, *lewǵ-"]]
+definitions: ["to break"]
 topics: []
 ---

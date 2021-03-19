@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *keh₃- (“to fight”) +‎ *-tus."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["fight"]]
+definitions: ["fight"]
 topics: []
 ---

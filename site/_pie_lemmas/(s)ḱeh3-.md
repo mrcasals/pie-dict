@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["darkness, shadow"]]
+definitions: ["darkness", "shadow"]
 topics: ["ine-pro:Light"]
 ---

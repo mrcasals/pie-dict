@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Thematic root verb of the root *h₃yebʰ-."]
 markers: []
 synonyms: []
-definitions: [["to copulate, to fuck"]]
+definitions: ["to copulate", "to fuck"]
 topics: ["ine-pro:Sex"]
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to produce, to produce something useful", "to be strong, have force"]]
+definitions: ["to produce", "to produce something useful", "to be strong", "have force"]
 topics: []
 ---

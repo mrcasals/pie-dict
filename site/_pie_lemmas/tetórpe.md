@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Reduplicated stative of the root *terp-."]
 markers: []
 synonyms: []
-definitions: [["to be satisfied"]]
+definitions: ["to be satisfied"]
 topics: []
 ---

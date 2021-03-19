@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *dʰwer-."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["door"]]
+definitions: ["door"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to praise, laud"]]
+definitions: ["to praise", "laud"]
 topics: []
 ---

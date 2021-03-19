@@ -6,6 +6,6 @@ klass: adverb
 etymology: ["Petrified instrumental singular of *h₁er- (“separately, loosely”) + *-éh₁."]
 markers: []
 synonyms: []
-definitions: [["sparsely, rarely, loosely"]]
+definitions: ["sparsely", "rarely", "loosely"]
 topics: []
 ---

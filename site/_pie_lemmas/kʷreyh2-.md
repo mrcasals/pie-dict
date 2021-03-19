@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to buy"]]
+definitions: ["to buy"]
 topics: ["ine-pro:Business"]
 ---

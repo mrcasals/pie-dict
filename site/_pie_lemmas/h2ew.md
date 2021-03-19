@@ -6,6 +6,6 @@ klass: adverb
 etymology: []
 markers: []
 synonyms: []
-definitions: [["away from, off", "again"]]
+definitions: ["away from", "off", "again"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *kes- (“to scrape, comb”) +‎ *-néwti."]
 markers: []
 synonyms: []
-definitions: [["to scrape, sharpen"]]
+definitions: ["to scrape", "sharpen"]
 topics: []
 ---

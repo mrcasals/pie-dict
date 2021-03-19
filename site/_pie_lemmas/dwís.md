@@ -6,6 +6,6 @@ klass: adverb
 etymology: ["From the same root as *dwóh₁."]
 markers: []
 synonyms: []
-definitions: [["twice, doubly", "in two"]]
+definitions: ["twice", "doubly", "in two"]
 topics: []
 ---

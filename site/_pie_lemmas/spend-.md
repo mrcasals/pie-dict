@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to libate"]]
+definitions: ["to libate"]
 topics: []
 ---

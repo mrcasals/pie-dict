@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to call", "to chant", "to shout"]]
+definitions: ["to call", "to chant", "to shout"]
 topics: []
 ---

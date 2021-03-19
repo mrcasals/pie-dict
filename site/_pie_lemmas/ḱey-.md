@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to be lying down", "to settle"]]
+definitions: ["to be lying down", "to settle"]
 topics: []
 ---

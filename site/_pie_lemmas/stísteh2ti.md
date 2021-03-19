@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic i-reduplicated verb of the root *steh₂-."]
 markers: []
 synonyms: []
-definitions: [["to be standing up, to be getting up"]]
+definitions: ["to be standing up", "to be getting up"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: ["Likely a vṛddhi derivative of *h₂éwis (“bird”)."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["egg"]]
+definitions: ["egg"]
 topics: ["ine-pro:Eggs", "ine-pro:Poultry"]
 ---

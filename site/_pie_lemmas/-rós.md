@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: []
 synonyms: []
-definitions: [["Forms adjectives from Caland system roots."]]
+definitions: ["Forms adjectives from Caland system roots."]
 topics: []
 ---

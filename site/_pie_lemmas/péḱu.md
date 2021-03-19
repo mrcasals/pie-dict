@@ -6,6 +6,6 @@ klass: noun
 etymology: ["*u-stem of *peḱ- (“livestock”)."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["livestock"]]
+definitions: ["livestock"]
 topics: ["ine-pro:Livestock"]
 ---

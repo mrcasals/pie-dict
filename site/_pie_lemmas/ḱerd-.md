@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["heart"]]
+definitions: ["heart"]
 topics: []
 ---

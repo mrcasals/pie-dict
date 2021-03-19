@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to express approval; praise", "to elevate"]]
+definitions: ["to express approval", "praise", "to elevate"]
 topics: []
 ---

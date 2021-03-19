@@ -6,6 +6,6 @@ klass: numeral
 etymology: []
 markers: []
 synonyms: []
-definitions: [["seven"]]
+definitions: ["seven"]
 topics: []
 ---

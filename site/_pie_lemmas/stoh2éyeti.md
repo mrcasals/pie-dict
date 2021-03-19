@@ -6,6 +6,6 @@ klass: verb
 etymology: ["*steh₂- (“stand”) +‎ *-éyeti."]
 markers: []
 synonyms: []
-definitions: [["to cause to stand"]]
+definitions: ["to cause to stand"]
 topics: []
 ---

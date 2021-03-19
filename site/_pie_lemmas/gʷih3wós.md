@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *gʷeyh₃- (“to live”) +‎ *-wós."]
 markers: []
 synonyms: []
-definitions: [["alive, living"]]
+definitions: ["alive", "living"]
 topics: ["ine-pro:Biology"]
 ---

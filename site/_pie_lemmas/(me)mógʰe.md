@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Root or reduplicated perfect of the root *megʰ-."]
 markers: []
 synonyms: []
-definitions: [["to have power, to be able to"]]
+definitions: ["to have power", "to be able to"]
 topics: []
 ---

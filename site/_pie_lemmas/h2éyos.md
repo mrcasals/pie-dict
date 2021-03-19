@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["a metal, copper, bronze"]]
+definitions: ["a metal", "copper", "bronze"]
 topics: ["ine-pro:Alloys"]
 ---

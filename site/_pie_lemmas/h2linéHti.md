@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *h₂leyH- +‎ *-né-."]
 markers: []
 synonyms: []
-definitions: [["to be smearing"]]
+definitions: ["to be smearing"]
 topics: []
 ---

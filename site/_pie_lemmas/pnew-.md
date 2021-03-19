@@ -6,6 +6,6 @@ klass: root
 etymology: ["Perhaps imitative or related to *plew-."]
 markers: []
 synonyms: []
-definitions: [["to pant, breathe"]]
+definitions: ["to pant", "breathe"]
 topics: []
 ---

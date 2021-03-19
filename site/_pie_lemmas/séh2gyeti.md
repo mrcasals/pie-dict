@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *seh₂g- +‎ *-yeti."]
 markers: []
 synonyms: []
-definitions: [["to give a sign"]]
+definitions: ["to give a sign"]
 topics: []
 ---

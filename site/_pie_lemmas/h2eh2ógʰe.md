@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Reduplicated stative of the root *h₂egʰ-."]
 markers: []
 synonyms: []
-definitions: [["to be upset, afraid"]]
+definitions: ["to be upset", "afraid"]
 topics: ["ine-pro:Fear"]
 ---

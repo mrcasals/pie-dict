@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *bʰerǵʰ- +‎ *-onts (Caland adjective suffix)."]
 markers: []
 synonyms: []
-definitions: [["high"]]
+definitions: ["high"]
 topics: []
 ---

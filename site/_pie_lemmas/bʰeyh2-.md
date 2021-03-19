@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to fear, be afraid"], ["to strike, hit", "to hew, cut"]]
+definitions: ["to fear", "be afraid", "to strike", "hit", "to hew", "cut"]
 topics: []
 ---

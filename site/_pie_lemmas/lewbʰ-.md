@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to desire, covet, want (someone or something)", "to admire, praise", "to love"], ["to cut off"]]
+definitions: ["to desire", "covet", "want (someone or something)", "to admire", "praise", "to love", "to cut off"]
 topics: []
 ---

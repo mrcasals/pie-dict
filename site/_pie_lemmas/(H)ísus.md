@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["arrow"]]
+definitions: ["arrow"]
 topics: ["ine-pro:Archery", "ine-pro:Weapons"]
 ---

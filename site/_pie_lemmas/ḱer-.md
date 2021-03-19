@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to grow, to make grow, to nourish"], ["to plait, weave", "rope, string"], ["alternative reconstruction of *ḱerh₂-"]]
+definitions: ["to grow", "to make grow", "to nourish", "to plait", "weave", "rope", "string", "alternative reconstruction of *ḱerh₂-"]
 topics: []
 ---

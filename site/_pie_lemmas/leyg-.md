@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to jump around"], ["similar, like", "image, likeness"]]
+definitions: ["to jump around", "similar", "like", "image", "likeness"]
 topics: []
 ---

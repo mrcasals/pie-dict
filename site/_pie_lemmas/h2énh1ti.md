@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root present of the root *h₂enh₁-."]
 markers: []
 synonyms: []
-definitions: [["to breathe"]]
+definitions: ["to breathe"]
 topics: ["ine-pro:Bodily functions"]
 ---

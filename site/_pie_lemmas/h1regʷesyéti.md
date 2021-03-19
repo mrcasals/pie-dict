@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *h₁régʷos +‎ *-yéti."]
 markers: []
 synonyms: []
-definitions: [["to be getting dark"]]
+definitions: ["to be getting dark"]
 topics: ["ine-pro:Light"]
 ---

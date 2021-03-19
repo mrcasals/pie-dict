@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["Forms nouns from verbs."]]
+definitions: ["Forms nouns from verbs."]
 topics: []
 ---

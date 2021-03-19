@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: []
 synonyms: []
-definitions: [["ant"]]
+definitions: ["ant"]
 topics: ["ine-pro:Ants"]
 ---

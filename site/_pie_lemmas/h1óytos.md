@@ -6,6 +6,6 @@ klass: noun
 etymology: ["Usually thought to be from the o-grade of *h₁ey- (“to go”)."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["oath"]]
+definitions: ["oath"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to be warm, be hot"]]
+definitions: ["to be warm", "be hot"]
 topics: []
 ---

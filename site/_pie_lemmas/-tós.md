@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: []
 synonyms: ["*-nós"]
-definitions: [["Creates verbal adjectives from verb stems."]]
+definitions: ["Creates verbal adjectives from verb stems."]
 topics: []
 ---

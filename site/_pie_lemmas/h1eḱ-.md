@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["horse", "swift?"]]
+definitions: ["horse", "swift?"]
 topics: []
 ---

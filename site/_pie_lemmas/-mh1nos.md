@@ -6,6 +6,6 @@ klass: suffix
 etymology: []
 markers: []
 synonyms: []
-definitions: [["forms the middle participle"]]
+definitions: ["forms the middle participle"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *pnew- +‎ *-mn̥."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["breath"]]
+definitions: ["breath"]
 topics: ["ine-pro:Bodily functions", "ine-pro:Air"]
 ---

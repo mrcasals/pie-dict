@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to melt", "to flow, stream"], ["Alternative form of *steh₂-"]]
+definitions: ["to melt", "to flow", "stream", "Alternative form of *steh₂-"]
 topics: []
 ---

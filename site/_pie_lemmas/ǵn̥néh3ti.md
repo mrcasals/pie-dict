@@ -6,6 +6,6 @@ klass: verb
 etymology: ["From *ǵneh₃- +‎ *-né-."]
 markers: []
 synonyms: []
-definitions: [["to know, recognize"]]
+definitions: ["to know", "recognize"]
 topics: ["ine-pro:Thinking"]
 ---

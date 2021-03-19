@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to creep, crawl"]]
+definitions: ["to creep", "crawl"]
 topics: []
 ---

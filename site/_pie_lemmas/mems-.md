@@ -6,6 +6,6 @@ klass: root
 etymology: ["Perhaps from *me-ms-, reduplicated form of *mes-."]
 markers: []
 synonyms: []
-definitions: [["flesh, meat"]]
+definitions: ["flesh", "meat"]
 topics: []
 ---

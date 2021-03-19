@@ -6,6 +6,6 @@ klass: root
 etymology: ["Extended form of *ten-."]
 markers: []
 synonyms: []
-definitions: [["to stretch"]]
+definitions: ["to stretch"]
 topics: []
 ---

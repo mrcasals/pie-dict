@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to hit, to strike"]]
+definitions: ["to hit", "to strike"]
 topics: []
 ---

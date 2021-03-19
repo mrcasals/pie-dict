@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to go, to walk"]]
+definitions: ["to go", "to walk"]
 topics: []
 ---

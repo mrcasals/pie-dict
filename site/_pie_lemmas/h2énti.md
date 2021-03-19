@@ -6,6 +6,6 @@ klass: adverb
 etymology: ["Locative singular case of the root noun *h₂énts (“forehead, front”)."]
 markers: []
 synonyms: []
-definitions: [["opposite", "near", "in front", "before"]]
+definitions: ["opposite", "near", "in front", "before"]
 topics: []
 ---

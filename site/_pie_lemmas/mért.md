@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic root aorist of *mer-."]
 markers: []
 synonyms: []
-definitions: [["to die"]]
+definitions: ["to die"]
 topics: ["ine-pro:Death"]
 ---

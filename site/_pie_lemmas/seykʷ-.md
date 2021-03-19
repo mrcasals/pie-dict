@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to moisten", "to filter"]]
+definitions: ["to moisten", "to filter"]
 topics: []
 ---

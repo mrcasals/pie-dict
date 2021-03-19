@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: ["*trem-", "*trep-"]
-definitions: [["to tremble (with fear)"]]
+definitions: ["to tremble (with fear)"]
 topics: []
 ---

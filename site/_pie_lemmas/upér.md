@@ -6,6 +6,6 @@ klass: adverb
 etymology: ["Same root of *upó."]
 markers: []
 synonyms: []
-definitions: [["above", "over"]]
+definitions: ["above", "over"]
 topics: []
 ---

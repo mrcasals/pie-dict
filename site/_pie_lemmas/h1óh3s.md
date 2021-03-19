@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From earlier acrostatic *h₁óh₃-s ~ *h₁éh₃-s."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["mouth"]]
+definitions: ["mouth"]
 topics: ["ine-pro:Body parts", "ine-pro:Face"]
 ---

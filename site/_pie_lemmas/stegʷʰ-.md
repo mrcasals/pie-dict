@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to enlace"]]
+definitions: ["to enlace"]
 topics: []
 ---

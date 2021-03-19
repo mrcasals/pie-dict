@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *h₂eḱ- +‎ *-rós."]
 markers: []
 synonyms: []
-definitions: [["sharp"]]
+definitions: ["sharp"]
 topics: []
 ---

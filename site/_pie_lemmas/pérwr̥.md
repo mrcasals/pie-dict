@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: []
 synonyms: []
-definitions: [["ford, crossing"], ["rock", "mountain"]]
+definitions: ["ford", "crossing", "rock", "mountain"]
 topics: ["ine-pro:Road transport", "ine-pro:Geology"]
 ---

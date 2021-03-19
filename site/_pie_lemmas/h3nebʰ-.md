@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["hub", "navel"]]
+definitions: ["hub", "navel"]
 topics: []
 ---

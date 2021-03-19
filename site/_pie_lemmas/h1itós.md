@@ -6,6 +6,6 @@ klass: adjective
 etymology: ["From *h₁ey- +‎ *-tós."]
 markers: []
 synonyms: []
-definitions: [["passable"]]
+definitions: ["passable"]
 topics: []
 ---

@@ -6,6 +6,6 @@ klass: adverb
 etymology: []
 markers: []
 synonyms: []
-definitions: [["now", "well (as an interjection)", "and"]]
+definitions: ["now", "well (as an interjection)", "and"]
 topics: []
 ---

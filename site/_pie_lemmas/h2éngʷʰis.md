@@ -6,6 +6,6 @@ klass: noun
 etymology: []
 markers: [["m", "masculine gender"]]
 synonyms: ["*h₁ógʷʰis", "*(s)néHtr̥"]
-definitions: [["snake"]]
+definitions: ["snake"]
 topics: ["ine-pro:Snakes"]
 ---

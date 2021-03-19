@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to work, toil, make", "ability, force"]]
+definitions: ["to work", "toil", "make", "ability", "force"]
 topics: []
 ---

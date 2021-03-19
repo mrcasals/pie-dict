@@ -6,6 +6,6 @@ klass: root
 etymology: ["Reanalyzed root of *h₂er- (“to join; to prepare”) +‎ *-éh₁ti."]
 markers: []
 synonyms: []
-definitions: [["to think, reason", "to arrange"]]
+definitions: ["to think", "reason", "to arrange"]
 topics: []
 ---

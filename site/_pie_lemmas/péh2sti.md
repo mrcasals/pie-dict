@@ -6,6 +6,6 @@ klass: verb
 etymology: ["Athematic s-extended root present of *peh₂- (“to protect”)."]
 markers: []
 synonyms: []
-definitions: [["to guard, to protect", "to shepherd"]]
+definitions: ["to guard", "to protect", "to shepherd"]
 topics: []
 ---

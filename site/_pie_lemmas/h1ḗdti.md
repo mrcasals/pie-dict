@@ -6,6 +6,6 @@ klass: verb
 etymology: []
 markers: []
 synonyms: []
-definitions: [["alternative reconstruction of *h₁édti"]]
+definitions: ["alternative reconstruction of *h₁édti"]
 topics: []
 ---

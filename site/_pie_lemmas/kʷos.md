@@ -6,6 +6,6 @@ klass: determiner
 etymology: ["From *kʷ-."]
 markers: []
 synonyms: []
-definitions: [["See *kʷis."]]
+definitions: ["See *kʷis."]
 topics: []
 ---

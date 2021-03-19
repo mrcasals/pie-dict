@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to bloom"]]
+definitions: ["to bloom"]
 topics: []
 ---

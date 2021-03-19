@@ -6,6 +6,6 @@ klass: adverb
 etymology: []
 markers: []
 synonyms: []
-definitions: [["in"]]
+definitions: ["in"]
 topics: []
 ---

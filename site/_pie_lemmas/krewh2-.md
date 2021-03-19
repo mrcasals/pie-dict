@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: ["*h₁ésh₂r̥"]
-definitions: [["blood outside the body (as of a wound)"]]
+definitions: ["blood outside the body (as of a wound)"]
 topics: []
 ---

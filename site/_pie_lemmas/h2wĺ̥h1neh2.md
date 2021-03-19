@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *h₂welh₁- +‎ *-néh₂."]
 markers: [["f", "feminine gender"]]
 synonyms: []
-definitions: [["wool"]]
+definitions: ["wool"]
 topics: ["ine-pro:Fibers"]
 ---

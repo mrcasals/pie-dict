@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to crush, disperse", "to disintegrate"]]
+definitions: ["to crush", "disperse", "to disintegrate"]
 topics: []
 ---

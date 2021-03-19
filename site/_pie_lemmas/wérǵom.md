@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *werǵ- +‎ *-om."]
 markers: [["n", "neuter gender"]]
 synonyms: []
-definitions: [["work"]]
+definitions: ["work"]
 topics: []
 ---

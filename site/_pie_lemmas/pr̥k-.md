@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to fear"]]
+definitions: ["to fear"]
 topics: []
 ---

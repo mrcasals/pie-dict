@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to compel, force", "to trust"]]
+definitions: ["to compel", "force", "to trust"]
 topics: []
 ---

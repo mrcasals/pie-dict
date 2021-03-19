@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to safeguard, to protect", "to preserve"]]
+definitions: ["to safeguard", "to protect", "to preserve"]
 topics: []
 ---

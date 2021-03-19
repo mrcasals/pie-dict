@@ -6,6 +6,6 @@ klass: verb
 etymology: []
 markers: []
 synonyms: []
-definitions: [["alternative reconstruction of *píph₃eti"]]
+definitions: ["alternative reconstruction of *píph₃eti"]
 topics: []
 ---

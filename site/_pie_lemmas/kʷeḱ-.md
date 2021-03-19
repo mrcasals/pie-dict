@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to see", "to look"]]
+definitions: ["to see", "to look"]
 topics: []
 ---

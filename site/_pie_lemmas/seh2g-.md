@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to seek out"]]
+definitions: ["to seek out"]
 topics: []
 ---

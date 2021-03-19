@@ -6,6 +6,6 @@ klass: noun
 etymology: ["From *dʰewh₂- (“to smoke”) +‎ *-mós."]
 markers: [["m", "masculine gender"]]
 synonyms: []
-definitions: [["smoke"]]
+definitions: ["smoke"]
 topics: ["ine-pro:Combustion"]
 ---

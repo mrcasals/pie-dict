@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to improve, make better"]]
+definitions: ["to improve", "make better"]
 topics: []
 ---

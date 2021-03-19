@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to flourish", "green, yellow"]]
+definitions: ["to flourish", "green", "yellow"]
 topics: []
 ---

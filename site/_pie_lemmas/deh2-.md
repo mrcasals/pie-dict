@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to share, divide"]]
+definitions: ["to share", "divide"]
 topics: []
 ---

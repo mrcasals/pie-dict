@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to go, to proceed", "to pass, to traverse"]]
+definitions: ["to go", "to proceed", "to pass", "to traverse"]
 topics: []
 ---

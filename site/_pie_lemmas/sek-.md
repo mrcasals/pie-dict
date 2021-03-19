@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to cut, cut off, sever"]]
+definitions: ["to cut", "cut off", "sever"]
 topics: []
 ---

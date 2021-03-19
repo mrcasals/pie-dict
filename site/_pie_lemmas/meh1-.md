@@ -6,6 +6,6 @@ klass: root
 etymology: []
 markers: []
 synonyms: []
-definitions: [["to measure"]]
+definitions: ["to measure"]
 topics: []
 ---
