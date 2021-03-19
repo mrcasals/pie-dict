@@ -12,6 +12,9 @@ layout: home
 {% endfor %}
 </div>
 
+<input class="w-full bg-gray-100 text-black border border-gray-200 rounded py-3 px-4 mb-3" type="text" id="search-input" placeholder="Search contents..">
+<ul id="results-container"></ul>
+
 {% for group in groups %}
   <h2 id="letter-{{ group[0] | downcase }}" class="group">
     <a href="#letter-{{ group[0] | downcase }}" class="absolute opacity-0 group-hover:opacity-100" style="text-decoration: none;margin-left:-1em;padding-right:0.5em;box-shadow:none;color:#a1a1aa">#</a>
@@ -24,3 +27,11 @@ layout: home
   {% endfor %}
   </ul>
 {% endfor %}
+
+<script>
+var sjs = SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json'
+})
+</script>
