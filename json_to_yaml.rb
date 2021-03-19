@@ -14,7 +14,7 @@ Dir["data/*"].each do |json_file_name|
     f.puts "etymology: #{lemma.etymology}"
     f.puts "markers: #{lemma.markers.to_a}"
     f.puts "synonyms: #{lemma.synonyms}"
-    f.puts "definitions: #{lemma.definitions}"
+    f.puts "definitions: #{lemma.clean_definitions}"
     f.puts "topics: #{lemma.topics}"
     f.puts "---"
   end

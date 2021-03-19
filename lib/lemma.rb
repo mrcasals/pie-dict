@@ -51,4 +51,16 @@ class Lemma
       .gsub("₃", "3")
       .gsub("₄", "4")
   end
+
+  def clean_definitions
+    definitions.flatten.map do |definition|
+      definition
+        .gsub("\n", " ")
+        .gsub(";", ",")
+        .gsub(/ Synonym.*/, "")
+        .gsub(/ Antonym.*/, "")
+        .strip
+        .split(", ")
+    end.flatten
+  end
 end
