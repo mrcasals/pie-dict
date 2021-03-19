@@ -5,7 +5,7 @@ layout: home
 <h2>{{ page.title }}</h2>
 
 {% for element in page.etymology %}
-<p><em>{{element}}</em><p>
+<p><em>{{element}}</em></p>
 {% endfor %}
 
 <h3>
@@ -22,3 +22,7 @@ layout: home
 {% endfor %}
 {% endfor %}
 </ul>
+
+{% assign clean_title = page.title | remove: "*" %}
+{% assign url = "https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/" | append: clean_title %}
+<small><em>Data extracted from <a href="{{ url }}">{{ url }}</a></em></small>
